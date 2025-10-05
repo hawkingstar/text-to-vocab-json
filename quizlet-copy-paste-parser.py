@@ -8,7 +8,11 @@ def txt_to_json(input_file, output_file):
     entries = []
     
     with open(input_file, "r", encoding="utf-8") as f:
-        lines = [line.strip() for line in f if line.strip()]  # strip and remove empties
+        lines = [
+            line.strip()
+            for line in f
+            if line.strip() and line.strip().upper() != "ADVERTISING"
+        ]  # strip and remove empties and ADVERTISING lines
 
     #right now i'm using the format from the vocab google doc.
     for i in range(0, len(lines), 2):
