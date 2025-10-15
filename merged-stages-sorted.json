@@ -1,0 +1,4907 @@
+[
+  {
+    "latin": "--, sui, sibi, se, se",
+    "english": "himself, herself, itself, themselves",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "-que (enclitic)",
+    "english": "and",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "-ve",
+    "english": "or",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "a, ab (prep. + abl. )",
+    "english": "from, away from",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "abeo, abire, abii, abitum",
+    "english": "to go away",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "absum, abesse, afui, afuturus",
+    "english": "to be away, to be absent",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "accidō, accidere, accidī, -",
+    "english": "to fall upon, happen, alight, occur",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "accipio, accipere, accepi, acceptus",
+    "english": "to accept, to receive",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ad (+acc)",
+    "english": "to, toward",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "adeo, adire, adivi(ii), aditus",
+    "english": "to go up to, to approach",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "adeptus, adepta, adeptum",
+    "english": "having received, having obtained",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "adiuvō, adiuvāre, adiūvī",
+    "english": "help",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "adloquor, adloqui, adlocutus sum",
+    "english": "to speak to, to address",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "administrō, administrāre, administrāvī",
+    "english": "manage",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "adsum adesse, adfui, adfuturus",
+    "english": "to be present",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "advenio, advenire, adveni, adventus/a/um (ad + venio)",
+    "english": "to arrive",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "adversus (+acc.)",
+    "english": "against",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "aedificium, aedificii (aedifici), n.",
+    "english": "building",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "aedifico, aedificare, aedificavi, aedificatus/a/um",
+    "english": "to build",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "aeger, aegra, aegrum",
+    "english": "sick, ill",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "aequor, aequoris, n.",
+    "english": "sea",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "aestas, aestatis, f.",
+    "english": "summer",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "aetas, aetatis, f.",
+    "english": "age, time",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "affero, affererre, attuli, adlatum",
+    "english": "to bring, report",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "affirmo, affirmare, affirmavi, affirmatum",
+    "english": "to declare",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "after",
+    "english": "revenio, revenire, reveni, reventus",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ager, agri, m.",
+    "english": "field",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "aggredior, aggredi, aggressus sum",
+    "english": "to attack, to make an attempt on",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "agito, agitare, agitavi, agitatus",
+    "english": "to chase, to hunt",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "agmen, agminis, n.",
+    "english": "column (of people)",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "agnosco, agnoscere, agnovi, agnotus",
+    "english": "to recognize",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ago, agere, egi, actus/a/um",
+    "english": "to do",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "agricola, agricolae, m.",
+    "english": "farmer",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ait",
+    "english": "says, said",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "aliquis (pronoun)",
+    "english": "someone, anyone, a few, some, any",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "aliquis, aliquid",
+    "english": "someone, something",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "alius, alia, aliud",
+    "english": "other, another",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "alter, altera, alterum",
+    "english": "the other, the second",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ambulo, ambulare, ambulavi, ambulatus",
+    "english": "to walk",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "amicitia, amicitiae, f.",
+    "english": "friendship",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "amicus, -ī, M",
+    "english": "friend",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "amitto, amittere, amisi, amissus",
+    "english": "to lose",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "amo, amare, amavi, amatus",
+    "english": "to love, to like",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "amor, amōris, m.",
+    "english": "love",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "amplissimus, amplissima, amplissimum",
+    "english": "very great",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "amplius",
+    "english": "more fully, at greater length",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "an",
+    "english": "or",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ancilla, -ae, F",
+    "english": "slave-girl, slave-woman",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "animadverto, animadvertere, animadverti, animadversus",
+    "english": "to notice, to take notice of",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "animus, animi, m.",
+    "english": "spirit, soul, mind",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "annus, annī, m.",
+    "english": "year",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "anulus, -ī, M",
+    "english": "ring",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "aperiō, aperīre, aperuī, apertus",
+    "english": "to open",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "appropinquo, appropinquare, appropinquavi, appropinquatus (+ dative)",
+    "english": "to approach, to come near to",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "aptus, apta, aptum",
+    "english": "suitable",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "apud + acc.",
+    "english": "among, at the house of",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "aqua, -ae, f.",
+    "english": "water",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ara, arae, f.",
+    "english": "altar",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "arbor, arboris, f.",
+    "english": "tree",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "arcesso, arcessere, arcessivi, arcessitus",
+    "english": "to summon, to send for",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "arguo, arguere, argui, argutum",
+    "english": "to declare, show, prove",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "arma, armorum, n., pl.",
+    "english": "arms, weapons",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ars, artis, f.",
+    "english": "art",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "aspicio, aspicere, aspexi, aspectum",
+    "english": "to look towards, to catch sight of",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "assidue",
+    "english": "continually, normally, usually",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "atrium, -ī, N",
+    "english": "atrium, reception hall",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "attonitus/a/um",
+    "english": "astonished",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "auctōritās, auctōritātis, f.",
+    "english": "authority",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "audeo, audere, ausus sum",
+    "english": "to dare",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "audio, audire, audivi, auditus",
+    "english": "to hear",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "audāx, audācis",
+    "english": "bold",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "auferō, auferre, abstulī, ablātus",
+    "english": "take away, steal",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "aula, -ae, f.",
+    "english": "palace",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "aura, aurae, f.",
+    "english": "breeze, air",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "auris, auris, f.",
+    "english": "ear",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "aurum, auri, n.",
+    "english": "gold",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "aut",
+    "english": "or",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "autem (conj)",
+    "english": "but, however",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "auxilio esse",
+    "english": "to be a help, be helpful",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "auxilium, -i, n.",
+    "english": "help",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "avarus, i, m.",
+    "english": "miser",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "avidē",
+    "english": "eagerly",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "beatus, beata, beatum",
+    "english": "prosperous, happy",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "bellum gerere",
+    "english": "wage war, campaign",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "bellum, bellī, n.",
+    "english": "war",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "bene",
+    "english": "well",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "benignitas, benignitatis, f.",
+    "english": "act of kindness, favor",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "benignus, benigna, benignum",
+    "english": "kind",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "bibo, -ere, bibi",
+    "english": "to drink",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "bona, bonorum, n. pl",
+    "english": "goods, property",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "bonus, a , um",
+    "english": "good",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "bracchium, bracchii, n.",
+    "english": "arm",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "cado, cadere, cecidi, casus",
+    "english": "to fall",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "caecus, caeca, caecum",
+    "english": "blind, invisible, unseen",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "caedes, caedis, f.",
+    "english": "murder, slaughter",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "caedo, caedere, cecidi, caesus",
+    "english": "to kill",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "caelum, caelī, n.",
+    "english": "sky",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "callidus, callida, callidum",
+    "english": "clever, smart",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "campus, campi, m.",
+    "english": "plain",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "candidus, candida, candidtum",
+    "english": "bright, shining",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "cando, condere, condidi, conditum",
+    "english": "to hide, to found",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "canis, canis, M/F",
+    "english": "dog",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "canto, cantare, cantavi, cantatus/a/um",
+    "english": "to sing",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "capilli, capillorum, m., pl.",
+    "english": "hair",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "capio, capere, cepi, captus",
+    "english": "to take",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "caput, capitis, n.",
+    "english": "head",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "carcer, carceris, m.",
+    "english": "prison",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "careo, carere, carui, caritum (+ ABL)",
+    "english": "to lack, to be without",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "carpo, carpere, carpsi, carptum",
+    "english": "to pluck, to seize, to hastem upon",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "carus, cara -um",
+    "english": "dear",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "castigo, castigare, castigavi, castigatus",
+    "english": "to scold, to nag",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "castra, castrōrum N. (plural)",
+    "english": "military camp, fort",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "causa, causae, f.",
+    "english": "reason, cause",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "caveo, cavere, cavi, cautus",
+    "english": "to beware",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "celebro, celebrare, celebravi, celebratus",
+    "english": "to celebrate",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "celeriter",
+    "english": "quickly",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "cena, -ae, F",
+    "english": "dinner",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ceno, cenare, cenavi, cenatus",
+    "english": "to dine, eat dinner",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "centurio, centurionis, m.",
+    "english": "centurion",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "cera, -ae, F",
+    "english": "wax, wax tablet",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "certus, certa, certum",
+    "english": "certain, infallible",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ceter, cetera, ceterum",
+    "english": "the other, the rest (pl.)",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "cibus, -ī, M",
+    "english": "food",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "cinis, cineris, m./f",
+    "english": "ash",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "circum (+ACC)",
+    "english": "around",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "circumspecto, -are, -avi, -atus/a/um",
+    "english": "to look around",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "civis, civis, m",
+    "english": "citizen",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "clam",
+    "english": "secretly, in private",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "clamo, -are, -avi, -atus/a/um",
+    "english": "to shout",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "clamor, clamoris, m.",
+    "english": "shouting, noise",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "clarus, clara, clarum",
+    "english": "famous",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "claudo, claudere, clausi, clausus/a/um",
+    "english": "to shut, block",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "coepio, coepere, coepi, coeptus",
+    "english": "to begin",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "cogito, cogitare, cogitavi, cogitatus",
+    "english": "to think, to consider",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "cognosco, cognoscere, cognovi, cognitus",
+    "english": "to get to know, to find out",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "cogō, cogere, coegī, coactus",
+    "english": "to force, compel, collect, gather",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "colloco, collocare, collocavi, collocatus",
+    "english": "to place, to put",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "colloquium, colloquiī, n.",
+    "english": "talk",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "commendo, commendare, commendavi, commendatus",
+    "english": "to recommend",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "commodo, commodore, commodavi, commodatum",
+    "english": "to give, to supply",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "commodus/a/um",
+    "english": "convenient",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "commōtus, commōta, commōtum",
+    "english": "moved, excited, upset",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "comparo, comparare, comparavi, comparatus",
+    "english": "to obtain",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "compleo, complere, complevi, completus",
+    "english": "to fill",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "complures, complures, complura",
+    "english": "several",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "comprehendō, comprehendere, comprehendī, comprehēnsus",
+    "english": "to arrest",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "confectus, confecta, confectum",
+    "english": "worn out, exhausted, overcome",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "conficio, conficere, confeci, confectus",
+    "english": "to finish",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "coniungo, coniungere, coniunxi, coniunctum",
+    "english": "to join",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "coniunx, coniugis, m. or f.",
+    "english": "wife, spouse",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "coniuratio, coniurationis, f.",
+    "english": "plot",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "consentio, consentire, consensi, consensus/a/um (cum + sentio)",
+    "english": "to agree",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "consilium, -i, n.",
+    "english": "plan, idea",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "consisto, consistere, constiti, constitus",
+    "english": "to stand one's ground, to stand firm",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "conspicio, conspicere, conspexi, conspectus",
+    "english": "to catch sight of",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "consuetudo, consuetudinis, f.",
+    "english": "custom",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "consul, consulis, m.",
+    "english": "consul (senior magistrate)",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "consumo, consumere, consumpsi, consumptus",
+    "english": "to eat",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "contendo, contendere, contendi, contentus",
+    "english": "to struggle, hasten",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "contentus, contenta, contentum",
+    "english": "satisfied",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "convenio, convenire, conveni, conventus",
+    "english": "to gather, to meet",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "copiae, copiarum, f., pl.",
+    "english": "troops, forces",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "coquo, -ere, coxi, coctus/a/um",
+    "english": "to cook",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "coquus, -ī, M",
+    "english": "cook",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "cotidie",
+    "english": "every day",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "credo, credere, credidi, creditus (+ dative)",
+    "english": "to trust, to believe, to have faith in",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "credō, credere, credidī, creditus (+ accusative or dative)",
+    "english": "to believe, trust",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "cresco, crescere, crevi, cretum",
+    "english": "to grow",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "crimen, criminis, n.",
+    "english": "charge",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "crudelis, crudelis, crudele",
+    "english": "cruel",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "cubiculum, -ī, N",
+    "english": "bedroom",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "culina, -ae, F",
+    "english": "kitchen",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "culpa, culpae, f.",
+    "english": "blame, fault",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "culpo, culpare, culpavi, culpatus",
+    "english": "to blame",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "cum + ablative",
+    "english": "with",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "cum",
+    "english": "when",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "cupido, cupidinis, f.",
+    "english": "desire",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "cupio, cupire, cupivi, cupitus",
+    "english": "to want",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "cur",
+    "english": "why",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "curae esse",
+    "english": "to be a matter of concern",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "curia, curiae, f.",
+    "english": "senate-house",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "curo, curare, curavi, curatus",
+    "english": "to look after",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "curro, currere, cucurri, cursurus,",
+    "english": "to run",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "custodio, custodire, custodivi, custoditus",
+    "english": "to guard",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "custos, custodis, m.",
+    "english": "guard",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "cēdo, cedere, cessī",
+    "english": "give in, give way",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "cēlō, cēlāre, cēlāvI, cēlātus",
+    "english": "hide",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "cōnfīdō, cōnfīdere (+DAT)",
+    "english": "trust",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "cōnscendo, cōnscendere, cōnscendī, cōnscensus",
+    "english": "to climb on",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "cōnspicātus, cōnspicāta, cōnspicātum",
+    "english": "having caught sight of",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "cūra, cūrae, f.",
+    "english": "care",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "de",
+    "english": "down from, about",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "dea, deae, f.",
+    "english": "goddess",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "debeo, debere, debui, debitus/a/um",
+    "english": "to owe, ought",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "decem",
+    "english": "ten",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "decido, decidere, decidi (de + cado)",
+    "english": "to fall down",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "decorus/a/um",
+    "english": "right, proper",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "deinde",
+    "english": "then",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "delecto, delectare, delectavi, delectatus/a/um",
+    "english": "to delight",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "deleo, delere, delevi, deletus/a/um",
+    "english": "to destroy",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "demonstro, demonstrare, demonstravi, demonstratus",
+    "english": "to point out, to show",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "demum",
+    "english": "at last",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "denique",
+    "english": "at last, finally",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "dens, dentis, m.",
+    "english": "tooth",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "densus, densa, densum",
+    "english": "thick",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "deponō, deponere, deposuī, depositus",
+    "english": "to put down, lay aside, give up, resign, deposit",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "derideo, deridere, derisi, derisus/a/um (de + rideo)",
+    "english": "to mock, make fun of",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "desiderium, desiderii, n.",
+    "english": "loss, longing",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "despero, desperare, desperavi, desperatus",
+    "english": "to despair",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "desum, deesse, defui",
+    "english": "to be lacking, to be unavailable",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "deus, -i, m. (dei, di - nom. pl.)",
+    "english": "god",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "dextra, dextrae, f.",
+    "english": "right hand",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "dico, dicere, dixi, dictus/a/um",
+    "english": "to say",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "dies natalis, m",
+    "english": "birthday",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "dies, diei, m",
+    "english": "day",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "difficilis, -e",
+    "english": "difficult",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "dignitas, dignitatis F.",
+    "english": "importance, prestige, rank, worth, standing, esteem",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "dignus, digna, dignum",
+    "english": "worthy, appropriate",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "diligenter",
+    "english": "carefully",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "diligentia, diligentiae F.",
+    "english": "industry, diligence, care, hard work",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "dimitto, dimittere, dimisi, dimissus/a/um (de + mitto)",
+    "english": "to send away, dismiss",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "discedo, discedere, discessi, discessus",
+    "english": "to depart, to leave",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "discipulus, discipuli, m.",
+    "english": "student, pupil",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "disco, discere, didici",
+    "english": "to learn",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "discrimen, discriminis, n.",
+    "english": "dividing line, crisis",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "diu",
+    "english": "for a long time",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "diversus, diversa, diversum",
+    "english": "different",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "divus, diva, divum",
+    "english": "divine",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "do, dare, dedi, datus",
+    "english": "to give",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "doceō, docēre, docuī, doctus",
+    "english": "teach",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "doctus, docta, doctum",
+    "english": "learned, clever",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "domina, -ae, f.",
+    "english": "mistress",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "dominus, -ī, M",
+    "english": "master",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "domus, domus, f.",
+    "english": "home",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "donec",
+    "english": "until",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "dono, donare, donavi, donatus",
+    "english": "to give",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "donum, -i, n.",
+    "english": "gift",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "dormio, dormīre, dormivi, dormitus/a/um",
+    "english": "to sleep",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "dubito, dubitare, dubitavi, dubitatus",
+    "english": "to hesitate, to doubt",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "duco, ducere, duxi, ductus",
+    "english": "to lead",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "dulcis, dulcis, dulce",
+    "english": "sweet",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "duo, duae, duo",
+    "english": "two",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "dëiciō, dēicere, dēiēcI, dēiectus",
+    "english": "throw down",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "dēcipiō, dēcipere, dēcēpī, dēceptus",
+    "english": "deceive, trick",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "dēscendō, dēscendere, dēscendī, dēscensus",
+    "english": "to go down",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "dēserō, dēserere, dēseruī, dēsertus",
+    "english": "to desert",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "dīrus, dīra, dīrum",
+    "english": "dreadful, awful",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "dūrus, dūra, dūrum",
+    "english": "harsh, hard",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "e, ex (+ abl)",
+    "english": "out of, from",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ecce!",
+    "english": "see! look!",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "effero, efferre, extuli, elatum",
+    "english": "to carry out, to carry away",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "efficiō, efficere, effēcī, effectus",
+    "english": "carry out, accomplish",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "effigies, effigiei, f.",
+    "english": "image, statue",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "effugio, effugere, effugi (ex + fugio)",
+    "english": "to escape",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ego",
+    "english": "I",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "egregius, egregia, egregium",
+    "english": "outstanding, excellent",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "eheu!",
+    "english": "alas! oh dear!",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "elatus, elata, elatum",
+    "english": "excited, carried away",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "emitto, emittere, emisi, emisus",
+    "english": "to throw, to send out",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "emo, emere, emi, emptus",
+    "english": "to buy",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "enim",
+    "english": "for",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ensis, ensis, m.",
+    "english": "sword",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "eo, ire, ivi/ii, itus",
+    "english": "to go",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "epistula, epistulae, f",
+    "english": "letter",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "eques, equitis, m.",
+    "english": "horseman",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "equus, -i, m.",
+    "english": "horse",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ergo",
+    "english": "therefore",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "eripio, eripere, eripui, ereptus",
+    "english": "to rescue, to snatch away",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "errō, errāre, errāvī",
+    "english": "make a mistake",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "et",
+    "english": "and",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "etiam",
+    "english": "even, also",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "etsi",
+    "english": "although, even if",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "euge!",
+    "english": "hurrah",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "eum",
+    "english": "him",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "exanimatus, exanimata, exanimatum",
+    "english": "unconscious",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "excito, excitare, excitavi, excitatus/a/um",
+    "english": "to arouse, wake up",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "exclamo, exclamare, exclamavi, exclamatus",
+    "english": "to exclaim",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "exemplum, exempli, n.",
+    "english": "example",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "exeo, exire, exii or exivi, exitus/a/um",
+    "english": "to go out",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "exerceo, exercere, exercui, exercitus",
+    "english": "to exercise",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "exercitus, exercitus, m.",
+    "english": "army",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "exilium, exilii, n.",
+    "english": "exile",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "existimo, existimare, existimavi, existimatum",
+    "english": "to think, to consider",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "explicō, explicāre, explicāvī, explicātus",
+    "english": "to explain, unfold, extend, set forth",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "expono, exponere, exposui, expositum",
+    "english": "to set out, to explain; to unload",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "exsisto, exsistere, exstiti, exstitum",
+    "english": "to appear, to emerge, to stand out",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "exspecto, -are, -avi, -atus/a/um",
+    "english": "to wait for",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "extrahō, extrahere, extrāxI, extractus",
+    "english": "drag out, pull out",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "extremus, extrema, extremum",
+    "english": "farthest",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "faber, fabri, m.",
+    "english": "craftsman",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "fabula, ae f.",
+    "english": "story",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "fabulam agere",
+    "english": "to act in a play",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "facile",
+    "english": "easily",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "facilis, facilis, facile",
+    "english": "easy",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "facio, facere, feci, factus",
+    "english": "to make, do",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "fallo, fallere, fefelli, falsus",
+    "english": "to deceive, to escape notice of, to slip by",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "falsus, falsa, falsum",
+    "english": "false, dishonest",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "fama, famae, f.",
+    "english": "rumor",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "familia, familiae, f.",
+    "english": "household",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "familiaris, -e",
+    "english": "relative, relation",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "fas, n.",
+    "english": "(that which is morally) right, proper",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "fateor, fateri, fassus sum",
+    "english": "to admit, to confess",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "faveo, favere, favi, fautum (+ dative)",
+    "english": "to favor, to support",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "felix, felix, felix (gen. felicis)",
+    "english": "lucky, happy",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "femina, ae f.",
+    "english": "woman",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "fero, fere, tuli, latum",
+    "english": "to bring, to carry",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ferociter",
+    "english": "fiercely",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ferox, ferocis",
+    "english": "fierce",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "fessus/a/um",
+    "english": "tired",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "festino, festinare, festinavi, festinatus",
+    "english": "to hurry",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "fidelis, -e",
+    "english": "faithful, loyal",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "fidelis, fidelis, fidele (adj.)",
+    "english": "faithful, loyal",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "fidēs, fideī, f.",
+    "english": "loyalty, trustworthiness",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "filia, filiae, f.",
+    "english": "daughter",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "fingo, fingere, finxi, fictum",
+    "english": "to pretend",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "finis, finis, m.",
+    "english": "end",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "fio, feri, factus sum",
+    "english": "to become, to be made, to happen",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "flamma, flammae, f",
+    "english": "flame",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "flecto, flectere, flexi, flexum",
+    "english": "to bend, to turn",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "fleo, flere, flevi, fletum",
+    "english": "to weep",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "floreo, florere, florui",
+    "english": "flourish",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "flos, floris, m.",
+    "english": "flower",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "fluctus, fluctus, m.",
+    "english": "wave",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "fluo, fluere, fluxi, fluxus",
+    "english": "to flow",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "flūmen, flūminis, n.",
+    "english": "river",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "foedus, foeda, foedum",
+    "english": "foul, horrible",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "foedus, foederis, n.",
+    "english": "treaty, agreement, bargain",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "for a short time",
+    "english": "post",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "fortasse",
+    "english": "perhaps",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "forte",
+    "english": "by chance",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "fortis, fortis, forte",
+    "english": "brave, strong",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "fortiter",
+    "english": "bravely",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "forum, -ī, N",
+    "english": "forum, business center",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "fragor, fragoris, m.",
+    "english": "crash",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "frango, frangere, fregi, fractus/a/um",
+    "english": "to break",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "frater, fratris, m",
+    "english": "brother",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "fraudo, fraudare, fraudavi, fraudatum",
+    "english": "to cheat, to deceive",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "From academics to mental health, NU helps you keep moving forward. NU offers 1:1 counseling & real-life resources tailored to your journey.",
+    "english": "Learn more",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "frustra",
+    "english": "in vain",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "fugio, fugere, fugi, fugitus",
+    "english": "to run away, to flee",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "fundus, fundi,m",
+    "english": "farm",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "fundō, fundere, fūdī, fūsus",
+    "english": "pour",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "fur, furis, m.",
+    "english": "thief",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "furens, furens, furens (genitive = furentis) (adj.)",
+    "english": "furious, in a rage, wild",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "furor, frui, fructus sum (+ abl.)",
+    "english": "to enjoy",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "fōns, fontis, m.",
+    "english": "fountain, spring",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "geminus, gemina, geminum (adj.)",
+    "english": "twin",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "gens, gentis, f",
+    "english": "family",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "genus, generis, n.",
+    "english": "race",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "gerō, gerrere, gessī, gestus",
+    "english": "wear",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "glaudius, i, m.",
+    "english": "sword",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "gloria, gloriae, f.",
+    "english": "glory, fame",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "gratias ago",
+    "english": "I thank, I give thanks",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "gratus, grata, gratum",
+    "english": "acceptable, pleasing",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "gravis, gravis, grave",
+    "english": "heavy, serious",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "graviter",
+    "english": "seriously",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "gusto, -are, -avi, -atus/a/um",
+    "english": "to taste",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "habeo, -ēre, habui, habitus/a/um",
+    "english": "to have, hold",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "habito, habitare, habitavi, habitatus",
+    "english": "to live",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "haereo, haerere, haesi, haesus",
+    "english": "to stick, to cling",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "haesitō, haesitāre, haesitāvī, haesitatus",
+    "english": "to hesitate",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "haruspex, haruspicis, m.",
+    "english": "diviner, soothsayer",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "hasta, hastae, f.",
+    "english": "spear",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "heri",
+    "english": "yesterday",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "hic, haec, hoc",
+    "english": "this, these pl",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "hinc",
+    "english": "from here, then, next",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "his/ her",
+    "english": "trado, tradere, tradidi, traditus",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "hodie",
+    "english": "today",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "homo, hominis, m",
+    "english": "person, man",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "honor, honōris, m.",
+    "english": "honor",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "horreum, -i, n.",
+    "english": "barn, granary",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "hortus, -ī, M",
+    "english": "garden",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "hospes, hospitis, m",
+    "english": "guest",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "hostis, hostis, m.",
+    "english": "enemy",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "huc",
+    "english": "here, to this place",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "humī",
+    "english": "on the ground",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "hīc",
+    "english": "here",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "hōra, hōrae, f.",
+    "english": "hour",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "iaceo, iacere, iacui, iacitus",
+    "english": "to lie",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "iaceō, iacēre, iacuī, iacitus",
+    "english": "to lie",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "iacio, iacere, iēcī, iactus",
+    "english": "throw",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "iactō, iactāre, iactāvI, iactātus",
+    "english": "throw",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "iam",
+    "english": "now",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ianua, -ae, F",
+    "english": "door",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ibi",
+    "english": "there",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ideo",
+    "english": "for this reason",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ideo.... quod",
+    "english": "for the reason that, because",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "igitur",
+    "english": "therefore",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ignavus, a, um",
+    "english": "cowardly, lazy",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ignis, ignis, m.",
+    "english": "fire",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ignoro, ignorare, ignoravi, ignoratus",
+    "english": "to not know about",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ignotus, ignota, ignotum",
+    "english": "unknown",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ille, illa, illud// illi, illae, illa",
+    "english": "that, those (pl.)",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "illuc",
+    "english": "there, to that place",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "imago, imaginis, f.",
+    "english": "image, statue, ghost",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "immōtus, immōta, immōtum",
+    "english": "still, motionless",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "impedio, impedire, impedivi, impeditus/a/um",
+    "english": "to delay, hinder",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "imperator, imperatoris, m.",
+    "english": "commander; emperor",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "imperium, imperi(i), n",
+    "english": "empire",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "impetus, impetus, m.",
+    "english": "attack",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "impono, imponere, imposui, impositum",
+    "english": "to put into, to put onto, to impose",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "in (+abl)",
+    "english": "in. on",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "inanis, inanis, inane",
+    "english": "empty, meaningless",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "incendium, incendii, n.",
+    "english": "fire",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "incensus, incensa, incensum",
+    "english": "inflamed, angered",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "incido, incidere, incidi, incisus",
+    "english": "to fall",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "incipiō, incipere, incēpI, inceptus",
+    "english": "begin",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "incito, incitare, incitavi, incitatus",
+    "english": "to urge on, to encourage",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "inde",
+    "english": "then",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "infans, infantis, m",
+    "english": "child, baby",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "infero, inferre, intuli, illatus",
+    "english": "to bring in, to bring on",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "Infēlīx, Infēlīx, Infēlīx, gen. Infēlīcis",
+    "english": "unlucky",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ingens, ingentis",
+    "english": "huge",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ingressus, ingressa, ingressum",
+    "english": "having entered",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "iniciō, inicere, iniēcī, iniectus",
+    "english": "throw in",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "inimicitia, inimicitiae, f.",
+    "english": "enmity, hostility",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "inimicus, inimici, m",
+    "english": "enemy",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "initium, initii, n.",
+    "english": "beginning",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "inquit",
+    "english": "he/she says",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "inspicio, inspicere, inspexi, inspectus",
+    "english": "to look at, to inspect, to examine",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "instituto, instituere, institui, institutum",
+    "english": "to set up, to establish",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "insula, insulae, f.",
+    "english": "island",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "insum, inesse, infui",
+    "english": "to be in, to be inside",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "intellego, intellegere, intellexi, intellectus",
+    "english": "to understand",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "intente",
+    "english": "intently",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "inter + acc.",
+    "english": "between, among",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "intereā",
+    "english": "meanwhile",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "interficio, interficere, interfeci, interfectus/a/um",
+    "english": "to kill",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "interim",
+    "english": "meanwhile",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "interum",
+    "english": "again",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "intervenio, intervenire, interventum",
+    "english": "to come between",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "intra (+ACC.)",
+    "english": "inside",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "intro, -are, -avi, -atus/a/um",
+    "english": "to enter",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "invenio, invenire, inveni, inventus",
+    "english": "to find",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "invideo, invidere, invidi, invisus (+ dat.)",
+    "english": "to envy, to be jealous of",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "invidia, invidiae, f.",
+    "english": "jealousy, envy, unpopularity",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "invito, invitare, invitavi, invitatus",
+    "english": "to invite",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "invitus, invita, invitum",
+    "english": "unwilling",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ipse, ipsa, ipsum",
+    "english": "himself, herself, itself (intensive)",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "irascor, irasci, iratus sum ( + dat.)",
+    "english": "to become angry with",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "iratus/a/um",
+    "english": "angry",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "irrumpo, irrumpere, irrupi, irruptus",
+    "english": "to burst in",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "iste, ista, istud",
+    "english": "that (pejorative)",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ita vero",
+    "english": "yes",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ita",
+    "english": "in this way, so, thus",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "itaque",
+    "english": "and so",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "iter, itineris, n.",
+    "english": "journey",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "iubeō, iubēre, iussī, iussus",
+    "english": "order",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "iudex, iudicis, M",
+    "english": "judge",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "iungo, iungere, iunxi, iunctus",
+    "english": "to join",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ius, iuris, n.",
+    "english": "right, privilege, law",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "iuvenis, iuvenis",
+    "english": "young man",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "iuvo, iuvare, iuvi, iutus",
+    "english": "to help, to assist",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "iuxta (+ACC)",
+    "english": "next to",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "laboro, laborare",
+    "english": "to work",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "lacrima, lacrimae, f.",
+    "english": "tear",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "lacrimo, lacrimare, lacrimavi, lacrimatus",
+    "english": "to cry, weep",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "laetus/a/um",
+    "english": "happy",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "lateō, latēre, latuī, -",
+    "english": "to lie hidden, lurk, escape notice",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "latus, lata, latum",
+    "english": "wide",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "latus, lateris, n.",
+    "english": "side",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "laudo, -are, -avi, -atus/a/um",
+    "english": "to praise",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "lavo, lavare, lavi, lautus/a/um",
+    "english": "to wash",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "Learn more",
+    "english": "paulisper",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "lectus, -i, m.",
+    "english": "couch",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "legiō, legiōnis, f.",
+    "english": "legion",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "lego, legere, legi, lectus",
+    "english": "to read",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "lente",
+    "english": "slowly",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "leo, leonis, M",
+    "english": "lion",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "levis, levis, leve",
+    "english": "light, slight trivial",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "lex, legis, f.",
+    "english": "law",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "libenter",
+    "english": "gladly",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "liber, libri, m",
+    "english": "book",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "liberalis",
+    "english": "generous",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "libero, liberare, liberavi, liberatus",
+    "english": "to free, to set free",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "libertus, liberti, m.",
+    "english": "freedman",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "licet, licere, licuit",
+    "english": "to be allowed",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "limen, liminis, n.",
+    "english": "threshold, doorway",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "lingua, linguae F.",
+    "english": "tongue, language",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "littera, litterae, f.",
+    "english": "letter of the alphabet",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "litterae, litterarum, f., pl.",
+    "english": "letter (correspondence), letters",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "litus, litoris, n.",
+    "english": "shore",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "loco, locare, locavi, locatum",
+    "english": "to place",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "locus, loci, m.",
+    "english": "place",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "locūtus, locūta, locūtum",
+    "english": "having spoken",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "longe",
+    "english": "far, a long way",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "lugeo, lugere, luxi, luctum",
+    "english": "to lament, to mourn",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "lumen, luminis, n.",
+    "english": "light",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "luna, lunae, f.",
+    "english": "moon",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "lēgātus, lēgātī, m.",
+    "english": "commander",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "magis",
+    "english": "more, rather",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "magistratus, magistratus, m.",
+    "english": "elected government official",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "magnopere",
+    "english": "greatly",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "magnus/a/um",
+    "english": "big, large, great",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "malum, mali, n.",
+    "english": "misfortune, evil",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "mandātum, mandātī, n.",
+    "english": "instruction, order",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "mane",
+    "english": "in the morning",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "maneo, manere, mansi, mansurus",
+    "english": "to remain, to stay",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "manus, manus, f.",
+    "english": "hand",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "mare, maris, n.",
+    "english": "sea",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "maritus, -i, m.",
+    "english": "husband",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "maximus, maxima, maximum",
+    "english": "very big, very large, very great",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "maximē",
+    "english": "very greatly, most of all",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "meditor, meditari, meditatus sum",
+    "english": "to consider",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "medius, media, medium",
+    "english": "middle",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "melior, melius (bonus)",
+    "english": "better",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "memini, meminisse",
+    "english": "to remember",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "mendax, mendacis, M",
+    "english": "liar",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "mens, mentis, f.",
+    "english": "mind",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "mensa, -ae, F",
+    "english": "table",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "mensis, mensis, m.",
+    "english": "month",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "mentior, mentiri, mentitus sum",
+    "english": "to lie, to tell a lie",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "mercator, mercatoris, M",
+    "english": "merchant",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "mereo, merere, merui, meritum",
+    "english": "to deserve",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "meritus, merita, meritum",
+    "english": "deserved, well deserved",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "meus, mea, meum",
+    "english": "my, mine",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "mihi licet",
+    "english": "I am allowed",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "miles, militis, m.",
+    "english": "soldier",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "minime!",
+    "english": "no!",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "minimus, minima, minimum",
+    "english": "very little, least",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "minor, minari, minatus sum",
+    "english": "to threaten",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "mirabilis, mirabilis, mirabile",
+    "english": "marvelous, strange, wonderful",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "miror, mirari, miratus sum",
+    "english": "to admire, to wonder at",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "miser, misera, miserum",
+    "english": "miserable, wretched",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "mitto, mittere, misi, missus",
+    "english": "to send",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "modo...modo",
+    "english": "now...now, sometimes...sometimes",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "modus, modī, m.",
+    "english": "manner, way, kind",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "moenia, moenium, n. pl.",
+    "english": "city walls; city",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "mollis, mollis, molle",
+    "english": "soft",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "moneō, monēre, monuī, monitus",
+    "english": "warn, advise",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "mons, montis, m",
+    "english": "mountain",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "morbus, morbī, m.",
+    "english": "illness",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "moror, morari, moratus sum",
+    "english": "to delay",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "mors, mortis, f.",
+    "english": "death",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "mortuus, a , um",
+    "english": "dead",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "mox",
+    "english": "soon",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "mulier, mulieris, f.",
+    "english": "woman",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "multi, multae, multa",
+    "english": "many",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "multitudo, multitudinis, f.",
+    "english": "crowd",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "multus, multa, multum",
+    "english": "much",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "munus, muneris, n.",
+    "english": "gift",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "murus, muri, m",
+    "english": "wall",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "muto, mutare, mutavi, mutatum",
+    "english": "change",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "nam",
+    "english": "for",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "narro, narrare, narravi, narratus",
+    "english": "to tell, relate",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "National University",
+    "english": "AD",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "nauta, -ae, m.",
+    "english": "sailor",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "navigo, navigare, navigavi, navigatus/a/um",
+    "english": "to sail",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "navis, navis, F",
+    "english": "ship",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ne quis, ne quid",
+    "english": "that no one, that nothing",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ne",
+    "english": "that... not, in order that.... not",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "nec (or neque)",
+    "english": "and not, nor",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "nec...nec",
+    "english": "neither...nor",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "necesse",
+    "english": "necessary",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "neco, necare, necavi, necatus",
+    "english": "to kill",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "neglegens, neglegens // neglegens, neglegentis (gen.)",
+    "english": "careless",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "nego, nagare, negavi, negatum",
+    "english": "to deny, to say...not",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "negotium agit",
+    "english": "does business, works",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "negō, negāre, negāvī, negātus",
+    "english": "to deny, say that... not",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "nemo",
+    "english": "no one",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "nemus, nemoris, n.",
+    "english": "groove, glade",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "nepos, nepotis, m.",
+    "english": "grandson, descendant",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "neque ... neque",
+    "english": "neither ... nor",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "nequiquam",
+    "english": "in vain",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "nesciō, nescīre, nescivī, nescitus",
+    "english": "to not know, be unaware/ignorant of/unfamiliar with",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "niger, nigra, nigrum",
+    "english": "black",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "nihil",
+    "english": "nothing",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "nimium, nimiī, n.",
+    "english": "too much",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "nobilis, -e",
+    "english": "noble",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "nolo, nolle, nolui",
+    "english": "to not want, refuse",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "non",
+    "english": "not",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "nondum",
+    "english": "not yet",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "nonne?",
+    "english": "surely (expects a yes answer)",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "nonnullī, nonnullae, nonnulla",
+    "english": "some, several",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "nos",
+    "english": "we",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "nosco, noscere, novi, notus",
+    "english": "to know",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "noster",
+    "english": "our",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "novem",
+    "english": "nine",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "novus/a/um",
+    "english": "new",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "nox, noctis, f.",
+    "english": "night",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "nubes, nubis, f",
+    "english": "cloud",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "nubo, nubere, nupsi, nuptus (+ DAT.)",
+    "english": "to marry",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "nullus/a/um (gen. nullius; dat. nulli)",
+    "english": "not any, no",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "num",
+    "english": "whether",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "num?",
+    "english": "surely? (expects a no answer)",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "numen, numinis, n.",
+    "english": "divine power, divine will",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "numero, numerare, numeravi, numeratus/a/um",
+    "english": "to count",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "numquam",
+    "english": "never",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "nunc",
+    "english": "now",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "nuntius, i, m.",
+    "english": "messenger",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "nuntiō, nuntiāre, nuntiāvī, nuntiātus",
+    "english": "to announce, report, relate",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "nusquam",
+    "english": "nowhere",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "nōtus, nōta, nōtum",
+    "english": "known, well-known, famous",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "nūper",
+    "english": "recently",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "obicio, obicere, obieci, obiectum",
+    "english": "present, put in the way of, expose to",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "obliviscor, oblivisci, oblitus sum",
+    "english": "to forget",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "obsto, obstare, obstiti (+ dative)",
+    "english": "to obstruct, to block the way",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "occasio, occasionis, f.",
+    "english": "opportunity",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "octo",
+    "english": "eight",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "oculus, oculi, m.",
+    "english": "eye",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "odium, odii, n.",
+    "english": "hatred",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "offendo, offendere, offendi, offensus",
+    "english": "to displace, to offend",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "offero, offerre, obtuli, oblatus",
+    "english": "to offer",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "officium, officii, n.",
+    "english": "duty",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "olim",
+    "english": "once, some time ago",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "omnis, omnis, omne",
+    "english": "all",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "opinor, opinari, opinatus sum",
+    "english": "to believe, to suppose",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "oppidum, oppidī, n.",
+    "english": "town",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "oppugnō, oppugnāre, oppugnāvī, oppugnātus",
+    "english": "attack",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "optime",
+    "english": "very well",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "optimus, optima, optimum",
+    "english": "best, very good",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "opto, optare, optavi, optatum",
+    "english": "to pray for, to long for",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "opus est",
+    "english": "there is need (of)",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "oratio, orationis, f.",
+    "english": "speech",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "orbis terrarium",
+    "english": "world",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "orbis, orbis,m.",
+    "english": "globe, circle",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ordo, ordinis, m.",
+    "english": "row",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "orior, oriri, ortus sum",
+    "english": "to rise, to arise",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ornō, ornāre, ornāvi, ornātus",
+    "english": "decorate",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "os, oris n. (not to be mistaken for os, ossis, n.)",
+    "english": "face, mouth, speech, expression",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "os, ossis, n. (not to be mistaken for os, oris, n.)",
+    "english": "bone",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ostendo, ostendere, ostendi, ostentus",
+    "english": "to show",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "otium, otii, n.",
+    "english": "leisure",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "paene",
+    "english": "nearly, almost",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "par, paris",
+    "english": "equal",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "parcō, parcere, pepercī (+DAT)",
+    "english": "spare",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "pareō, parēre, paruī",
+    "english": "obey",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "paro, parare, paravi, paratus/a/um",
+    "english": "to prepare",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "pars, partis, f.",
+    "english": "part",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "parvus, a, um",
+    "english": "small, little",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "passim",
+    "english": "everywhere",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "passus, a, um",
+    "english": "having suffered",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "patefaciō, patefacere, patefēcī, patefactus",
+    "english": "to reveal",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "pateo, patere, patui",
+    "english": "to lie open",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "patria, patriae, f.",
+    "english": "country, homeland",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "pauci, paucae, pauca",
+    "english": "few, a few",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "paulatim",
+    "english": "gradually",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "paulo",
+    "english": "a little",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "pax, pacis, f",
+    "english": "peace",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "pectus, pectoris, n.",
+    "english": "chest, breast, heart",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "pecunia, -ae, F",
+    "english": "money",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "pello, pellere, pepuli, pulsum",
+    "english": "to drive, to strike",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "per+ accusative",
+    "english": "through",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "perdo, perdere, perdidi, perditus",
+    "english": "to destroy, to lose",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "pereo, perire, perii (per + eo)",
+    "english": "to perish, die",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "perfidus, a, um",
+    "english": "treacherous",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "periculum, periculi, n.",
+    "english": "danger",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "persuadeo, persuadere, persuasi, persuasus (+ dative)",
+    "english": "to persuade",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "perterritus/a/um",
+    "english": "terrified",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "perturbo, perturbare, perturbavi, perturbatus",
+    "english": "to alarm, to disturb",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "pervenio, pervenire, perveni, perventus",
+    "english": "to reach, to arrive at",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "perītus, perīta, perītum",
+    "english": "skillful",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "pes, pedis f.",
+    "english": "foot, paw",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "pessimus, pessima, pessimum",
+    "english": "very bad, worst",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "pestis, pestis m.",
+    "english": "rascal, pest",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "peto, petere, petivi, petitus",
+    "english": "to beg for, to ask for",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "peto, petere, petivi, petitus",
+    "english": "to seek, head for, attack",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "pietas, pietatis, f.",
+    "english": "duty, piety, family, feeling",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "pius, pia, pium",
+    "english": "good, pious, dutiful",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "placeo, placere, placui, placitus (+ dative)",
+    "english": "to please, to suit",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "plaudo, plaudere, plausi, plausus",
+    "english": "to applaud",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "plaustrum, -i, n.",
+    "english": "wagon, cart",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "plerique, pleraeque, pleraque",
+    "english": "most, the majority",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "plurimus, plurima, plurimum// plurimi, plurimae, plurima",
+    "english": "very much// very many",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "plēnus, plēna, plēnum",
+    "english": "full",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "plūs, plūris, n.",
+    "english": "more",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "poculum, poculi n.",
+    "english": "cup",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "poena, poenae F.",
+    "english": "punishment (poenas dare = to pay the price, be punished)",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "poeta, -ae, M",
+    "english": "poet",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "polliceor, polliceri, pollicitus sum",
+    "english": "to promise",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "pono, ponere, posui, positus/a/um",
+    "english": "to place, put",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "pontifex, pontificis, m.",
+    "english": "priest",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "porta, portae, f.",
+    "english": "gate",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "porto, -are, -avi, -atus/a/um",
+    "english": "to carry",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "portus, portus, m",
+    "english": "harbor",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "posco, poscere, poposci",
+    "english": "to demand, to ask for",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "possideo, possidere, possedi, possessum",
+    "english": "to possess",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "possum, posse, potui",
+    "english": "to be able",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "postea",
+    "english": "afterwards",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "postquam after,",
+    "english": "when",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "postremo",
+    "english": "finally, lastly",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "postridie",
+    "english": "on the next day",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "postulo, postulare, postulavi, postulatus",
+    "english": "to demand",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "potior, potiri, potitus sum (+ABL)",
+    "english": "obtain",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "potius quam",
+    "english": "rather than",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "praebeō, praebēre, praebuī, praebitus",
+    "english": "offer, provide",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "praecipio, praecipere, praecepi, praeceptum",
+    "english": "to instruct, to order",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "praefectus, praefecti, m.",
+    "english": "commander",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "praesens, praesentis",
+    "english": "present, ready",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "praesertim",
+    "english": "especially",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "praesidium, praesidii (praesidi), n.",
+    "english": "protection",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "praesum, praeesse, praefui, praefuturus/a/um + dat. (prae + sum)",
+    "english": "to be in charge of",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "praeter ( + acc)",
+    "english": "except",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "preces, precum, f. pl.",
+    "english": "prayers",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "precātus, precāta, precātum",
+    "english": "having prayed (to)",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "pretium, pretiī, n.",
+    "english": "price",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "primus",
+    "english": "first",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "princeps, principis, m.",
+    "english": "chief, chieftain; emperor",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "pro (+ abl.)",
+    "english": "in front of",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "pro certo habere",
+    "english": "to know for certain",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "probo, probare, probavi, probatum",
+    "english": "prove",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "procedo, procedere, processi, processurus-",
+    "english": "to advance, proceed",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "prodo, prodere, prodidi, proditum",
+    "english": "betray",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "proelium, proelii, n.",
+    "english": "battle",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "progredior, progredi, progressus sum",
+    "english": "to proceed, to advance",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "Progressive Insurance",
+    "english": "Sponsored By Progressive Insurance",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "prohibeo, prohibere, prohibui, prohibitus",
+    "english": "to prevent",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "promitto, promittere, promisi, promissus",
+    "english": "to promise",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "prope+ accusative",
+    "english": "near",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "propter (+ACC)",
+    "english": "because of",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "prudentia, prudentiae, f.",
+    "english": "prudence, good sense",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "puella, puellae f.",
+    "english": "girl",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "puer, pueri, m.",
+    "english": "boy",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "pugna, pugnae, f",
+    "english": "fight",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "pugno, pugnare, pugnavi, pugnatus",
+    "english": "to fight",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "pulcher, pulchra, pulchrum",
+    "english": "beautiful, handsome",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "pulso, pulsare, pulsavi, pulsatus",
+    "english": "to hit, punch, whack",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "punio, punire, punivi, punitus/a/um",
+    "english": "to punish",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "puto, putare, putavi, putatus",
+    "english": "to think",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "putō, putāre, putāvī, putātus",
+    "english": "to reckon, suppose, judge, think, imagine",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "pōns, pontis, m.",
+    "english": "bridge",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "quadraginta",
+    "english": "forty",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "quaero, -ere, quaesivi, quaesitus/a/um",
+    "english": "to search for, look for",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "quam",
+    "english": "how",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "quam",
+    "english": "than, how",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "quamdiu",
+    "english": "as long as",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "quamquam",
+    "english": "although",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "quamvis",
+    "english": "although",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "quando?",
+    "english": "when?",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "quantus, quanta, quantum",
+    "english": "how big",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "quattuor",
+    "english": "four",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "queror, queri, questus sum",
+    "english": "to lament, to complain about",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "qui, quae, quod",
+    "english": "who, which, that",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "quicumque, quaecumque, quodcumque",
+    "english": "whoever, whatever",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "quidem",
+    "english": "indeed",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "quinquaginta",
+    "english": "fifty",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "quinque",
+    "english": "five",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "quis?",
+    "english": "who?",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "quisquis, quidquid (or quicquid)",
+    "english": "whoever, whatever",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "quo?",
+    "english": "where? where to?",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "quod",
+    "english": "because",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "quondam",
+    "english": "one day, once",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "quoniam",
+    "english": "since",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "quoque",
+    "english": "also, too",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "quot?",
+    "english": "how many?",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "quotiens",
+    "english": "whenever",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "quō modō?",
+    "english": "how?",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "rapio, rapere, rapui, raptus",
+    "english": "to seize, to grab",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ratio, rationis, f.",
+    "english": "reason, accounting",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "recipio, recipere, recepi, receptus",
+    "english": "to recover, to take back",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "recito, recitare, recitavi, recitatus",
+    "english": "to recite, to read aloud",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "recte",
+    "english": "rightly, properly",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "recumbo, recumbere, recubui, recubitus",
+    "english": "to lie down, to recline",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "recuso, recusare, recusavi, recusatus",
+    "english": "to refuse",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "reddo, -ere, reddidi, redditus/a/um",
+    "english": "to give back",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "redeo, redire, redii, rediturus/a/um (re + eo)",
+    "english": "to return, go back",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "referō, referre, rettulī, relātus",
+    "english": "bring back, carry",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "regio, regionis, f.",
+    "english": "region",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "rego, regere, rexi, rectus",
+    "english": "to rule",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "regressus, regressa, regressum",
+    "english": "having returned",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "relego, relegare, relegavi, relegatus",
+    "english": "to exile",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "relinquo, relinquere, reliqui, relictus",
+    "english": "to leave",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "remedium, remedi(i), n.",
+    "english": "cure",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "reor, reri, ratus sum",
+    "english": "to think",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "repello, repellere, reppuli, repulsum",
+    "english": "to repel, to push back",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "repente",
+    "english": "suddenly",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "reperio, repirire, repperi, repertum",
+    "english": "to find",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "requiro, requirere, requisivi, requisitum",
+    "english": "to search for, to ask",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "res, rei, f.",
+    "english": "thing",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "resisto, resistere, restiti (+ dative)",
+    "english": "to resist",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "respicio, respicere, respexi, respectus",
+    "english": "to look back, to look up",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "respondeo, -ēre, respondi, responsus/a/um",
+    "english": "to reply",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "retineo, retinere, retinui, retentus/a/um (re + teneo)",
+    "english": "to keep",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "revoco, revocare, revocavi, revocatus",
+    "english": "to recall, to call back",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "rex, regis, m.",
+    "english": "king",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "rideo, -ēre, risi, risus/a/um",
+    "english": "to laugh, smile",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "rogo, rogare, rogavi, rogatus",
+    "english": "to ask",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "rumpo, rumpere, rupi, ruptum",
+    "english": "to break, to split",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ruo, ruere, rui, rutus/a/um",
+    "english": "to rush",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ruri",
+    "english": "in the country",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "rursus (adv.)",
+    "english": "again",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "rus, ruris, n.",
+    "english": "country, countryside",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "rēgnum, rēgnī, n.",
+    "english": "kingdom",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "rēs huius modī",
+    "english": "a thing of this kind",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "rīpa, ae, f.",
+    "english": "river bank",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "sacer, sacra, sacrum",
+    "english": "sacred",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "sacer, sacra, sacrum",
+    "english": "sacred, holy",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "sacerdos, sacerdotis, m/f.",
+    "english": "priest, priestess",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "saepe",
+    "english": "often",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "saevio, saevire, saevi(v)i, saevitus",
+    "english": "to be in a rage",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "saevus, saeva, saevum",
+    "english": "savage, cruel",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "sagitta, sagittae, f.",
+    "english": "arrow",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "saluto, -are, -avi, -atus/a/um",
+    "english": "to greet",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "salve!",
+    "english": "hello!",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "sanguis, sanguinis f.",
+    "english": "blood",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "sapiens, sapientis (adj.)",
+    "english": "wise, judicious",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "sapiēns, sapiēns, sapiēns, gen. sapientis",
+    "english": "wise",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "satis constat",
+    "english": "it is generally agreed",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "satis",
+    "english": "enough",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "saxum, -i, n.",
+    "english": "rock",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "scelestus, scelesta, scelestum (adj.)",
+    "english": "wicked, infamous, accursed",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "scio, scīre, scīvī",
+    "english": "know",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "scribo, scribere, scripsi, scriptus",
+    "english": "write",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "secundus, secunda, secundum",
+    "english": "second",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "securus, secura, securum",
+    "english": "without a care",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "sed",
+    "english": "but",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "sedeo, sedere",
+    "english": "to sit",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "semper",
+    "english": "always",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "senator, senatoris, m",
+    "english": "senator",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "senex, senis, m.",
+    "english": "old man",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "sensus, sensus, m.",
+    "english": "feeling, sense",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "sententia, sententiae",
+    "english": "opinion",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "sentio, sentire, sensi, sensus",
+    "english": "to feel",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "sepeli, sepelire, sepelivi, sepultum",
+    "english": "to bury",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "septem",
+    "english": "seven",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "sermo, sermonis, m.",
+    "english": "conversation",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "servo, servare, servavi, servatus",
+    "english": "to save, to protect",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "servus, -ī, M",
+    "english": "slave",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "seu...seu",
+    "english": "whether...or, if...or if",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "sex",
+    "english": "six",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "si quis, si quid",
+    "english": "if anyone, if anything",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "sicut",
+    "english": "like",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "sidus,sideris, n.",
+    "english": "star",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "signum, ī, N",
+    "english": "sign, seal, signal",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "silva, silvae f.",
+    "english": "forest",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "similis, similis, simile",
+    "english": "similar",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "simul",
+    "english": "at the same time",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "simulac, simulatque",
+    "english": "as soon as",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "simulo, simulare, simulavi, simulatus",
+    "english": "to pretend",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "sine (+ abl.)",
+    "english": "without",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "sino, sinere, sivi, situm",
+    "english": "allow",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "socius, socii, m.",
+    "english": "companion, partner",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "soleo, solere, solitus sum",
+    "english": "to be accustomed, usually",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "sollicitus, sollicita, sollicitum",
+    "english": "worried, anxious",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "solus, sola, solum",
+    "english": "alone, lonely",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "sonitus, sonitus, m.",
+    "english": "sound",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "spargo, spargere, sparsi, sparsus",
+    "english": "to scatter",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "species, speciei, f.",
+    "english": "appearance",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "spectaculum, i. n",
+    "english": "show, spectacle",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "specto, spectare, spectavi, spectatus",
+    "english": "to look at, watch",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "sperō, sperāre, sperāvī, speratus",
+    "english": "to hope for, hope that",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "Sponsored By National University",
+    "english": "Supporting your Mind and Goals",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "sponte mea",
+    "english": "of my own accord, voluntarily",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "Squad Goals",
+    "english": "We’ll help you find a great rate, even if it’s not with us!",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "statim",
+    "english": "at once",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "statuo, statuere, statui, statutum",
+    "english": "set up, establish; decide",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "stilus, stili, m.",
+    "english": "pen, stylus",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "sto , stare, steti, staturus",
+    "english": "to stand",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "studium, studii, n.",
+    "english": "enthusiasm, study",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "stultus, stulta, stultum",
+    "english": "stupid",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "suadeo, suadere, suasi, suasum (+DAT)",
+    "english": "to advise, to suggest",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "suavis, suavis, suave",
+    "english": "sweet, agreeable, pleasant, charming",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "subito",
+    "english": "suddenly",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "subsisto, subsistere, substiti",
+    "english": "to encounter, to stop, to halt",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "sum, esse, fui, futurus/a/um",
+    "english": "to be",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "summus/a/um",
+    "english": "highest, greatest, top",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "sumo, sumere, sumpsi, sumptum",
+    "english": "to take",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "supero, superare, superavi, superatus",
+    "english": "to overcom, to overpower",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "supersum, superesse, superfui, superfuturus/a/um (super + sum)",
+    "english": "to survive",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "supplicium, supplicii, n.",
+    "english": "punishment, penalty",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "supra (+ acc.)",
+    "english": "over, on top of",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "surgo, -ere, surrexi, surrectus/a/um",
+    "english": "to rise, get up",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "suscipiō, suscipere, suscepī, susceptus",
+    "english": "to undertake",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "sī",
+    "english": "if",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "taberna, -ae, F",
+    "english": "store, shop, inn",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "tablinum, -ī, N",
+    "english": "study",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "taceo, tacere, tacui, tacitus",
+    "english": "to be silent, to be quiet",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "tacite",
+    "english": "quietly, silently",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "talis, talis, tale",
+    "english": "such",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "tam",
+    "english": "so",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "tamen",
+    "english": "however",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "tandem",
+    "english": "at last",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "tango, tangere, tetigi, tactus",
+    "english": "to touch",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "tantum",
+    "english": "only",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "tego, tegere, texi, tectum",
+    "english": "to cover",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "tellus, telluris, f.",
+    "english": "land, earth",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "telum, teli, n.",
+    "english": "weapon",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "templum, templi, n",
+    "english": "temple",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "tempto, temptare, temptavi, temptatus",
+    "english": "to try",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "teneo, tenere, tenui, tentus/a/um",
+    "english": "hold",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "tenuis, tenuis, tenue",
+    "english": "thin",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "terra, terrae, f",
+    "english": "ground, land",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "terreo, terrere, terrui, territus",
+    "english": "to frighten",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "tertius, tertia, tertium",
+    "english": "third",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "testis, testis M/F",
+    "english": "witness",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "timeo, timere, timui",
+    "english": "to be afraid, to fear",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "to come back, to return",
+    "english": "suus, suua, suum",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "to hand over",
+    "english": "",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "toga, -ae, F",
+    "english": "toga",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "tollo, tollere, sustuli, sublatus/a/um (cf. fero, ferre, tuli, latus)",
+    "english": "to raise, lift up, destroy",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "tot",
+    "english": "so many",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "totus, a, um",
+    "english": "whole",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "traho, trahere, traxi, tractus/a/um",
+    "english": "to drag",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "trans (+ ACC.)",
+    "english": "across",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "tres, tres, tria",
+    "english": "three",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "triclinium, -ī, N",
+    "english": "dining room",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "triginta",
+    "english": "thirty",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "trānseo, trānsīre, transiī, transītus",
+    "english": "cross",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "trīstis, is, e",
+    "english": "sad",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "tu",
+    "english": "you (s)",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "tueor, tueri, tuitus sum",
+    "english": "to watch over, to protect",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "tum demum",
+    "english": "then at last, only then",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "tum",
+    "english": "then",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "tumultus, tumultus, m.",
+    "english": "riot",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "tunica, -ae, F",
+    "english": "tunic",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "turba, ae f.",
+    "english": "crowd",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "turpis, turpis, turpe",
+    "english": "shameful, disgraceful",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "tuus, tua, tuum",
+    "english": "your, yours",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "tūtus, tūta, tūtum",
+    "english": "safe",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ubi",
+    "english": "where",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ubi",
+    "english": "where, when",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ulciscor, ulcisci, ultus sum",
+    "english": "to avenge, to take revenge on",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ullus, ulla, ullum",
+    "english": "any",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ultimus, ultima, ultimum (adj.)",
+    "english": "farthest, extreme, last, final",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "umbra, ae, f.",
+    "english": "ghost, shadow",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "umerus, umeri, m.",
+    "english": "shoulder",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "umquam",
+    "english": "ever",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "una (cum)",
+    "english": "together with",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "unda, -ae, f.",
+    "english": "wave",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "unde",
+    "english": "from where",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "unguo, unguere, unxi, unctus",
+    "english": "to anoint, to smear",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "unus, una, unum",
+    "english": "one",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "urbs, urbis, f.",
+    "english": "city",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ut",
+    "english": "that, in order that",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "uterque, utraque, utrumque",
+    "english": "both, each of two",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "utilis, utilis, utile",
+    "english": "useful",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "utor, uti, usus sum (+ABL)",
+    "english": "to use",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "uxor, uxoris, f",
+    "english": "wife",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "vacuus, vacua, vacuum",
+    "english": "empty",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "vagor, vagari, vagatus sum",
+    "english": "to wander, to go around; to spread",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "valde",
+    "english": "very much, very",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "vale!",
+    "english": "good- bye!",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "validus, valida, validum",
+    "english": "strong",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "vehementer",
+    "english": "violently, loudly",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "velut",
+    "english": "like, as",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "vendo, -ere, vendidi, venditus/a/um",
+    "english": "to sell",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "venio, venire, veni, venturus",
+    "english": "to come",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "venēnum, venēnī, n.",
+    "english": "poison",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "verbero, verberare, verberavi, verberatus",
+    "english": "to strike, to beat",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "verbum, verbī, n.",
+    "english": "word",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "vereor, vereri, veritus sum",
+    "english": "to be afraid, to fear",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "veritas, veritatis, f.",
+    "english": "truth",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "vero",
+    "english": "indeed",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "verto, vertere, verti, versus/a/um",
+    "english": "to turn",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "verum, ī, n.",
+    "english": "the truth",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "vestis, vestis, f.",
+    "english": "clothing",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "vetus, veteris",
+    "english": "old",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "vexo, vexare, vexavi, vexatus",
+    "english": "to annoy",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "vicinus, vicini, m.",
+    "english": "neighbor",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "video, -ēre, vidi, visus/a/um",
+    "english": "to see",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "videor, videri, visus sum",
+    "english": "to seem",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "viginti",
+    "english": "twenty",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "vilis, vilis, vile",
+    "english": "cheap",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "villa, -ae, F",
+    "english": "house",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "vinco, vincere, vici, vinctus/a/um",
+    "english": "to win",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "vinculum, vinculi, n.",
+    "english": "fastening, chain",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "vindico, vindicare, vindicavi, vindicatum",
+    "english": "to protect, to avenge",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "vinum, -ī, N",
+    "english": "wine",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "vir, viri, m",
+    "english": "man",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "vires, virium, f. pl.",
+    "english": "strength",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "virgo, virginis, f.",
+    "english": "virgin, unmarried woman",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "virtūs, virtūtis, f.",
+    "english": "courage",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "vis, vis, f.",
+    "english": "force, violence",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "vita, -ae, f.",
+    "english": "life",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "vitium, vitii, n.",
+    "english": "sin, fault, vice",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "vitupero, vituperare, vituperavi, vituperatus",
+    "english": "to find fault with, to curse",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "vitō, vitāre, vitāvI, vitātus",
+    "english": "avoid",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "vivo, vivere, vixi, victus",
+    "english": "to live",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "vix",
+    "english": "hardly, scarcely",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "voco, -are, -avi, -atus/a/um",
+    "english": "to call",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "volo, velle, volui",
+    "english": "to want",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "vos",
+    "english": "you (pl.)",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "vox, vocis, f.",
+    "english": "voice",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "vulgo, vulgare, vulgavi, vulgatum",
+    "english": "to make known",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "vulnero, vulnerare, vulneravi, vulneratus/a/um",
+    "english": "to wound",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "vulnus, vulneris, n.",
+    "english": "wound",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ā, ab (+ABL)",
+    "english": "by",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ēgressus, a, um",
+    "english": "having gone out",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "ēligō, ēligere, ēlēgī, ēlēctus",
+    "english": "choose",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "īnfestus, a, um",
+    "english": "hostile",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "īnstruō, īnstruere, īnstrūxī, īnstrūctus",
+    "english": "draw up",
+    "audio": "https:totallyareallinktotheaudio"
+  }
+]

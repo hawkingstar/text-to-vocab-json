@@ -1,0 +1,56 @@
+domus
+home, house
+
+
+latrina
+bathroom
+
+
+
+hortus
+garden
+
+
+peristylium
+garden surrounded by columns
+
+
+atrium
+atrium, main room, living room
+
+
+cubiculum
+bedroom
+
+
+culina
+kitchen
+
+
+tablinum
+office, study
+
+
+triclinium
+dining room
+
+
+cella
+store room, small room
+
+
+taberna
+a shop
+
+
+impluvium
+small pool for rainwater
+
+
+
+compluvium
+hole in the roof
+
+
+lararium
+shrine to house gods
