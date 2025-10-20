@@ -1,0 +1,987 @@
+[
+  {
+    "latin": "nascor, nasci, natus sum",
+    "english": "to be born",
+    "audio": "audio/de-bello-gallico/nascor_nasci_natus_sum.wav"
+  },
+  {
+    "latin": "acies, aciei, f.",
+    "english": "battle line",
+    "audio": "audio/de-bello-gallico/acies_aciei_f_.wav"
+  },
+  {
+    "latin": "circiter",
+    "english": "about, approximately",
+    "audio": "audio/de-bello-gallico/circiter.wav"
+  },
+  {
+    "latin": "potestas, potestatis, f.",
+    "english": "power, authority, opportunity",
+    "audio": "audio/de-bello-gallico/potestas_potestatis_f_.wav"
+  },
+  {
+    "latin": "genus, generis, n.",
+    "english": "origin; kind, type, sort, class",
+    "audio": "audio/de-bello-gallico/genus_generis_n_.wav"
+  },
+  {
+    "latin": "circumvenio, circumvenire, circumveni, circumventus",
+    "english": "to surround",
+    "audio": "audio/de-bello-gallico/circumvenio_circumvenire_circumveni_circumventus.wav"
+  },
+  {
+    "latin": "demonstro, demonstrare, demonstravi, demonstratus",
+    "english": "to show, point out",
+    "audio": "audio/de-bello-gallico/demonstro_demonstrare_demonstravi_demonstratus.wav"
+  },
+  {
+    "latin": "adsum, adesse, adfui, adfuturus",
+    "english": "to be present",
+    "audio": "audio/de-bello-gallico/adsum_adesse_adfui_adfuturus.wav"
+  },
+  {
+    "latin": "frumentum, frumenti, n.",
+    "english": "grain",
+    "audio": "audio/de-bello-gallico/frumentum_frumenti_n_.wav"
+  },
+  {
+    "latin": "arbitror, arbitrari, arbitratus sum",
+    "english": "to think",
+    "audio": "audio/de-bello-gallico/arbitror_arbitrari_arbitratus_sum.wav"
+  },
+  {
+    "latin": "longinquus, -a, -um",
+    "english": "far away, distant",
+    "audio": "audio/de-bello-gallico/longinquus_-a_-um.wav"
+  },
+  {
+    "latin": "auctoritas, auctoritatis, f.",
+    "english": "authority, influence",
+    "audio": "audio/de-bello-gallico/auctoritas_auctoritatis_f_.wav"
+  },
+  {
+    "latin": "tot",
+    "english": "so many",
+    "audio": "audio/de-bello-gallico/tot.wav"
+  },
+  {
+    "latin": "communico, communicare, communicavi, communicatus",
+    "english": "to communicate, share",
+    "audio": "audio/de-bello-gallico/communico_communicare_communicavi_communicatus.wav"
+  },
+  {
+    "latin": "consuetudo, consuetudinis, f.",
+    "english": "habit, custom",
+    "audio": "audio/de-bello-gallico/consuetudo_consuetudinis_f_.wav"
+  },
+  {
+    "latin": "curus, cursūs, m.",
+    "english": "Course",
+    "audio": "audio/de-bello-gallico/curus_curs_s_m_.wav"
+  },
+  {
+    "latin": "tertius, -a, -um",
+    "english": "third",
+    "audio": "audio/de-bello-gallico/tertius_-a_-um.wav"
+  },
+  {
+    "latin": "incendo, incendere, incendi, incensus",
+    "english": "burn, set fire to",
+    "audio": "audio/de-bello-gallico/incendo_incendere_incendi_incensus.wav"
+  },
+  {
+    "latin": "fides, fidei, f.",
+    "english": "faith, pledge",
+    "audio": "audio/de-bello-gallico/fides_fidei_f_.wav"
+  },
+  {
+    "latin": "laus, laudis, f.",
+    "english": "praise",
+    "audio": "audio/de-bello-gallico/laus_laudis_f_.wav"
+  },
+  {
+    "latin": "flumen, fluminis, n.",
+    "english": "river",
+    "audio": "audio/de-bello-gallico/flumen_fluminis_n_.wav"
+  },
+  {
+    "latin": "condicio, condicionis f.",
+    "english": "condition",
+    "audio": "audio/de-bello-gallico/condicio_condicionis_f_.wav"
+  },
+  {
+    "latin": "cultus, cultus m.",
+    "english": "culture, civilization",
+    "audio": "audio/de-bello-gallico/cultus_cultus_m_.wav"
+  },
+  {
+    "latin": "perficio, perficere, perfeci, perfectus",
+    "english": "to complete, finish",
+    "audio": "audio/de-bello-gallico/perficio_perficere_perfeci_perfectus.wav"
+  },
+  {
+    "latin": "pax, pacis, f.",
+    "english": "peace",
+    "audio": "audio/de-bello-gallico/pax_pacis_f_.wav"
+  },
+  {
+    "latin": "pronuntio, pronuntiare, pronuntiavi, pronuntiatus",
+    "english": "to announce",
+    "audio": "audio/de-bello-gallico/pronuntio_pronuntiare_pronuntiavi_pronuntiatus.wav"
+  },
+  {
+    "latin": "pertineo, pertinere, pertinui",
+    "english": "pertain to, stretch to",
+    "audio": "audio/de-bello-gallico/pertineo_pertinere_pertinui.wav"
+  },
+  {
+    "latin": "ancora, -ae, f.",
+    "english": "anchor",
+    "audio": "audio/de-bello-gallico/ancora_-ae_f_.wav"
+  },
+  {
+    "latin": "occupo, occupare, occupavi, occupatus",
+    "english": "seize",
+    "audio": "audio/de-bello-gallico/occupo_occupare_occupavi_occupatus.wav"
+  },
+  {
+    "latin": "perfacilis, perfacile",
+    "english": "very easy",
+    "audio": "audio/de-bello-gallico/perfacilis_perfacile.wav"
+  },
+  {
+    "latin": "hiems, hiemis, f.",
+    "english": "winter",
+    "audio": "audio/de-bello-gallico/hiems_hiemis_f_.wav"
+  },
+  {
+    "latin": "supra (+acc)",
+    "english": "above",
+    "audio": "audio/de-bello-gallico/supra_acc_.wav"
+  },
+  {
+    "latin": "supra (adv.)",
+    "english": "previously",
+    "audio": "audio/de-bello-gallico/supra_adv_.wav"
+  },
+  {
+    "latin": "tempestas, tempestatis, f.",
+    "english": "weather, storm",
+    "audio": "audio/de-bello-gallico/tempestas_tempestatis_f_.wav"
+  },
+  {
+    "latin": "subsequor, subsequi, subsecutus sum",
+    "english": "to follow closely",
+    "audio": "audio/de-bello-gallico/subsequor_subsequi_subsecutus_sum.wav"
+  },
+  {
+    "latin": "insisto, insistere, institi",
+    "english": "to stand on; to push forward, advance",
+    "audio": "audio/de-bello-gallico/insisto_insistere_institi.wav"
+  },
+  {
+    "latin": "inde",
+    "english": "from there",
+    "audio": "audio/de-bello-gallico/inde.wav"
+  },
+  {
+    "latin": "sentio, sentire, sensi, sensus",
+    "english": "to feel, perceive",
+    "audio": "audio/de-bello-gallico/sentio_sentire_sensi_sensus.wav"
+  },
+  {
+    "latin": "nego, negare, negavi, negatus",
+    "english": "to deny",
+    "audio": "audio/de-bello-gallico/nego_negare_negavi_negatus.wav"
+  },
+  {
+    "latin": "repentinus, a, um",
+    "english": "sudden",
+    "audio": "audio/de-bello-gallico/repentinus_a_um.wav"
+  },
+  {
+    "latin": "rursus (adv.)",
+    "english": "again",
+    "audio": "audio/de-bello-gallico/rursus_adv_.wav"
+  },
+  {
+    "latin": "sicuti",
+    "english": "as if, as, just as, just as if",
+    "audio": "audio/de-bello-gallico/sicuti.wav"
+  },
+  {
+    "latin": "mos, moris, m.",
+    "english": "custom, habit",
+    "audio": "audio/de-bello-gallico/mos_moris_m_.wav"
+  },
+  {
+    "latin": "supplicium, supplicii, n.",
+    "english": "punishment",
+    "audio": "audio/de-bello-gallico/supplicium_supplicii_n_.wav"
+  },
+  {
+    "latin": "uterque, utraque, utrumque",
+    "english": "each (of two), both",
+    "audio": "audio/de-bello-gallico/uterque_utraque_utrumque.wav"
+  },
+  {
+    "latin": "altitudo, altitudinis, f.",
+    "english": "height, depth",
+    "audio": "audio/de-bello-gallico/altitudo_altitudinis_f_.wav"
+  },
+  {
+    "latin": "administro, administrare, administravi, administratus",
+    "english": "to administer, manage",
+    "audio": "audio/de-bello-gallico/administro_administrare_administravi_administratus.wav"
+  },
+  {
+    "latin": "dimitto, dimittere, dimisi, dimissus",
+    "english": "to send away",
+    "audio": "audio/de-bello-gallico/dimitto_dimittere_dimisi_dimissus.wav"
+  },
+  {
+    "latin": "tutus, tuta, tutum",
+    "english": "safe",
+    "audio": "audio/de-bello-gallico/tutus_tuta_tutum.wav"
+  },
+  {
+    "latin": "quicumque, quaecumque, quodcumque",
+    "english": "whoever, whatever",
+    "audio": "audio/de-bello-gallico/quicumque_quaecumque_quodcumque.wav"
+  },
+  {
+    "latin": "cohors, cohortis, f.",
+    "english": "cohort",
+    "audio": "audio/de-bello-gallico/cohors_cohortis_f_.wav"
+  },
+  {
+    "latin": "minuo, minuere, minui, minutus",
+    "english": "to lessen, reduce",
+    "audio": "audio/de-bello-gallico/minuo_minuere_minui_minutus.wav"
+  },
+  {
+    "latin": "sustineo, sustinere, sustinui, sustentus",
+    "english": "to sustain",
+    "audio": "audio/de-bello-gallico/sustineo_sustinere_sustinui_sustentus.wav"
+  },
+  {
+    "latin": "intercipio, intercipere, intercepi, interceptus",
+    "english": "to intercept, cut off",
+    "audio": "audio/de-bello-gallico/intercipio_intercipere_intercepi_interceptus.wav"
+  },
+  {
+    "latin": "pauci, paucae, pauca",
+    "english": "few",
+    "audio": "audio/de-bello-gallico/pauci_paucae_pauca.wav"
+  },
+  {
+    "latin": "adeo, adire, adivi or adii, aditurus",
+    "english": "to go toward, approach",
+    "audio": "audio/de-bello-gallico/adeo_adire_adivi_or_adii_aditurus.wav"
+  },
+  {
+    "latin": "paulatim",
+    "english": "gradually",
+    "audio": "audio/de-bello-gallico/paulatim.wav"
+  },
+  {
+    "latin": "orior, oriri, ortus sum",
+    "english": "to rise, begin",
+    "audio": "audio/de-bello-gallico/orior_oriri_ortus_sum.wav"
+  },
+  {
+    "latin": "ad + numbers",
+    "english": "about",
+    "audio": "audio/de-bello-gallico/ad_numbers.wav"
+  },
+  {
+    "latin": "postea",
+    "english": "afterwards",
+    "audio": "audio/de-bello-gallico/postea.wav"
+  },
+  {
+    "latin": "colloco, collocare, collocavi, collocatus",
+    "english": "to locate, place",
+    "audio": "audio/de-bello-gallico/colloco_collocare_collocavi_collocatus.wav"
+  },
+  {
+    "latin": "materia, -ae, f.",
+    "english": "material",
+    "audio": "audio/de-bello-gallico/materia_-ae_f_.wav"
+  },
+  {
+    "latin": "succendo, succendere, succendi, succensus",
+    "english": "to set fire to, burn",
+    "audio": "audio/de-bello-gallico/succendo_succendere_succendi_succensus.wav"
+  },
+  {
+    "latin": "confertus, conferta, confertum",
+    "english": "crowded",
+    "audio": "audio/de-bello-gallico/confertus_conferta_confertum.wav"
+  },
+  {
+    "latin": "salus, salutis, f.",
+    "english": "safety",
+    "audio": "audio/de-bello-gallico/salus_salutis_f_.wav"
+  },
+  {
+    "latin": "consuesco, consuescere, consuevi, consuetus",
+    "english": "to become accustomed to",
+    "audio": "audio/de-bello-gallico/consuesco_consuescere_consuevi_consuetus.wav"
+  },
+  {
+    "latin": "oro, orare, oravi, oratus",
+    "english": "to beg",
+    "audio": "audio/de-bello-gallico/oro_orare_oravi_oratus.wav"
+  },
+  {
+    "latin": "iaculum, iaculi, n.",
+    "english": "javelin",
+    "audio": "audio/de-bello-gallico/iaculum_iaculi_n_.wav"
+  },
+  {
+    "latin": "sententia, sententiae, f.",
+    "english": "feeling, opinion",
+    "audio": "audio/de-bello-gallico/sententia_sententiae_f_.wav"
+  },
+  {
+    "latin": "adficio, adficere, adfeci, adfectus",
+    "english": "to do, treat, affect",
+    "audio": "audio/de-bello-gallico/adficio_adficere_adfeci_adfectus.wav"
+  },
+  {
+    "latin": "fere (adv)",
+    "english": "almost",
+    "audio": "audio/de-bello-gallico/fere_adv_.wav"
+  },
+  {
+    "latin": "officium, officii, n.",
+    "english": "duty, service",
+    "audio": "audio/de-bello-gallico/officium_officii_n_.wav"
+  },
+  {
+    "latin": "plerique, pleraeque, pleraque",
+    "english": "most, the majority",
+    "audio": "audio/de-bello-gallico/plerique_pleraeque_pleraque.wav"
+  },
+  {
+    "latin": "fuga, fugae, f.",
+    "english": "flight",
+    "audio": "audio/de-bello-gallico/fuga_fugae_f_.wav"
+  },
+  {
+    "latin": "pilum, i, n.",
+    "english": "spear, javelin",
+    "audio": "audio/de-bello-gallico/pilum_i_n_.wav"
+  },
+  {
+    "latin": "animadverto, animadvertere, animadverti, animadversus",
+    "english": "to observe, notice, perceive",
+    "audio": "audio/de-bello-gallico/animadverto_animadvertere_animadverti_animadversus.wav"
+  },
+  {
+    "latin": "vereor, vereri, veritus sum",
+    "english": "to fear",
+    "audio": "audio/de-bello-gallico/vereor_vereri_veritus_sum.wav"
+  },
+  {
+    "latin": "spes, spei, f.",
+    "english": "hope",
+    "audio": "audio/de-bello-gallico/spes_spei_f_.wav"
+  },
+  {
+    "latin": "aegre (adv)",
+    "english": "with difficulty",
+    "audio": "audio/de-bello-gallico/aegre_adv_.wav"
+  },
+  {
+    "latin": "ultro (adv)",
+    "english": "voluntarily",
+    "audio": "audio/de-bello-gallico/ultro_adv_.wav"
+  },
+  {
+    "latin": "vis, acc., vim, abl., vi, f.",
+    "english": "force, violence",
+    "audio": "audio/de-bello-gallico/vis_acc_vim_abl_vi_f_.wav"
+  },
+  {
+    "latin": "contendo, contendere, contendi, contentus",
+    "english": "to struggle, hasten",
+    "audio": "audio/de-bello-gallico/contendo_contendere_contendi_contentus.wav"
+  },
+  {
+    "latin": "praesto, praestare, praestiti, praestitus",
+    "english": "to stand out",
+    "audio": "audio/de-bello-gallico/praesto_praestare_praestiti_praestitus.wav"
+  },
+  {
+    "latin": "longe (adv)",
+    "english": "far away",
+    "audio": "audio/de-bello-gallico/longe_adv_.wav"
+  },
+  {
+    "latin": "huc",
+    "english": "to this place, here",
+    "audio": "audio/de-bello-gallico/huc.wav"
+  },
+  {
+    "latin": "consulo, consulere, consului, consultus",
+    "english": "to consult, consider,",
+    "audio": "audio/de-bello-gallico/consulo_consulere_consului_consultus.wav"
+  },
+  {
+    "latin": "tragula, ae f.",
+    "english": "gallic spear",
+    "audio": "audio/de-bello-gallico/tragula_ae_f_.wav"
+  },
+  {
+    "latin": "una (adv)",
+    "english": "together",
+    "audio": "audio/de-bello-gallico/una_adv_.wav"
+  },
+  {
+    "latin": "compleo, complere, complevi, completus",
+    "english": "to fill, complete",
+    "audio": "audio/de-bello-gallico/compleo_complere_complevi_completus.wav"
+  },
+  {
+    "latin": "noctu",
+    "english": "at night",
+    "audio": "audio/de-bello-gallico/noctu.wav"
+  },
+  {
+    "latin": "coniuratio, coniurationis, f.",
+    "english": "conspiracy",
+    "audio": "audio/de-bello-gallico/coniuratio_coniurationis_f_.wav"
+  },
+  {
+    "latin": "consisto, consistere, constiti",
+    "english": "to stand one's ground, halt",
+    "audio": "audio/de-bello-gallico/consisto_consistere_constiti.wav"
+  },
+  {
+    "latin": "inferior, inferioris",
+    "english": "lower",
+    "audio": "audio/de-bello-gallico/inferior_inferioris.wav"
+  },
+  {
+    "latin": "cotidianus, -a, -um",
+    "english": "daily",
+    "audio": "audio/de-bello-gallico/cotidianus_-a_-um.wav"
+  },
+  {
+    "latin": "confido, confidere, confisus sum",
+    "english": "to trust",
+    "audio": "audio/de-bello-gallico/confido_confidere_confisus_sum.wav"
+  },
+  {
+    "latin": "pervenio, pervenire, perveni, perventus",
+    "english": "to arrive",
+    "audio": "audio/de-bello-gallico/pervenio_pervenire_perveni_perventus.wav"
+  },
+  {
+    "latin": "ullus, -a, -um",
+    "english": "any",
+    "audio": "audio/de-bello-gallico/ullus_-a_-um.wav"
+  },
+  {
+    "latin": "subduco, subducere, subduxi, subductus",
+    "english": "to draw up from below, raise, haul up",
+    "audio": "audio/de-bello-gallico/subduco_subducere_subduxi_subductus.wav"
+  },
+  {
+    "latin": "testudo, testudinis, f.",
+    "english": "turtle, mobile shelter",
+    "audio": "audio/de-bello-gallico/testudo_testudinis_f_.wav"
+  },
+  {
+    "latin": "nocturnus, -a, -um",
+    "english": "during the night",
+    "audio": "audio/de-bello-gallico/nocturnus_-a_-um.wav"
+  },
+  {
+    "latin": "initium, -i, n.",
+    "english": "beginning",
+    "audio": "audio/de-bello-gallico/initium_-i_n_.wav"
+  },
+  {
+    "latin": "undique (adv)",
+    "english": "on all sides",
+    "audio": "audio/de-bello-gallico/undique_adv_.wav"
+  },
+  {
+    "latin": "oratio, orationis, f.",
+    "english": "speech",
+    "audio": "audio/de-bello-gallico/oratio_orationis_f_.wav"
+  },
+  {
+    "latin": "aquila, aquilae, f.",
+    "english": "eagle, standard",
+    "audio": "audio/de-bello-gallico/aquila_aquilae_f_.wav"
+  },
+  {
+    "latin": "incolo, incolere, incolui",
+    "english": "to inhabit",
+    "audio": "audio/de-bello-gallico/incolo_incolere_incolui.wav"
+  },
+  {
+    "latin": "amitto, amittere, amisi, amissus",
+    "english": "to lose",
+    "audio": "audio/de-bello-gallico/amitto_amittere_amisi_amissus.wav"
+  },
+  {
+    "latin": "probo, probare, probavi, probatus",
+    "english": "to test, show, approve",
+    "audio": "audio/de-bello-gallico/probo_probare_probavi_probatus.wav"
+  },
+  {
+    "latin": "confirmo, confirmare, confirmavi, confirmatus",
+    "english": "to strengthen",
+    "audio": "audio/de-bello-gallico/confirmo_confirmare_confirmavi_confirmatus.wav"
+  },
+  {
+    "latin": "munitio, munitionis, f.",
+    "english": "fortification",
+    "audio": "audio/de-bello-gallico/munitio_munitionis_f_.wav"
+  },
+  {
+    "latin": "admodum (adv.)",
+    "english": "completely",
+    "audio": "audio/de-bello-gallico/admodum_adv_.wav"
+  },
+  {
+    "latin": "adflicto, adflictare, adflictavi, adflictatus",
+    "english": "to shatter, damage severely",
+    "audio": "audio/de-bello-gallico/adflicto_adflictare_adflictavi_adflictatus.wav"
+  },
+  {
+    "latin": "despero, desperare, desperavi, desperatus",
+    "english": "despair",
+    "audio": "audio/de-bello-gallico/despero_desperare_desperavi_desperatus.wav"
+  },
+  {
+    "latin": "concito, concitare, concitavi, concitatus",
+    "english": "stir up, disturb",
+    "audio": "audio/de-bello-gallico/concito_concitare_concitavi_concitatus.wav"
+  },
+  {
+    "latin": "vallum, valli, n.",
+    "english": "wall, rampart",
+    "audio": "audio/de-bello-gallico/vallum_valli_n_.wav"
+  },
+  {
+    "latin": "reficio, reficere, refeci, refectus",
+    "english": "to repair",
+    "audio": "audio/de-bello-gallico/reficio_reficere_refeci_refectus.wav"
+  },
+  {
+    "latin": "lex, legis, f.",
+    "english": "law",
+    "audio": "audio/de-bello-gallico/lex_legis_f_.wav"
+  },
+  {
+    "latin": "notus, -a, -um",
+    "english": "well-known",
+    "audio": "audio/de-bello-gallico/notus_-a_-um.wav"
+  },
+  {
+    "latin": "incommodum, incommodi, n.",
+    "english": "inconvenience, misfortune",
+    "audio": "audio/de-bello-gallico/incommodum_incommodi_n_.wav"
+  },
+  {
+    "latin": "latus, a, um",
+    "english": "wide",
+    "audio": "audio/de-bello-gallico/latus_a_um.wav"
+  },
+  {
+    "latin": "angustus, a, um",
+    "english": "narrow",
+    "audio": "audio/de-bello-gallico/angustus_a_um.wav"
+  },
+  {
+    "latin": "signum, signi, n.",
+    "english": "sign, standard",
+    "audio": "audio/de-bello-gallico/signum_signi_n_.wav"
+  },
+  {
+    "latin": "praedico, praedicare, praedicavi, praedicatus",
+    "english": "to proclaim",
+    "audio": "audio/de-bello-gallico/praedico_praedicare_praedicavi_praedicatus.wav"
+  },
+  {
+    "latin": "adduco, adducere, adduxi, adductus",
+    "english": "to lead on, influence",
+    "audio": "audio/de-bello-gallico/adduco_adducere_adduxi_adductus.wav"
+  },
+  {
+    "latin": "profectio, profectionis, f.",
+    "english": "departure",
+    "audio": "audio/de-bello-gallico/profectio_profectionis_f_.wav"
+  },
+  {
+    "latin": "aridum, aridi, n.",
+    "english": "dry land",
+    "audio": "audio/de-bello-gallico/aridum_aridi_n_.wav"
+  },
+  {
+    "latin": "praeda, -ae, f.",
+    "english": "loot",
+    "audio": "audio/de-bello-gallico/praeda_-ae_f_.wav"
+  },
+  {
+    "latin": "occulto, occultare, occultavi, occultatus",
+    "english": "to hide",
+    "audio": "audio/de-bello-gallico/occulto_occultare_occultavi_occultatus.wav"
+  },
+  {
+    "latin": "communis, commune",
+    "english": "common",
+    "audio": "audio/de-bello-gallico/communis_commune.wav"
+  },
+  {
+    "latin": "turris, turris, f.",
+    "english": "tower",
+    "audio": "audio/de-bello-gallico/turris_turris_f_.wav"
+  },
+  {
+    "latin": "paene (adv.)",
+    "english": "almost",
+    "audio": "audio/de-bello-gallico/paene_adv_.wav"
+  },
+  {
+    "latin": "apertus, aperta, apertum",
+    "english": "open, unprotected",
+    "audio": "audio/de-bello-gallico/apertus_aperta_apertum.wav"
+  },
+  {
+    "latin": "disciplina, -ae, f.",
+    "english": "training, instruction",
+    "audio": "audio/de-bello-gallico/disciplina_-ae_f_.wav"
+  },
+  {
+    "latin": "voluntas, -tatis, f.",
+    "english": "wish, goodwill",
+    "audio": "audio/de-bello-gallico/voluntas_-tatis_f_.wav"
+  },
+  {
+    "latin": "intra (+acc)",
+    "english": "within",
+    "audio": "audio/de-bello-gallico/intra_acc_.wav"
+  },
+  {
+    "latin": "gratia, -ae, f.",
+    "english": "favor, thanks",
+    "audio": "audio/de-bello-gallico/gratia_-ae_f_.wav"
+  },
+  {
+    "latin": "uter, utra, utrum",
+    "english": "which one",
+    "audio": "audio/de-bello-gallico/uter_utra_utrum.wav"
+  },
+  {
+    "latin": "existimo, existimare, existimavi, existimatus",
+    "english": "to consider, think",
+    "audio": "audio/de-bello-gallico/existimo_existimare_existimavi_existimatus.wav"
+  },
+  {
+    "latin": "praeterea",
+    "english": "in addition",
+    "audio": "audio/de-bello-gallico/praeterea.wav"
+  },
+  {
+    "latin": "biduum",
+    "english": "space of two days",
+    "audio": "audio/de-bello-gallico/biduum.wav"
+  },
+  {
+    "latin": "prohibeo, prohibere, prohibui, prohibitus",
+    "english": "to prevent",
+    "audio": "audio/de-bello-gallico/prohibeo_prohibere_prohibui_prohibitus.wav"
+  },
+  {
+    "latin": "paulum, -i, n.",
+    "english": "a little",
+    "audio": "audio/de-bello-gallico/paulum_-i_n_.wav"
+  },
+  {
+    "latin": "quaestor, quaestoris m.",
+    "english": "quaestor",
+    "audio": "audio/de-bello-gallico/quaestor_quaestoris_m_.wav"
+  },
+  {
+    "latin": "praemium, praemii, n.",
+    "english": "reward",
+    "audio": "audio/de-bello-gallico/praemium_praemii_n_.wav"
+  },
+  {
+    "latin": "morbus, -i, m.",
+    "english": "disease",
+    "audio": "audio/de-bello-gallico/morbus_-i_m_.wav"
+  },
+  {
+    "latin": "longinquus, -a, -um",
+    "english": "far away, distant",
+    "audio": "audio/de-bello-gallico/longinquus_-a_-um.wav"
+  },
+  {
+    "latin": "peditatus, -us, m.",
+    "english": "infantry",
+    "audio": "audio/de-bello-gallico/peditatus_-us_m_.wav"
+  },
+  {
+    "latin": "obses, obsidis, m.",
+    "english": "hostage",
+    "audio": "audio/de-bello-gallico/obses_obsidis_m_.wav"
+  },
+  {
+    "latin": "ordo, ordinis, m.",
+    "english": "order, rank",
+    "audio": "audio/de-bello-gallico/ordo_ordinis_m_.wav"
+  },
+  {
+    "latin": "agmen, agminis, n.",
+    "english": "marching column",
+    "audio": "audio/de-bello-gallico/agmen_agminis_n_.wav"
+  },
+  {
+    "latin": "efficio, efficere, effeci, effectus",
+    "english": "to carry out",
+    "audio": "audio/de-bello-gallico/efficio_efficere_effeci_effectus.wav"
+  },
+  {
+    "latin": "munio, munire, munivi, munitus",
+    "english": "to fortify",
+    "audio": "audio/de-bello-gallico/munio_munire_munivi_munitus.wav"
+  },
+  {
+    "latin": "pateo, patere, patui",
+    "english": "to be open",
+    "audio": "audio/de-bello-gallico/pateo_patere_patui.wav"
+  },
+  {
+    "latin": "desum, deesse, defui, defuturus (+dat.)",
+    "english": "to be missing, to be lacking",
+    "audio": "audio/de-bello-gallico/desum_deesse_defui_defuturus_dat_.wav"
+  },
+  {
+    "latin": "continens, continentis, f.",
+    "english": "continent, mainland",
+    "audio": "audio/de-bello-gallico/continens_continentis_f_.wav"
+  },
+  {
+    "latin": "membrum, membri, n.",
+    "english": "limb",
+    "audio": "audio/de-bello-gallico/membrum_membri_n_.wav"
+  },
+  {
+    "latin": "quisque, quidque",
+    "english": "each one",
+    "audio": "audio/de-bello-gallico/quisque_quidque.wav"
+  },
+  {
+    "latin": "vero (adv.)",
+    "english": "truly",
+    "audio": "audio/de-bello-gallico/vero_adv_.wav"
+  },
+  {
+    "latin": "coorior, cooriri, coortus sum",
+    "english": "to rise up",
+    "audio": "audio/de-bello-gallico/coorior_cooriri_coortus_sum.wav"
+  },
+  {
+    "latin": "vigilia, -ae, f.",
+    "english": "wakefulness, watchfulness watch",
+    "audio": "audio/de-bello-gallico/vigilia_-ae_f_.wav"
+  },
+  {
+    "latin": "frumentarius, -a, -um",
+    "english": "having to do with grain",
+    "audio": "audio/de-bello-gallico/frumentarius_-a_-um.wav"
+  },
+  {
+    "latin": "vulnero, vulnerare, vulneravi, vulneratus",
+    "english": "to wound",
+    "audio": "audio/de-bello-gallico/vulnero_vulnerare_vulneravi_vulneratus.wav"
+  },
+  {
+    "latin": "opinio, opinionis, f.",
+    "english": "opinion",
+    "audio": "audio/de-bello-gallico/opinio_opinionis_f_.wav"
+  },
+  {
+    "latin": "cupidus, a, um",
+    "english": "eager, desirous",
+    "audio": "audio/de-bello-gallico/cupidus_a_um.wav"
+  },
+  {
+    "latin": "unde",
+    "english": "from where",
+    "audio": "audio/de-bello-gallico/unde.wav"
+  },
+  {
+    "latin": "immolo, immolare, immolavi, immolatus",
+    "english": "to slay, sacrifice",
+    "audio": "audio/de-bello-gallico/immolo_immolare_immolavi_immolatus.wav"
+  },
+  {
+    "latin": "deicio, deicere, deieci, deiectus",
+    "english": "to throw down",
+    "audio": "audio/de-bello-gallico/deicio_deicere_deieci_deiectus.wav"
+  },
+  {
+    "latin": "impetro, impetrare, impetravi, impetratus",
+    "english": "to obtain, accomplish",
+    "audio": "audio/de-bello-gallico/impetro_impetrare_impetravi_impetratus.wav"
+  },
+  {
+    "latin": "cedo, cedere, cessi, cessus",
+    "english": "to yield",
+    "audio": "audio/de-bello-gallico/cedo_cedere_cessi_cessus.wav"
+  },
+  {
+    "latin": "oppugno, oppugnare, oppugnavi, oppugnatus",
+    "english": "to attack",
+    "audio": "audio/de-bello-gallico/oppugno_oppugnare_oppugnavi_oppugnatus.wav"
+  },
+  {
+    "latin": "concurro, concurrere, concurri, concursurus",
+    "english": "to rush",
+    "audio": "audio/de-bello-gallico/concurro_concurrere_concurri_concursurus.wav"
+  },
+  {
+    "latin": "interpono, interponere, interposui, interpositus",
+    "english": "to put between, insert, introduce",
+    "audio": "audio/de-bello-gallico/interpono_interponere_interposui_interpositus.wav"
+  },
+  {
+    "latin": "coepi, coepisse, coeptus",
+    "english": "to begin",
+    "audio": "audio/de-bello-gallico/coepi_coepisse_coeptus.wav"
+  },
+  {
+    "latin": "supero, superare, superavi, superatus",
+    "english": "to overcome",
+    "audio": "audio/de-bello-gallico/supero_superare_superavi_superatus.wav"
+  },
+  {
+    "latin": "provideo, providere, providi, provisus",
+    "english": "to foresee",
+    "audio": "audio/de-bello-gallico/provideo_providere_providi_provisus.wav"
+  },
+  {
+    "latin": "animus, animi, m.",
+    "english": "spirit, soul, mind",
+    "audio": "audio/de-bello-gallico/animus_animi_m_.wav"
+  },
+  {
+    "latin": "potens, potentis",
+    "english": "powerful",
+    "audio": "audio/de-bello-gallico/potens_potentis.wav"
+  },
+  {
+    "latin": "introeo, introire, introivi(ii), introitus",
+    "english": "to enter",
+    "audio": "audio/de-bello-gallico/introeo_introire_introivi_ii_introitus.wav"
+  },
+  {
+    "latin": "clients, clientis",
+    "english": "client, dependent",
+    "audio": "audio/de-bello-gallico/clients_clientis.wav"
+  },
+  {
+    "latin": "opera -ae f.",
+    "english": "work, effort",
+    "audio": "audio/de-bello-gallico/opera_-ae_f_.wav"
+  },
+  {
+    "latin": "pendo, pendere, pependi, pensus",
+    "english": "to pay",
+    "audio": "audio/de-bello-gallico/pendo_pendere_pependi_pensus.wav"
+  },
+  {
+    "latin": "latus, lateris, n.",
+    "english": "side",
+    "audio": "audio/de-bello-gallico/latus_lateris_n_.wav"
+  },
+  {
+    "latin": "interim (adv.)",
+    "english": "meanwhile",
+    "audio": "audio/de-bello-gallico/interim_adv_.wav"
+  },
+  {
+    "latin": "utor, uti, usus sum (+abl)",
+    "english": "to use",
+    "audio": "audio/de-bello-gallico/utor_uti_usus_sum_abl_.wav"
+  },
+  {
+    "latin": "carrus, carri, m.",
+    "english": "wagon, cart",
+    "audio": "audio/de-bello-gallico/carrus_carri_m_.wav"
+  },
+  {
+    "latin": "parco, parcere, peperci, parsus (+dat)",
+    "english": "to spare",
+    "audio": "audio/de-bello-gallico/parco_parcere_peperci_parsus_dat_.wav"
+  },
+  {
+    "latin": "impedimentum, impedimenti, n.",
+    "english": "baggage, hindrance",
+    "audio": "audio/de-bello-gallico/impedimentum_impedimenti_n_.wav"
+  },
+  {
+    "latin": "pristinus, a, um",
+    "english": "former",
+    "audio": "audio/de-bello-gallico/pristinus_a_um.wav"
+  },
+  {
+    "latin": "permoveo, permovere, permovi, permotus",
+    "english": "to move thoroughly, influence",
+    "audio": "audio/de-bello-gallico/permoveo_permovere_permovi_permotus.wav"
+  },
+  {
+    "latin": "paulo",
+    "english": "a little",
+    "audio": "audio/de-bello-gallico/paulo.wav"
+  },
+  {
+    "latin": "metus, metus, m.",
+    "english": "fear",
+    "audio": "audio/de-bello-gallico/metus_metus_m_.wav"
+  },
+  {
+    "latin": "fames, famis, f.",
+    "english": "hunger",
+    "audio": "audio/de-bello-gallico/fames_famis_f_.wav"
+  },
+  {
+    "latin": "cohortor, cohortari, cohortatus sum",
+    "english": "to encourage",
+    "audio": "audio/de-bello-gallico/cohortor_cohortari_cohortatus_sum.wav"
+  },
+  {
+    "latin": "conspectus, conspectus, m.",
+    "english": "sight",
+    "audio": "audio/de-bello-gallico/conspectus_conspectus_m_.wav"
+  },
+  {
+    "latin": "prodo, prodere, prodidi, proditus",
+    "english": "to hand over",
+    "audio": "audio/de-bello-gallico/prodo_prodere_prodidi_proditus.wav"
+  },
+  {
+    "latin": "institutum, instituti, n.",
+    "english": "custom",
+    "audio": "audio/de-bello-gallico/institutum_instituti_n_.wav"
+  },
+  {
+    "latin": "versor, versari, versatus sum",
+    "english": "to turn around, handle",
+    "audio": "audio/de-bello-gallico/versor_versari_versatus_sum.wav"
+  },
+  {
+    "latin": "oportet, oportere, oportuit",
+    "english": "it is fitting, ought",
+    "audio": "audio/de-bello-gallico/oportet_oportere_oportuit.wav"
+  }
+]

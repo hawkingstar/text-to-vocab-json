@@ -1,0 +1,72 @@
+[
+  {
+    "latin": "domus",
+    "english": "home, house",
+    "audio": "audio/domus-romana/domus.wav"
+  },
+  {
+    "latin": "latrina",
+    "english": "bathroom",
+    "audio": "audio/domus-romana/latrina.wav"
+  },
+  {
+    "latin": "hortus",
+    "english": "garden",
+    "audio": "audio/domus-romana/hortus.wav"
+  },
+  {
+    "latin": "peristylium",
+    "english": "garden surrounded by columns",
+    "audio": "audio/domus-romana/peristylium.wav"
+  },
+  {
+    "latin": "atrium",
+    "english": "atrium, main room, living room",
+    "audio": "audio/domus-romana/atrium.wav"
+  },
+  {
+    "latin": "cubiculum",
+    "english": "bedroom",
+    "audio": "audio/domus-romana/cubiculum.wav"
+  },
+  {
+    "latin": "culina",
+    "english": "kitchen",
+    "audio": "audio/domus-romana/culina.wav"
+  },
+  {
+    "latin": "tablinum",
+    "english": "office, study",
+    "audio": "audio/domus-romana/tablinum.wav"
+  },
+  {
+    "latin": "triclinium",
+    "english": "dining room",
+    "audio": "audio/domus-romana/triclinium.wav"
+  },
+  {
+    "latin": "cella",
+    "english": "store room, small room",
+    "audio": "audio/domus-romana/cella.wav"
+  },
+  {
+    "latin": "taberna",
+    "english": "a shop",
+    "audio": "audio/domus-romana/taberna.wav"
+  },
+  {
+    "latin": "impluvium",
+    "english": "small pool for rainwater",
+    "audio": "audio/domus-romana/impluvium.wav"
+  },
+  {
+    "latin": "compluvium",
+    "english": "hole in the roof",
+    "audio": "audio/domus-romana/compluvium.wav"
+  },
+  {
+    "latin": "lararium",
+    "english": "shrine to house gods",
+    "audio": "audio/domus-romana/lararium.wav"
+  }
+]

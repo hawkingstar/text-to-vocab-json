@@ -1,0 +1,97 @@
+[
+  {
+    "latin": "S(id)",
+    "english": "sine",
+    "audio": "audio/prepositions/S_id_.wav"
+  },
+  {
+    "latin": "I",
+    "english": "in (in/on)",
+    "audio": "audio/prepositions/I.wav"
+  },
+  {
+    "latin": "D",
+    "english": "de",
+    "audio": "audio/prepositions/D.wav"
+  },
+  {
+    "latin": "S(pace)",
+    "english": "sub",
+    "audio": "audio/prepositions/S_pace_.wav"
+  },
+  {
+    "latin": "P",
+    "english": "pro",
+    "audio": "audio/prepositions/P.wav"
+  },
+  {
+    "latin": "A",
+    "english": "ab/a",
+    "audio": "audio/prepositions/A.wav"
+  },
+  {
+    "latin": "C",
+    "english": "cum",
+    "audio": "audio/prepositions/C.wav"
+  },
+  {
+    "latin": "E",
+    "english": "ex/e",
+    "audio": "audio/prepositions/E.wav"
+  },
+  {
+    "latin": "C",
+    "english": "circum",
+    "audio": "audio/prepositions/C.wav"
+  },
+  {
+    "latin": "A (ppie)",
+    "english": "ad",
+    "audio": "audio/prepositions/A_ppie_.wav"
+  },
+  {
+    "latin": "P(pi)",
+    "english": "post",
+    "audio": "audio/prepositions/P_pi_.wav"
+  },
+  {
+    "latin": "P(i)",
+    "english": "per",
+    "audio": "audio/prepositions/P_i_.wav"
+  },
+  {
+    "latin": "I (cappi)",
+    "english": "in (into/onto)",
+    "audio": "audio/prepositions/I_cappi_.wav"
+  },
+  {
+    "latin": "P (atsie)",
+    "english": "prope",
+    "audio": "audio/prepositions/P_atsie_.wav"
+  },
+  {
+    "latin": "A (tsie)",
+    "english": "ante",
+    "audio": "audio/prepositions/A_tsie_.wav"
+  },
+  {
+    "latin": "T",
+    "english": "trans",
+    "audio": "audio/prepositions/T.wav"
+  },
+  {
+    "latin": "S",
+    "english": "sub",
+    "audio": "audio/prepositions/S.wav"
+  },
+  {
+    "latin": "I (e)",
+    "english": "inter",
+    "audio": "audio/prepositions/I_e_.wav"
+  },
+  {
+    "latin": "E",
+    "english": "extrā (outside)",
+    "audio": "audio/prepositions/E.wav"
+  }
+]

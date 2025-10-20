@@ -1,0 +1,302 @@
+[
+  {
+    "latin": "audiēnt",
+    "english": "they are hearing",
+    "audio": "audio/conjugation-examples/audi_nt.wav"
+  },
+  {
+    "latin": "portātis",
+    "english": "y'all are carrying",
+    "audio": "audio/conjugation-examples/port_tis.wav"
+  },
+  {
+    "latin": "audiēt",
+    "english": "s/he/it is hearing",
+    "audio": "audio/conjugation-examples/audi_t.wav"
+  },
+  {
+    "latin": "audio",
+    "english": "I am hearing",
+    "audio": "audio/conjugation-examples/audio.wav"
+  },
+  {
+    "latin": "docētis",
+    "english": "y'all are teaching",
+    "audio": "audio/conjugation-examples/doc_tis.wav"
+  },
+  {
+    "latin": "portābātis",
+    "english": "you (pl) were carrying",
+    "audio": "audio/conjugation-examples/port_b_tis.wav"
+  },
+  {
+    "latin": "trahēmus",
+    "english": "we are dragging",
+    "audio": "audio/conjugation-examples/trah_mus.wav"
+  },
+  {
+    "latin": "trahēbant",
+    "english": "they were dragging",
+    "audio": "audio/conjugation-examples/trah_bant.wav"
+  },
+  {
+    "latin": "docēbant",
+    "english": "they were teaching",
+    "audio": "audio/conjugation-examples/doc_bant.wav"
+  },
+  {
+    "latin": "es",
+    "english": "you are",
+    "audio": "audio/conjugation-examples/es.wav"
+  },
+  {
+    "latin": "audiēbat",
+    "english": "he/she/it was hearing",
+    "audio": "audio/conjugation-examples/audi_bat.wav"
+  },
+  {
+    "latin": "docēbat",
+    "english": "he/she/it was teaching",
+    "audio": "audio/conjugation-examples/doc_bat.wav"
+  },
+  {
+    "latin": "is",
+    "english": "s/he/it is",
+    "audio": "audio/conjugation-examples/is.wav"
+  },
+  {
+    "latin": "eramus",
+    "english": "we were",
+    "audio": "audio/conjugation-examples/eramus.wav"
+  },
+  {
+    "latin": "trahētis",
+    "english": "y'all are dragging",
+    "audio": "audio/conjugation-examples/trah_tis.wav"
+  },
+  {
+    "latin": "docēbās",
+    "english": "you were teaching",
+    "audio": "audio/conjugation-examples/doc_b_s.wav"
+  },
+  {
+    "latin": "portās",
+    "english": "you are carrying",
+    "audio": "audio/conjugation-examples/port_s.wav"
+  },
+  {
+    "latin": "portābant",
+    "english": "they were carrying",
+    "audio": "audio/conjugation-examples/port_bant.wav"
+  },
+  {
+    "latin": "portāmus",
+    "english": "we are carrying",
+    "audio": "audio/conjugation-examples/port_mus.wav"
+  },
+  {
+    "latin": "docēnt",
+    "english": "they are teaching",
+    "audio": "audio/conjugation-examples/doc_nt.wav"
+  },
+  {
+    "latin": "trahēbat",
+    "english": "he/she/it was dragging",
+    "audio": "audio/conjugation-examples/trah_bat.wav"
+  },
+  {
+    "latin": "trahēnt",
+    "english": "they are dragging",
+    "audio": "audio/conjugation-examples/trah_nt.wav"
+  },
+  {
+    "latin": "sum",
+    "english": "I am",
+    "audio": "audio/conjugation-examples/sum.wav"
+  },
+  {
+    "latin": "trahēbam",
+    "english": "I was dragging",
+    "audio": "audio/conjugation-examples/trah_bam.wav"
+  },
+  {
+    "latin": "portāt",
+    "english": "s/he/it is carrying",
+    "audio": "audio/conjugation-examples/port_t.wav"
+  },
+  {
+    "latin": "audiēs",
+    "english": "you are hearing",
+    "audio": "audio/conjugation-examples/audi_s.wav"
+  },
+  {
+    "latin": "portābat",
+    "english": "he/she/it was carrying",
+    "audio": "audio/conjugation-examples/port_bat.wav"
+  },
+  {
+    "latin": "docēt",
+    "english": "s/he/it is teaching",
+    "audio": "audio/conjugation-examples/doc_t.wav"
+  },
+  {
+    "latin": "eras",
+    "english": "you were",
+    "audio": "audio/conjugation-examples/eras.wav"
+  },
+  {
+    "latin": "sumus",
+    "english": "we are",
+    "audio": "audio/conjugation-examples/sumus.wav"
+  },
+  {
+    "latin": "trahēbātis",
+    "english": "You (pl) were dragging",
+    "audio": "audio/conjugation-examples/trah_b_tis.wav"
+  },
+  {
+    "latin": "portābam",
+    "english": "I was carrying",
+    "audio": "audio/conjugation-examples/port_bam.wav"
+  },
+  {
+    "latin": "audiēmus",
+    "english": "we are hearing",
+    "audio": "audio/conjugation-examples/audi_mus.wav"
+  },
+  {
+    "latin": "docēbātis",
+    "english": "you (pl) were teaching",
+    "audio": "audio/conjugation-examples/doc_b_tis.wav"
+  },
+  {
+    "latin": "docēbam",
+    "english": "I was teaching",
+    "audio": "audio/conjugation-examples/doc_bam.wav"
+  },
+  {
+    "latin": "audiēbās",
+    "english": "you were hearing",
+    "audio": "audio/conjugation-examples/audi_b_s.wav"
+  },
+  {
+    "latin": "estis",
+    "english": "y'all are",
+    "audio": "audio/conjugation-examples/estis.wav"
+  },
+  {
+    "latin": "sunt",
+    "english": "they are",
+    "audio": "audio/conjugation-examples/sunt.wav"
+  },
+  {
+    "latin": "docēbāmus",
+    "english": "we were teaching",
+    "audio": "audio/conjugation-examples/doc_b_mus.wav"
+  },
+  {
+    "latin": "trahēbāmus",
+    "english": "we were dragging",
+    "audio": "audio/conjugation-examples/trah_b_mus.wav"
+  },
+  {
+    "latin": "portābās",
+    "english": "you were carrying",
+    "audio": "audio/conjugation-examples/port_b_s.wav"
+  },
+  {
+    "latin": "doceo",
+    "english": "I am teaching",
+    "audio": "audio/conjugation-examples/doceo.wav"
+  },
+  {
+    "latin": "portābāmus",
+    "english": "we were carrying",
+    "audio": "audio/conjugation-examples/port_b_mus.wav"
+  },
+  {
+    "latin": "eram",
+    "english": "I was",
+    "audio": "audio/conjugation-examples/eram.wav"
+  },
+  {
+    "latin": "porto",
+    "english": "I am carrying",
+    "audio": "audio/conjugation-examples/porto.wav"
+  },
+  {
+    "latin": "audiēbāmus",
+    "english": "we were hearing",
+    "audio": "audio/conjugation-examples/audi_b_mus.wav"
+  },
+  {
+    "latin": "audiēbātis",
+    "english": "you (pl) were hearing",
+    "audio": "audio/conjugation-examples/audi_b_tis.wav"
+  },
+  {
+    "latin": "trahēs",
+    "english": "you are dragging",
+    "audio": "audio/conjugation-examples/trah_s.wav"
+  },
+  {
+    "latin": "trahēt",
+    "english": "s/he/it is dragging",
+    "audio": "audio/conjugation-examples/trah_t.wav"
+  },
+  {
+    "latin": "eratis",
+    "english": "you (pl) were",
+    "audio": "audio/conjugation-examples/eratis.wav"
+  },
+  {
+    "latin": "erant",
+    "english": "they were",
+    "audio": "audio/conjugation-examples/erant.wav"
+  },
+  {
+    "latin": "audiēbam",
+    "english": "I was hearing",
+    "audio": "audio/conjugation-examples/audi_bam.wav"
+  },
+  {
+    "latin": "audiētis",
+    "english": "y'all are hearing",
+    "audio": "audio/conjugation-examples/audi_tis.wav"
+  },
+  {
+    "latin": "audiēbant",
+    "english": "they were hearing",
+    "audio": "audio/conjugation-examples/audi_bant.wav"
+  },
+  {
+    "latin": "docēs",
+    "english": "you are teaching",
+    "audio": "audio/conjugation-examples/doc_s.wav"
+  },
+  {
+    "latin": "trahēbās",
+    "english": "you were dragging",
+    "audio": "audio/conjugation-examples/trah_b_s.wav"
+  },
+  {
+    "latin": "erat",
+    "english": "he, she, it was",
+    "audio": "audio/conjugation-examples/erat.wav"
+  },
+  {
+    "latin": "traho",
+    "english": "I am dragging",
+    "audio": "audio/conjugation-examples/traho.wav"
+  },
+  {
+    "latin": "portānt",
+    "english": "they are carrying",
+    "audio": "audio/conjugation-examples/port_nt.wav"
+  },
+  {
+    "latin": "docēmus",
+    "english": "we are teaching",
+    "audio": "audio/conjugation-examples/doc_mus.wav"
+  }
+]

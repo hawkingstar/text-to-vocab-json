@@ -1,0 +1,5057 @@
+[
+  {
+    "latin": "ā ab abs",
+    "english": "from, by (+abl.)",
+    "audio": "audio/thousand-terms/_ab_abs.wav"
+  },
+  {
+    "latin": "abeō -īre -iī -itum",
+    "english": "go away",
+    "audio": "audio/thousand-terms/abe_-_re_-i_-itum.wav"
+  },
+  {
+    "latin": "absum abesse āfuī",
+    "english": "be away, absent",
+    "audio": "audio/thousand-terms/absum_abesse_fu_.wav"
+  },
+  {
+    "latin": "ac",
+    "english": "see atque",
+    "audio": "audio/thousand-terms/ac.wav"
+  },
+  {
+    "latin": "accēdō -cēdere -cessī -cessum",
+    "english": "approach",
+    "audio": "audio/thousand-terms/acc_d_-c_dere_-cess_-cessum.wav"
+  },
+  {
+    "latin": "accidō -cidere -cidī",
+    "english": "fall; happen",
+    "audio": "audio/thousand-terms/accid_-cidere_-cid_.wav"
+  },
+  {
+    "latin": "accipiō -cipere -cēpī -ceptum",
+    "english": "receive",
+    "audio": "audio/thousand-terms/accipi_-cipere_-c_p_-ceptum.wav"
+  },
+  {
+    "latin": "ācer ācris ācre",
+    "english": "sharp, piercing",
+    "audio": "audio/thousand-terms/_cer_cris_cre.wav"
+  },
+  {
+    "latin": "aciēs -eī f.",
+    "english": "edge; line of battle",
+    "audio": "audio/thousand-terms/aci_s_-e_f_.wav"
+  },
+  {
+    "latin": "ad",
+    "english": "to, up to, towards (+acc.)",
+    "audio": "audio/thousand-terms/ad.wav"
+  },
+  {
+    "latin": "addō -dere -didī -ditum",
+    "english": "give to",
+    "audio": "audio/thousand-terms/add_-dere_-did_-ditum.wav"
+  },
+  {
+    "latin": "addūcō -ere -dūxī -ductum",
+    "english": "lead to, induce",
+    "audio": "audio/thousand-terms/add_c_-ere_-d_x_-ductum.wav"
+  },
+  {
+    "latin": "adeō -īre -iī -itum",
+    "english": "go to",
+    "audio": "audio/thousand-terms/ade_-_re_-i_-itum.wav"
+  },
+  {
+    "latin": "adeō",
+    "english": "(adv.) to such a degree, so",
+    "audio": "audio/thousand-terms/ade_.wav"
+  },
+  {
+    "latin": "adhibeō -hibēre -hibuī -hibitum",
+    "english": "apply",
+    "audio": "audio/thousand-terms/adhibe_-hib_re_-hibu_-hibitum.wav"
+  },
+  {
+    "latin": "adhūc",
+    "english": "thus far, to this point",
+    "audio": "audio/thousand-terms/adh_c.wav"
+  },
+  {
+    "latin": "adsum adesse affuī",
+    "english": "be present",
+    "audio": "audio/thousand-terms/adsum_adesse_affu_.wav"
+  },
+  {
+    "latin": "adveniō -īre -vēnī -ventum",
+    "english": "come to, arrive at",
+    "audio": "audio/thousand-terms/adveni_-_re_-v_n_-ventum.wav"
+  },
+  {
+    "latin": "adversus -a -um",
+    "english": "facing, opposed; unfavorable;",
+    "audio": "audio/thousand-terms/adversus_-a_-um.wav"
+  },
+  {
+    "latin": "adversus (-um)",
+    "english": "(adv. and prep.) facing, opposite, against, opposed (to)",
+    "audio": "audio/thousand-terms/adversus_-um_.wav"
+  },
+  {
+    "latin": "advertō -vertere -vertī -versum",
+    "english": "turn towards",
+    "audio": "audio/thousand-terms/advert_-vertere_-vert_-versum.wav"
+  },
+  {
+    "latin": "aedēs -is f.",
+    "english": "building; (pl.) house",
+    "audio": "audio/thousand-terms/aed_s_-is_f_.wav"
+  },
+  {
+    "latin": "aeger aegra agrum",
+    "english": "sick; aegrē, with difficulty",
+    "audio": "audio/thousand-terms/aeger_aegra_agrum.wav"
+  },
+  {
+    "latin": "aequor aequoris n.",
+    "english": "level surface, sea, plain",
+    "audio": "audio/thousand-terms/aequor_aequoris_n_.wav"
+  },
+  {
+    "latin": "aequus -a -um",
+    "english": "equal; aequē, equally",
+    "audio": "audio/thousand-terms/aequus_-a_-um.wav"
+  },
+  {
+    "latin": "āēr āeris m.",
+    "english": "air",
+    "audio": "audio/thousand-terms/_r_eris_m_.wav"
+  },
+  {
+    "latin": "aes aeris n.",
+    "english": "copper, bronze",
+    "audio": "audio/thousand-terms/aes_aeris_n_.wav"
+  },
+  {
+    "latin": "aetās -tātis f.",
+    "english": "age, time of life",
+    "audio": "audio/thousand-terms/aet_s_-t_tis_f_.wav"
+  },
+  {
+    "latin": "aeternus -a -um",
+    "english": "everlasting, eternal",
+    "audio": "audio/thousand-terms/aeternus_-a_-um.wav"
+  },
+  {
+    "latin": "aethēr aetheris n.",
+    "english": "pure upper air, ether, heaven, sky",
+    "audio": "audio/thousand-terms/aeth_r_aetheris_n_.wav"
+  },
+  {
+    "latin": "aevum -i n.",
+    "english": "eternity; lifetime, age",
+    "audio": "audio/thousand-terms/aevum_-i_n_.wav"
+  },
+  {
+    "latin": "afferō afferre attulī allātum",
+    "english": "bring to",
+    "audio": "audio/thousand-terms/affer_afferre_attul_all_tum.wav"
+  },
+  {
+    "latin": "afficiō -ficere -fēcī -fectum",
+    "english": "affect, visit with (+ abl.)",
+    "audio": "audio/thousand-terms/affici_-ficere_-f_c_-fectum.wav"
+  },
+  {
+    "latin": "ager agrī m.",
+    "english": "field",
+    "audio": "audio/thousand-terms/ager_agr_m_.wav"
+  },
+  {
+    "latin": "agitō -āre",
+    "english": "drive",
+    "audio": "audio/thousand-terms/agit_-_re.wav"
+  },
+  {
+    "latin": "āgmen -minis n.",
+    "english": "line of march",
+    "audio": "audio/thousand-terms/_gmen_-minis_n_.wav"
+  },
+  {
+    "latin": "agō agere ēgī āctum",
+    "english": "drive, do, act",
+    "audio": "audio/thousand-terms/ag_agere_g_ctum.wav"
+  },
+  {
+    "latin": "aiō",
+    "english": "say, affirm, say yes;",
+    "audio": "audio/thousand-terms/ai_.wav"
+  },
+  {
+    "latin": "ut aiunt",
+    "english": "as they say",
+    "audio": "audio/thousand-terms/ut_aiunt.wav"
+  },
+  {
+    "latin": "albus -a -um",
+    "english": "white",
+    "audio": "audio/thousand-terms/albus_-a_-um.wav"
+  },
+  {
+    "latin": "aliēnus -a -um",
+    "english": "foreign, strange",
+    "audio": "audio/thousand-terms/ali_nus_-a_-um.wav"
+  },
+  {
+    "latin": "aliquandō",
+    "english": "at some time, at length",
+    "audio": "audio/thousand-terms/aliquand_.wav"
+  },
+  {
+    "latin": "aliquis -quae -quod",
+    "english": "some, any;",
+    "audio": "audio/thousand-terms/aliquis_-quae_-quod.wav"
+  },
+  {
+    "latin": "si quis, si quid",
+    "english": "anyone who, anything that",
+    "audio": "audio/thousand-terms/si_quis_si_quid.wav"
+  },
+  {
+    "latin": "aliter",
+    "english": "otherwise, differently",
+    "audio": "audio/thousand-terms/aliter.wav"
+  },
+  {
+    "latin": "alius -a -ud",
+    "english": "other, another;",
+    "audio": "audio/thousand-terms/alius_-a_-ud.wav"
+  },
+  {
+    "latin": "alias",
+    "english": "at another time",
+    "audio": "audio/thousand-terms/alias.wav"
+  },
+  {
+    "latin": "alō alere aluī alitum",
+    "english": "nourish",
+    "audio": "audio/thousand-terms/al_alere_alu_alitum.wav"
+  },
+  {
+    "latin": "alter altera alterum",
+    "english": "other of two",
+    "audio": "audio/thousand-terms/alter_altera_alterum.wav"
+  },
+  {
+    "latin": "altus -a -um",
+    "english": "high, lofty; deep",
+    "audio": "audio/thousand-terms/altus_-a_-um.wav"
+  },
+  {
+    "latin": "amīcitia -ae f.",
+    "english": "friendship",
+    "audio": "audio/thousand-terms/am_citia_-ae_f_.wav"
+  },
+  {
+    "latin": "amīcus -a -um",
+    "english": "friendly; (as subst.) friend",
+    "audio": "audio/thousand-terms/am_cus_-a_-um.wav"
+  },
+  {
+    "latin": "āmittō -mittere -mīsī -missum",
+    "english": "let go, send away",
+    "audio": "audio/thousand-terms/_mitt_-mittere_-m_s_-missum.wav"
+  },
+  {
+    "latin": "amnis -is m.",
+    "english": "river, torrent",
+    "audio": "audio/thousand-terms/amnis_-is_m_.wav"
+  },
+  {
+    "latin": "amō -āre",
+    "english": "to love;",
+    "audio": "audio/thousand-terms/am_-_re.wav"
+  },
+  {
+    "latin": "amāns -ntis m./f.",
+    "english": "lover",
+    "audio": "audio/thousand-terms/am_ns_-ntis_m_f_.wav"
+  },
+  {
+    "latin": "amor -ōris m.",
+    "english": "love",
+    "audio": "audio/thousand-terms/amor_-_ris_m_.wav"
+  },
+  {
+    "latin": "amplus -a -um",
+    "english": "large, spacious",
+    "audio": "audio/thousand-terms/amplus_-a_-um.wav"
+  },
+  {
+    "latin": "an",
+    "english": "or",
+    "audio": "audio/thousand-terms/an.wav"
+  },
+  {
+    "latin": "anima -ae f.",
+    "english": "breath, spirit",
+    "audio": "audio/thousand-terms/anima_-ae_f_.wav"
+  },
+  {
+    "latin": "animal -ālis n.",
+    "english": "a living being, an animal",
+    "audio": "audio/thousand-terms/animal_-_lis_n_.wav"
+  },
+  {
+    "latin": "animus -ī m.",
+    "english": "spirit, mind",
+    "audio": "audio/thousand-terms/animus_-_m_.wav"
+  },
+  {
+    "latin": "annus -ī m.",
+    "english": "year",
+    "audio": "audio/thousand-terms/annus_-_m_.wav"
+  },
+  {
+    "latin": "ante",
+    "english": "before, in front of (adv. and prep. + acc.)",
+    "audio": "audio/thousand-terms/ante.wav"
+  },
+  {
+    "latin": "antequam",
+    "english": "before",
+    "audio": "audio/thousand-terms/antequam.wav"
+  },
+  {
+    "latin": "antīquus -a -um",
+    "english": "ancient, old-time, former",
+    "audio": "audio/thousand-terms/ant_quus_-a_-um.wav"
+  },
+  {
+    "latin": "aperiō aperīre aperuī apertum",
+    "english": "open",
+    "audio": "audio/thousand-terms/aperi_aper_re_aperu_apertum.wav"
+  },
+  {
+    "latin": "appāreō -ēre -uī",
+    "english": "appear, become visible",
+    "audio": "audio/thousand-terms/app_re_-_re_-u_.wav"
+  },
+  {
+    "latin": "appellō -pellāre",
+    "english": "call",
+    "audio": "audio/thousand-terms/appell_-pell_re.wav"
+  },
+  {
+    "latin": "aptus -a -um",
+    "english": "fit, suitable",
+    "audio": "audio/thousand-terms/aptus_-a_-um.wav"
+  },
+  {
+    "latin": "apud",
+    "english": "near, in the presence of (+acc.)",
+    "audio": "audio/thousand-terms/apud.wav"
+  },
+  {
+    "latin": "aqua -ae f.",
+    "english": "water",
+    "audio": "audio/thousand-terms/aqua_-ae_f_.wav"
+  },
+  {
+    "latin": "āra -ae f.",
+    "english": "altar",
+    "audio": "audio/thousand-terms/_ra_-ae_f_.wav"
+  },
+  {
+    "latin": "arbitror arbitrārī arbitrātus sum",
+    "english": "consider, think",
+    "audio": "audio/thousand-terms/arbitror_arbitr_r_arbitr_tus_sum.wav"
+  },
+  {
+    "latin": "arbor arboris f.",
+    "english": "tree",
+    "audio": "audio/thousand-terms/arbor_arboris_f_.wav"
+  },
+  {
+    "latin": "ārdeo ārdēre ārsī ārsum",
+    "english": "blaze, glow; be eager",
+    "audio": "audio/thousand-terms/_rdeo_rd_re_rs_rsum.wav"
+  },
+  {
+    "latin": "argentum -ī n.",
+    "english": "silver, money",
+    "audio": "audio/thousand-terms/argentum_-_n_.wav"
+  },
+  {
+    "latin": "arma -ōrum n. pl.",
+    "english": "arms, weapons",
+    "audio": "audio/thousand-terms/arma_-_rum_n_pl_.wav"
+  },
+  {
+    "latin": "ars artis f.",
+    "english": "skill",
+    "audio": "audio/thousand-terms/ars_artis_f_.wav"
+  },
+  {
+    "latin": "arvum -ī n.",
+    "english": "ploughed land, field",
+    "audio": "audio/thousand-terms/arvum_-_n_.wav"
+  },
+  {
+    "latin": "arx arcis f.",
+    "english": "citadel, castle; summit",
+    "audio": "audio/thousand-terms/arx_arcis_f_.wav"
+  },
+  {
+    "latin": "ascendō -ere -scendī -scēnsum",
+    "english": "climb up, ascend",
+    "audio": "audio/thousand-terms/ascend_-ere_-scend_-sc_nsum.wav"
+  },
+  {
+    "latin": "aspiciō -ere -spēxī -spectum",
+    "english": "look to or at, behold",
+    "audio": "audio/thousand-terms/aspici_-ere_-sp_x_-spectum.wav"
+  },
+  {
+    "latin": "astrum -ī n.",
+    "english": "star; constellation",
+    "audio": "audio/thousand-terms/astrum_-_n_.wav"
+  },
+  {
+    "latin": "at",
+    "english": "but, but yet",
+    "audio": "audio/thousand-terms/at.wav"
+  },
+  {
+    "latin": "atque, ac",
+    "english": "and in addition, and also, and; (after comparatives) than; simul atque, as soon as",
+    "audio": "audio/thousand-terms/atque_ac.wav"
+  },
+  {
+    "latin": "auctor -ōris m.",
+    "english": "originator, founder",
+    "audio": "audio/thousand-terms/auctor_-_ris_m_.wav"
+  },
+  {
+    "latin": "auctōritās -ātis f.",
+    "english": "influence, clout, authority",
+    "audio": "audio/thousand-terms/auct_rit_s_-_tis_f_.wav"
+  },
+  {
+    "latin": "audāx audācis",
+    "english": "bold, daring; reckless",
+    "audio": "audio/thousand-terms/aud_x_aud_cis.wav"
+  },
+  {
+    "latin": "audeō audēre ausus sum",
+    "english": "dare, be eager",
+    "audio": "audio/thousand-terms/aude_aud_re_ausus_sum.wav"
+  },
+  {
+    "latin": "audiō -īre -īvī/-iī -ītum",
+    "english": "hear, listen to",
+    "audio": "audio/thousand-terms/audi_-_re_-_v_-i_-_tum.wav"
+  },
+  {
+    "latin": "auferō auferre abstulī ablātum",
+    "english": "take away",
+    "audio": "audio/thousand-terms/aufer_auferre_abstul_abl_tum.wav"
+  },
+  {
+    "latin": "augeō augēre auxī auctum",
+    "english": "increase",
+    "audio": "audio/thousand-terms/auge_aug_re_aux_auctum.wav"
+  },
+  {
+    "latin": "aura -ae f.",
+    "english": "breeze",
+    "audio": "audio/thousand-terms/aura_-ae_f_.wav"
+  },
+  {
+    "latin": "aureus -a -um",
+    "english": "golden; splendid",
+    "audio": "audio/thousand-terms/aureus_-a_-um.wav"
+  },
+  {
+    "latin": "auris -is f.",
+    "english": "ear",
+    "audio": "audio/thousand-terms/auris_-is_f_.wav"
+  },
+  {
+    "latin": "aurum -ī n.",
+    "english": "gold",
+    "audio": "audio/thousand-terms/aurum_-_n_.wav"
+  },
+  {
+    "latin": "aut",
+    "english": "or",
+    "audio": "audio/thousand-terms/aut.wav"
+  },
+  {
+    "latin": "autem",
+    "english": "moreover, but, however",
+    "audio": "audio/thousand-terms/autem.wav"
+  },
+  {
+    "latin": "auxilium -ī n.",
+    "english": "support, assistance; (pl.) auxiliary forces",
+    "audio": "audio/thousand-terms/auxilium_-_n_.wav"
+  },
+  {
+    "latin": "avis -is f.",
+    "english": "bird",
+    "audio": "audio/thousand-terms/avis_-is_f_.wav"
+  },
+  {
+    "latin": "barbarus -i m.",
+    "english": "foreigner, barbarian",
+    "audio": "audio/thousand-terms/barbarus_-i_m_.wav"
+  },
+  {
+    "latin": "beātus -a -um",
+    "english": "happy, blessed, prosperous, fortunate",
+    "audio": "audio/thousand-terms/be_tus_-a_-um.wav"
+  },
+  {
+    "latin": "bellum -ī n.",
+    "english": "war",
+    "audio": "audio/thousand-terms/bellum_-_n_.wav"
+  },
+  {
+    "latin": "bene",
+    "english": "well",
+    "audio": "audio/thousand-terms/bene.wav"
+  },
+  {
+    "latin": "beneficium -ī n.",
+    "english": "service, kindness",
+    "audio": "audio/thousand-terms/beneficium_-_n_.wav"
+  },
+  {
+    "latin": "bonus -a -um",
+    "english": "good",
+    "audio": "audio/thousand-terms/bonus_-a_-um.wav"
+  },
+  {
+    "latin": "bōs bovis m.",
+    "english": "ox; gen. pl. boum",
+    "audio": "audio/thousand-terms/b_s_bovis_m_.wav"
+  },
+  {
+    "latin": "brevis -e",
+    "english": "short, shallow, brief; adv. breviter",
+    "audio": "audio/thousand-terms/brevis_-e.wav"
+  },
+  {
+    "latin": "cadō cadere cecidī cāsum",
+    "english": "fall, be killed",
+    "audio": "audio/thousand-terms/cad_cadere_cecid_c_sum.wav"
+  },
+  {
+    "latin": "caecus -a -um",
+    "english": "blind, unseeing; dark, obscure",
+    "audio": "audio/thousand-terms/caecus_-a_-um.wav"
+  },
+  {
+    "latin": "caedēs -is f.",
+    "english": "killing, slaughter",
+    "audio": "audio/thousand-terms/caed_s_-is_f_.wav"
+  },
+  {
+    "latin": "caedō caedere cecīdī caesum",
+    "english": "strike, kill, cut down",
+    "audio": "audio/thousand-terms/caed_caedere_cec_d_caesum.wav"
+  },
+  {
+    "latin": "caelestis -e",
+    "english": "from or of heaven; caelestēs, the gods",
+    "audio": "audio/thousand-terms/caelestis_-e.wav"
+  },
+  {
+    "latin": "caelum -ī n.",
+    "english": "sky, heavens",
+    "audio": "audio/thousand-terms/caelum_-_n_.wav"
+  },
+  {
+    "latin": "campus -ī m.",
+    "english": "plain, field",
+    "audio": "audio/thousand-terms/campus_-_m_.wav"
+  },
+  {
+    "latin": "candidus -a -um",
+    "english": "white, fair",
+    "audio": "audio/thousand-terms/candidus_-a_-um.wav"
+  },
+  {
+    "latin": "canis -is m./f.",
+    "english": "dog",
+    "audio": "audio/thousand-terms/canis_-is_m_f_.wav"
+  },
+  {
+    "latin": "canō canere cecinī cantum",
+    "english": "sing",
+    "audio": "audio/thousand-terms/can_canere_cecin_cantum.wav"
+  },
+  {
+    "latin": "capiō capere cēpī captum",
+    "english": "seize",
+    "audio": "audio/thousand-terms/capi_capere_c_p_captum.wav"
+  },
+  {
+    "latin": "caput capitis n.",
+    "english": "head",
+    "audio": "audio/thousand-terms/caput_capitis_n_.wav"
+  },
+  {
+    "latin": "careō -ēre -uī",
+    "english": "lack (+ abl.)",
+    "audio": "audio/thousand-terms/care_-_re_-u_.wav"
+  },
+  {
+    "latin": "carmen -inis n.",
+    "english": "song",
+    "audio": "audio/thousand-terms/carmen_-inis_n_.wav"
+  },
+  {
+    "latin": "cārus -a -um",
+    "english": "dear",
+    "audio": "audio/thousand-terms/c_rus_-a_-um.wav"
+  },
+  {
+    "latin": "castrum -ī n.",
+    "english": "fortress, (regularly plural, castra camp)",
+    "audio": "audio/thousand-terms/castrum_-_n_.wav"
+  },
+  {
+    "latin": "castus -a -um",
+    "english": "pure, spotless, chaste",
+    "audio": "audio/thousand-terms/castus_-a_-um.wav"
+  },
+  {
+    "latin": "cāsus -ūs m.",
+    "english": "a fall; chance, accident;",
+    "audio": "audio/thousand-terms/c_sus_-_s_m_.wav"
+  },
+  {
+    "latin": "causa -ae f.",
+    "english": "cause, reason; causā + preceding genitive, for the sake of",
+    "audio": "audio/thousand-terms/causa_-ae_f_.wav"
+  },
+  {
+    "latin": "caveō cavēre cāvī cautum",
+    "english": "be on guard, beware",
+    "audio": "audio/thousand-terms/cave_cav_re_c_v_cautum.wav"
+  },
+  {
+    "latin": "cēdō cēdere cessī cessum",
+    "english": "go, move; yield",
+    "audio": "audio/thousand-terms/c_d_c_dere_cess_cessum.wav"
+  },
+  {
+    "latin": "celebrō -āre",
+    "english": "frequent, throng, crowd",
+    "audio": "audio/thousand-terms/celebr_-_re.wav"
+  },
+  {
+    "latin": "celer -is -e",
+    "english": "swift; adv. celeriter",
+    "audio": "audio/thousand-terms/celer_-is_-e.wav"
+  },
+  {
+    "latin": "cēnseō cēnsēre cēnsuī cēnsum",
+    "english": "assess, rate; think, decide",
+    "audio": "audio/thousand-terms/c_nse_c_ns_re_c_nsu_c_nsum.wav"
+  },
+  {
+    "latin": "centum",
+    "english": "one hundred",
+    "audio": "audio/thousand-terms/centum.wav"
+  },
+  {
+    "latin": "cernō cernere crēvī crētum",
+    "english": "discern, separate",
+    "audio": "audio/thousand-terms/cern_cernere_cr_v_cr_tum.wav"
+  },
+  {
+    "latin": "certō -āre",
+    "english": "decide by contest; fight, compete, vie",
+    "audio": "audio/thousand-terms/cert_-_re.wav"
+  },
+  {
+    "latin": "certus -a -um",
+    "english": "sure, fixed; certē, certainly, surely",
+    "audio": "audio/thousand-terms/certus_-a_-um.wav"
+  },
+  {
+    "latin": "cēterus -a -um",
+    "english": "the others, the rest; adv. cēterum for the rest, in addition, however, that may be",
+    "audio": "audio/thousand-terms/c_terus_-a_-um.wav"
+  },
+  {
+    "latin": "cibus -i m.",
+    "english": "food",
+    "audio": "audio/thousand-terms/cibus_-i_m_.wav"
+  },
+  {
+    "latin": "cingō cingere cīnxī cīnctum",
+    "english": "encircle, surround, gird",
+    "audio": "audio/thousand-terms/cing_cingere_c_nx_c_nctum.wav"
+  },
+  {
+    "latin": "cinis cineris m./f.",
+    "english": "ashes, embers",
+    "audio": "audio/thousand-terms/cinis_cineris_m_f_.wav"
+  },
+  {
+    "latin": "circā",
+    "english": "around (adv. and prep. +acc.)",
+    "audio": "audio/thousand-terms/circ_.wav"
+  },
+  {
+    "latin": "citus -a -um",
+    "english": "swift; citō swiftly",
+    "audio": "audio/thousand-terms/citus_-a_-um.wav"
+  },
+  {
+    "latin": "cīvis -is m./f.",
+    "english": "citizen",
+    "audio": "audio/thousand-terms/c_vis_-is_m_f_.wav"
+  },
+  {
+    "latin": "cīvitās -ātis f.",
+    "english": "citizenship, state",
+    "audio": "audio/thousand-terms/c_vit_s_-_tis_f_.wav"
+  },
+  {
+    "latin": "clāmor -ōris m.",
+    "english": "outcry, shout",
+    "audio": "audio/thousand-terms/cl_mor_-_ris_m_.wav"
+  },
+  {
+    "latin": "clārus -a -um",
+    "english": "clear, distinguished",
+    "audio": "audio/thousand-terms/cl_rus_-a_-um.wav"
+  },
+  {
+    "latin": "classis -is f.",
+    "english": "class, division, fleet",
+    "audio": "audio/thousand-terms/classis_-is_f_.wav"
+  },
+  {
+    "latin": "claudō claudere clausī clausum",
+    "english": "close, shut",
+    "audio": "audio/thousand-terms/claud_claudere_claus_clausum.wav"
+  },
+  {
+    "latin": "coepī coepisse, coeptus",
+    "english": "begin",
+    "audio": "audio/thousand-terms/coep_coepisse_coeptus.wav"
+  },
+  {
+    "latin": "cōgitō -āre",
+    "english": "think, reflect",
+    "audio": "audio/thousand-terms/c_git_-_re.wav"
+  },
+  {
+    "latin": "cōgnōscō -gnōscere -gnōvī -gnitum",
+    "english": "learn, understand",
+    "audio": "audio/thousand-terms/c_gn_sc_-gn_scere_-gn_v_-gnitum.wav"
+  },
+  {
+    "latin": "cōgō cōgere coēgī coāctum",
+    "english": "drive together; compel",
+    "audio": "audio/thousand-terms/c_g_c_gere_co_g_co_ctum.wav"
+  },
+  {
+    "latin": "cohors cohortis f.",
+    "english": "cohort, band, troop",
+    "audio": "audio/thousand-terms/cohors_cohortis_f_.wav"
+  },
+  {
+    "latin": "colligō -ere -lēgī -lēctum",
+    "english": "gather together, collect",
+    "audio": "audio/thousand-terms/collig_-ere_-l_g_-l_ctum.wav"
+  },
+  {
+    "latin": "colō colere coluī cultum",
+    "english": "inhabit, cultivate",
+    "audio": "audio/thousand-terms/col_colere_colu_cultum.wav"
+  },
+  {
+    "latin": "color -ōris m.",
+    "english": "color",
+    "audio": "audio/thousand-terms/color_-_ris_m_.wav"
+  },
+  {
+    "latin": "coma -ae, f.",
+    "english": "hair, tresses",
+    "audio": "audio/thousand-terms/coma_-ae_f_.wav"
+  },
+  {
+    "latin": "comes comitis m./f.",
+    "english": "companion, comrade; attendant, follower",
+    "audio": "audio/thousand-terms/comes_comitis_m_f_.wav"
+  },
+  {
+    "latin": "committō -mittere -mīsī -missum",
+    "english": "join, entrust to (+ dat.); perform, do",
+    "audio": "audio/thousand-terms/committ_-mittere_-m_s_-missum.wav"
+  },
+  {
+    "latin": "commūnis -e",
+    "english": "common, general",
+    "audio": "audio/thousand-terms/comm_nis_-e.wav"
+  },
+  {
+    "latin": "comparō -āre",
+    "english": "get ready, provide; compare",
+    "audio": "audio/thousand-terms/compar_-_re.wav"
+  },
+  {
+    "latin": "compōnō -pōnere posuī positum",
+    "english": "build, construct, arrange",
+    "audio": "audio/thousand-terms/comp_n_-p_nere_posu_positum.wav"
+  },
+  {
+    "latin": "concēdō -cēdere -cessī -cessum",
+    "english": "yield, withdraw",
+    "audio": "audio/thousand-terms/conc_d_-c_dere_-cess_-cessum.wav"
+  },
+  {
+    "latin": "condīciō -ōnis f.",
+    "english": "agreement, condition",
+    "audio": "audio/thousand-terms/cond_ci_-_nis_f_.wav"
+  },
+  {
+    "latin": "condō -dere -didī -ditum",
+    "english": "build, found; store up; hide, conceal",
+    "audio": "audio/thousand-terms/cond_-dere_-did_-ditum.wav"
+  },
+  {
+    "latin": "cōnferō conferre contulī collātum",
+    "english": "collect, bring to",
+    "audio": "audio/thousand-terms/c_nfer_conferre_contul_coll_tum.wav"
+  },
+  {
+    "latin": "conficiō -ficere -fēcī -fectum",
+    "english": "complete, accomplish; destroy, kill, consume",
+    "audio": "audio/thousand-terms/confici_-ficere_-f_c_-fectum.wav"
+  },
+  {
+    "latin": "cōnfiteor cōnfitērī cōnfessus sum",
+    "english": "admit (a fact), confess (a crime); reveal, disclose",
+    "audio": "audio/thousand-terms/c_nfiteor_c_nfit_r_c_nfessus_sum.wav"
+  },
+  {
+    "latin": "coniunx coniugis m./f.",
+    "english": "spouse, husband, wife",
+    "audio": "audio/thousand-terms/coniunx_coniugis_m_f_.wav"
+  },
+  {
+    "latin": "cōnor cōnārī cōnātus sum",
+    "english": "try, attempt",
+    "audio": "audio/thousand-terms/c_nor_c_n_r_c_n_tus_sum.wav"
+  },
+  {
+    "latin": "cōnsequor -sequī -secūtus sum",
+    "english": "follow up, overtake, attain",
+    "audio": "audio/thousand-terms/c_nsequor_-sequ_-sec_tus_sum.wav"
+  },
+  {
+    "latin": "cōnsilium -ī n.",
+    "english": "plan; council, group of advisors",
+    "audio": "audio/thousand-terms/c_nsilium_-_n_.wav"
+  },
+  {
+    "latin": "cōnsistō -sistere -stitī",
+    "english": "take position; consist in, be composed of",
+    "audio": "audio/thousand-terms/c_nsist_-sistere_-stit_.wav"
+  },
+  {
+    "latin": "cōnstituō -stituere -stituī -stitūtum",
+    "english": "establish, put together",
+    "audio": "audio/thousand-terms/c_nstitu_-stituere_-stitu_-stit_tum.wav"
+  },
+  {
+    "latin": "cōnstō -stāre -stitī",
+    "english": "agree; constat, it is established that (+ acc. and infin.)",
+    "audio": "audio/thousand-terms/c_nst_-st_re_-stit_.wav"
+  },
+  {
+    "latin": "cōnsuētūdo -inis f.",
+    "english": "custom, habit",
+    "audio": "audio/thousand-terms/c_nsu_t_do_-inis_f_.wav"
+  },
+  {
+    "latin": "cōnsul -ulis m.",
+    "english": "consul",
+    "audio": "audio/thousand-terms/c_nsul_-ulis_m_.wav"
+  },
+  {
+    "latin": "cōnsulō -sulere -suluī -sultum",
+    "english": "consult, plan (+ acc.); consider the interests of (+dat)",
+    "audio": "audio/thousand-terms/c_nsul_-sulere_-sulu_-sultum.wav"
+  },
+  {
+    "latin": "cōnsūmō -sūmere -sūmpsī -sūmptum",
+    "english": "to use up, consume",
+    "audio": "audio/thousand-terms/c_ns_m_-s_mere_-s_mps_-s_mptum.wav"
+  },
+  {
+    "latin": "contemnō -temnere -tempsī -temptum",
+    "english": "despise, scorn, disdain",
+    "audio": "audio/thousand-terms/contemn_-temnere_-temps_-temptum.wav"
+  },
+  {
+    "latin": "contineō -tinēre -tinuī -tentum",
+    "english": "contain, restrain",
+    "audio": "audio/thousand-terms/contine_-tin_re_-tinu_-tentum.wav"
+  },
+  {
+    "latin": "contingō -tingere -tigī -tactum",
+    "english": "touch, be contiguous to",
+    "audio": "audio/thousand-terms/conting_-tingere_-tig_-tactum.wav"
+  },
+  {
+    "latin": "contrā",
+    "english": "against, opposite (adv. and prep. +acc.)",
+    "audio": "audio/thousand-terms/contr_.wav"
+  },
+  {
+    "latin": "conveniō -venīre -vēnī -ventum",
+    "english": "assemble, meet; agree",
+    "audio": "audio/thousand-terms/conveni_-ven_re_-v_n_-ventum.wav"
+  },
+  {
+    "latin": "convertō -vertere -vertī -versum",
+    "english": "turn about, turn, change",
+    "audio": "audio/thousand-terms/convert_-vertere_-vert_-versum.wav"
+  },
+  {
+    "latin": "convīvium -iī n.",
+    "english": "banquet, feast",
+    "audio": "audio/thousand-terms/conv_vium_-i_n_.wav"
+  },
+  {
+    "latin": "cōpia -ae f.",
+    "english": "abundance; (pl.) troops",
+    "audio": "audio/thousand-terms/c_pia_-ae_f_.wav"
+  },
+  {
+    "latin": "cor cordis n.",
+    "english": "heart; cordī est, it is pleasing to (+ dat.)",
+    "audio": "audio/thousand-terms/cor_cordis_n_.wav"
+  },
+  {
+    "latin": "cornu -ūs n.",
+    "english": "horn",
+    "audio": "audio/thousand-terms/cornu_-_s_n_.wav"
+  },
+  {
+    "latin": "corpus corporis n.",
+    "english": "body",
+    "audio": "audio/thousand-terms/corpus_corporis_n_.wav"
+  },
+  {
+    "latin": "corrumpō -rumpere -rūpī -ruptum",
+    "english": "break up, destroy, ruin",
+    "audio": "audio/thousand-terms/corrump_-rumpere_-r_p_-ruptum.wav"
+  },
+  {
+    "latin": "crēdō crēdere crēdidī crēditum",
+    "english": "believe",
+    "audio": "audio/thousand-terms/cr_d_cr_dere_cr_did_cr_ditum.wav"
+  },
+  {
+    "latin": "creō -āre",
+    "english": "produce, create; elect, choose",
+    "audio": "audio/thousand-terms/cre_-_re.wav"
+  },
+  {
+    "latin": "crēscō crēscere crēvī crētum",
+    "english": "grow, increase",
+    "audio": "audio/thousand-terms/cr_sc_cr_scere_cr_v_cr_tum.wav"
+  },
+  {
+    "latin": "crīmen -inis n.",
+    "english": "verdict, accusation",
+    "audio": "audio/thousand-terms/cr_men_-inis_n_.wav"
+  },
+  {
+    "latin": "culpa -ae f.",
+    "english": "guilt, fault, blame",
+    "audio": "audio/thousand-terms/culpa_-ae_f_.wav"
+  },
+  {
+    "latin": "cum",
+    "english": "with (prep. + abl.); when, since, although (conjunction + subj.)",
+    "audio": "audio/thousand-terms/cum.wav"
+  },
+  {
+    "latin": "cūnctus -a -um",
+    "english": "entire all together",
+    "audio": "audio/thousand-terms/c_nctus_-a_-um.wav"
+  },
+  {
+    "latin": "cupīdō -inis f.",
+    "english": "desire, eagerness, craving",
+    "audio": "audio/thousand-terms/cup_d_-inis_f_.wav"
+  },
+  {
+    "latin": "cupiō -ere -īvī -ītum",
+    "english": "desire",
+    "audio": "audio/thousand-terms/cupi_-ere_-_v_-_tum.wav"
+  },
+  {
+    "latin": "cūr",
+    "english": "why?",
+    "audio": "audio/thousand-terms/c_r.wav"
+  },
+  {
+    "latin": "cūra -ae f.",
+    "english": "care, concern",
+    "audio": "audio/thousand-terms/c_ra_-ae_f_.wav"
+  },
+  {
+    "latin": "cūrō -āre",
+    "english": "watch over, look after, care for (+ acc.)",
+    "audio": "audio/thousand-terms/c_r_-_re.wav"
+  },
+  {
+    "latin": "currō currere cucurrī cursum",
+    "english": "run",
+    "audio": "audio/thousand-terms/curr_currere_cucurr_cursum.wav"
+  },
+  {
+    "latin": "currus -ūs m.",
+    "english": "chariot",
+    "audio": "audio/thousand-terms/currus_-_s_m_.wav"
+  },
+  {
+    "latin": "cursus -ūs m.",
+    "english": "course, advance",
+    "audio": "audio/thousand-terms/cursus_-_s_m_.wav"
+  },
+  {
+    "latin": "custōs, cūstōdis m.",
+    "english": "guardian",
+    "audio": "audio/thousand-terms/cust_s_c_st_dis_m_.wav"
+  },
+  {
+    "latin": "damnō -āre",
+    "english": "condemn",
+    "audio": "audio/thousand-terms/damn_-_re.wav"
+  },
+  {
+    "latin": "damnum -ī n.",
+    "english": "damage, injury",
+    "audio": "audio/thousand-terms/damnum_-_n_.wav"
+  },
+  {
+    "latin": "dē",
+    "english": "down from, about, concerning (+ abl.)",
+    "audio": "audio/thousand-terms/d_.wav"
+  },
+  {
+    "latin": "dēbeō dēbēre dēbuī dēbitum",
+    "english": "owe, be obliged",
+    "audio": "audio/thousand-terms/d_be_d_b_re_d_bu_d_bitum.wav"
+  },
+  {
+    "latin": "decem",
+    "english": "ten",
+    "audio": "audio/thousand-terms/decem.wav"
+  },
+  {
+    "latin": "dēcernō -cernere -crēvī -crētum",
+    "english": "determine, decide",
+    "audio": "audio/thousand-terms/d_cern_-cernere_-cr_v_-cr_tum.wav"
+  },
+  {
+    "latin": "decet decēre decuīt",
+    "english": "to add grace to, adorn, become; (impers.) it is right, proper, fitting (+ acc. and infin.)",
+    "audio": "audio/thousand-terms/decet_dec_re_decu_t.wav"
+  },
+  {
+    "latin": "decus decoris n.",
+    "english": "beauty, grace; ornament, glory, honor",
+    "audio": "audio/thousand-terms/decus_decoris_n_.wav"
+  },
+  {
+    "latin": "dēdūcō -dūcere -dūxī -ductum",
+    "english": "launch, lead away",
+    "audio": "audio/thousand-terms/d_d_c_-d_cere_-d_x_-ductum.wav"
+  },
+  {
+    "latin": "dēfendō -fendere -fendī -fēnsum",
+    "english": "defend, ward off",
+    "audio": "audio/thousand-terms/d_fend_-fendere_-fend_-f_nsum.wav"
+  },
+  {
+    "latin": "dēferō -ferre -tulī -lātum",
+    "english": "carry away, report",
+    "audio": "audio/thousand-terms/d_fer_-ferre_-tul_-l_tum.wav"
+  },
+  {
+    "latin": "deficiō -ficere -fēcī -fectum",
+    "english": "fail, give out; revolt from",
+    "audio": "audio/thousand-terms/defici_-ficere_-f_c_-fectum.wav"
+  },
+  {
+    "latin": "deinde/dein",
+    "english": "then, next",
+    "audio": "audio/thousand-terms/deinde_dein.wav"
+  },
+  {
+    "latin": "dēnique",
+    "english": "finally",
+    "audio": "audio/thousand-terms/d_nique.wav"
+  },
+  {
+    "latin": "dēscendō -scendere -scendi -scēnsum",
+    "english": "climb down, descend",
+    "audio": "audio/thousand-terms/d_scend_-scendere_-scendi_-sc_nsum.wav"
+  },
+  {
+    "latin": "dēserō -ere dēseruī dēsertum",
+    "english": "leave, desert, abandon",
+    "audio": "audio/thousand-terms/d_ser_-ere_d_seru_d_sertum.wav"
+  },
+  {
+    "latin": "dēsīderō -āre",
+    "english": "long for, desire greatly",
+    "audio": "audio/thousand-terms/d_s_der_-_re.wav"
+  },
+  {
+    "latin": "dēsinō -sinere -sīvī -situm",
+    "english": "leave off, cease",
+    "audio": "audio/thousand-terms/d_sin_-sinere_-s_v_-situm.wav"
+  },
+  {
+    "latin": "dēsum -esse -fuī",
+    "english": "be lacking",
+    "audio": "audio/thousand-terms/d_sum_-esse_-fu_.wav"
+  },
+  {
+    "latin": "deus -ī m.; dea -ae f.",
+    "english": "god; goddess",
+    "audio": "audio/thousand-terms/deus_-_m_dea_-ae_f_.wav"
+  },
+  {
+    "latin": "dexter -tra -trum",
+    "english": "right; dextera -ae f. right hand",
+    "audio": "audio/thousand-terms/dexter_-tra_-trum.wav"
+  },
+  {
+    "latin": "dīcō dīcere dīxī dictum",
+    "english": "say; causam dīcere, plead a case; diem dīcere, appoint a day",
+    "audio": "audio/thousand-terms/d_c_d_cere_d_x_dictum.wav"
+  },
+  {
+    "latin": "diēs diēī m./f.",
+    "english": "day",
+    "audio": "audio/thousand-terms/di_s_di_m_f_.wav"
+  },
+  {
+    "latin": "differō differre distulī dīlātum",
+    "english": "scatter; publish, divulge; differ; defer, postpone",
+    "audio": "audio/thousand-terms/differ_differre_distul_d_l_tum.wav"
+  },
+  {
+    "latin": "difficilis -e",
+    "english": "not easy, hard, difficult",
+    "audio": "audio/thousand-terms/difficilis_-e.wav"
+  },
+  {
+    "latin": "dīgnitās -ātis f.",
+    "english": "worth, reputation, honor",
+    "audio": "audio/thousand-terms/d_gnit_s_-_tis_f_.wav"
+  },
+  {
+    "latin": "dīgnus -a -um",
+    "english": "worthy",
+    "audio": "audio/thousand-terms/d_gnus_-a_-um.wav"
+  },
+  {
+    "latin": "dīligō -ligere -lēxī -lēctum",
+    "english": "choose, cherish, love",
+    "audio": "audio/thousand-terms/d_lig_-ligere_-l_x_-l_ctum.wav"
+  },
+  {
+    "latin": "dīmittō -mittere -mīsī -missum",
+    "english": "send away",
+    "audio": "audio/thousand-terms/d_mitt_-mittere_-m_s_-missum.wav"
+  },
+  {
+    "latin": "discēdō -ere -cessī -cessum",
+    "english": "go away, depart",
+    "audio": "audio/thousand-terms/disc_d_-ere_-cess_-cessum.wav"
+  },
+  {
+    "latin": "dīsciplīna -ae f.",
+    "english": "training, instruction; learning, discipline",
+    "audio": "audio/thousand-terms/d_scipl_na_-ae_f_.wav"
+  },
+  {
+    "latin": "discō -ere didicī",
+    "english": "learn",
+    "audio": "audio/thousand-terms/disc_-ere_didic_.wav"
+  },
+  {
+    "latin": "diū",
+    "english": "for a long time",
+    "audio": "audio/thousand-terms/di_.wav"
+  },
+  {
+    "latin": "dīversus -a -um",
+    "english": "different, diverse",
+    "audio": "audio/thousand-terms/d_versus_-a_-um.wav"
+  },
+  {
+    "latin": "dīves, dīvitis",
+    "english": "rich (poet. dīs, dītis)",
+    "audio": "audio/thousand-terms/d_ves_d_vitis.wav"
+  },
+  {
+    "latin": "dīvidō -ere dīvīsī dīvīsum",
+    "english": "divide, separate",
+    "audio": "audio/thousand-terms/d_vid_-ere_d_v_s_d_v_sum.wav"
+  },
+  {
+    "latin": "dīvitiae -ārum f. pl.",
+    "english": "riches, wealth",
+    "audio": "audio/thousand-terms/d_vitiae_-_rum_f_pl_.wav"
+  },
+  {
+    "latin": "dīvus -a -um",
+    "english": "divine, godlike",
+    "audio": "audio/thousand-terms/d_vus_-a_-um.wav"
+  },
+  {
+    "latin": "dō dare dedī datum",
+    "english": "give",
+    "audio": "audio/thousand-terms/d_dare_ded_datum.wav"
+  },
+  {
+    "latin": "doceō -ēre -uī doctum",
+    "english": "teach",
+    "audio": "audio/thousand-terms/doce_-_re_-u_doctum.wav"
+  },
+  {
+    "latin": "doleō -ēre doluī",
+    "english": "feel pain or grief, grieve",
+    "audio": "audio/thousand-terms/dole_-_re_dolu_.wav"
+  },
+  {
+    "latin": "dolor -ōris m.",
+    "english": "pain, grief",
+    "audio": "audio/thousand-terms/dolor_-_ris_m_.wav"
+  },
+  {
+    "latin": "dolus -ī m.",
+    "english": "artifice, device, trick",
+    "audio": "audio/thousand-terms/dolus_-_m_.wav"
+  },
+  {
+    "latin": "dominus -ī m.; domina -ae f.",
+    "english": "household master, lord; mistress",
+    "audio": "audio/thousand-terms/dominus_-_m_domina_-ae_f_.wav"
+  },
+  {
+    "latin": "domus -ūs f.",
+    "english": "house, home",
+    "audio": "audio/thousand-terms/domus_-_s_f_.wav"
+  },
+  {
+    "latin": "dōnec",
+    "english": "until",
+    "audio": "audio/thousand-terms/d_nec.wav"
+  },
+  {
+    "latin": "dōnō -āre",
+    "english": "present with a gift (+ acc. of person and abl. of thing)",
+    "audio": "audio/thousand-terms/d_n_-_re.wav"
+  },
+  {
+    "latin": "dōnum -ī n.",
+    "english": "gift, present",
+    "audio": "audio/thousand-terms/d_num_-_n_.wav"
+  },
+  {
+    "latin": "dormiō -īre",
+    "english": "sleep",
+    "audio": "audio/thousand-terms/dormi_-_re.wav"
+  },
+  {
+    "latin": "dubitō -āre",
+    "english": "hesitate, doubt",
+    "audio": "audio/thousand-terms/dubit_-_re.wav"
+  },
+  {
+    "latin": "dubius -a -um",
+    "english": "doubtful, sine dubiō, without a doubt, certainly",
+    "audio": "audio/thousand-terms/dubius_-a_-um.wav"
+  },
+  {
+    "latin": "dūcō dūcere dūxī ductum",
+    "english": "lead; uxōrem dūcere, marry",
+    "audio": "audio/thousand-terms/d_c_d_cere_d_x_ductum.wav"
+  },
+  {
+    "latin": "dulcis -e",
+    "english": "sweet",
+    "audio": "audio/thousand-terms/dulcis_-e.wav"
+  },
+  {
+    "latin": "dum",
+    "english": "while (+ indic.); until (+ subj.); provided that (+ subj.)",
+    "audio": "audio/thousand-terms/dum.wav"
+  },
+  {
+    "latin": "duo",
+    "english": "two",
+    "audio": "audio/thousand-terms/duo.wav"
+  },
+  {
+    "latin": "dūrus -a -um",
+    "english": "hard, tough, harsh",
+    "audio": "audio/thousand-terms/d_rus_-a_-um.wav"
+  },
+  {
+    "latin": "dux ducis m./f.",
+    "english": "leader, general",
+    "audio": "audio/thousand-terms/dux_ducis_m_f_.wav"
+  },
+  {
+    "latin": "ecce",
+    "english": "behold!",
+    "audio": "audio/thousand-terms/ecce.wav"
+  },
+  {
+    "latin": "ēdīcō -dīcere -dīxī -dictum",
+    "english": "declare",
+    "audio": "audio/thousand-terms/_d_c_-d_cere_-d_x_-dictum.wav"
+  },
+  {
+    "latin": "ēdō ēdere ēdidi ēditum",
+    "english": "put forth, state, explain",
+    "audio": "audio/thousand-terms/_d_dere_didi_ditum.wav"
+  },
+  {
+    "latin": "ēdūcō -dūcere -dūxī -ductum",
+    "english": "lead forth",
+    "audio": "audio/thousand-terms/_d_c_-d_cere_-d_x_-ductum.wav"
+  },
+  {
+    "latin": "efficiō -ficere -fēcī -fectum",
+    "english": "bring about, complete; render (+ ut + subj.)",
+    "audio": "audio/thousand-terms/effici_-ficere_-f_c_-fectum.wav"
+  },
+  {
+    "latin": "effundō -fundere -fūdī -fūsum",
+    "english": "pour out",
+    "audio": "audio/thousand-terms/effund_-fundere_-f_d_-f_sum.wav"
+  },
+  {
+    "latin": "ego meī mihi mē",
+    "english": "I, me",
+    "audio": "audio/thousand-terms/ego_me_mihi_m_.wav"
+  },
+  {
+    "latin": "ēgredior ēgredī ēgressus sum",
+    "english": "stride out, depart, disembark from (+ abl.)",
+    "audio": "audio/thousand-terms/_gredior_gred_gressus_sum.wav"
+  },
+  {
+    "latin": "ēgregius -a -um",
+    "english": "distinguished, uncommon",
+    "audio": "audio/thousand-terms/_gregius_-a_-um.wav"
+  },
+  {
+    "latin": "ēligō ēligere ēlēgī ēlēctum",
+    "english": "pick out, select",
+    "audio": "audio/thousand-terms/_lig_ligere_l_g_l_ctum.wav"
+  },
+  {
+    "latin": "enim",
+    "english": "for, indeed",
+    "audio": "audio/thousand-terms/enim.wav"
+  },
+  {
+    "latin": "eō īre iī/īvī itum",
+    "english": "go",
+    "audio": "audio/thousand-terms/e_re_i_v_itum.wav"
+  },
+  {
+    "latin": "eō",
+    "english": "(adv.) there, to that place",
+    "audio": "audio/thousand-terms/e_.wav"
+  },
+  {
+    "latin": "epistula -ae f.",
+    "english": "letter",
+    "audio": "audio/thousand-terms/epistula_-ae_f_.wav"
+  },
+  {
+    "latin": "eques -itis m.",
+    "english": "horseman, knight",
+    "audio": "audio/thousand-terms/eques_-itis_m_.wav"
+  },
+  {
+    "latin": "equus -ī m.",
+    "english": "horse",
+    "audio": "audio/thousand-terms/equus_-_m_.wav"
+  },
+  {
+    "latin": "ergo",
+    "english": "therefore",
+    "audio": "audio/thousand-terms/ergo.wav"
+  },
+  {
+    "latin": "ēripiō -ripere -ripuī -reptum",
+    "english": "snatch away, rescue, save",
+    "audio": "audio/thousand-terms/_ripi_-ripere_-ripu_-reptum.wav"
+  },
+  {
+    "latin": "errō -āre",
+    "english": "go astray, wander",
+    "audio": "audio/thousand-terms/err_-_re.wav"
+  },
+  {
+    "latin": "error -ōris m.",
+    "english": "wandering; error, mistake",
+    "audio": "audio/thousand-terms/error_-_ris_m_.wav"
+  },
+  {
+    "latin": "et",
+    "english": "and",
+    "audio": "audio/thousand-terms/et.wav"
+  },
+  {
+    "latin": "etiam",
+    "english": "also, even",
+    "audio": "audio/thousand-terms/etiam.wav"
+  },
+  {
+    "latin": "ex ē",
+    "english": "out of, from (+ abl.)",
+    "audio": "audio/thousand-terms/ex_.wav"
+  },
+  {
+    "latin": "excipiō -cipere -cēpī -ceptum",
+    "english": "take out",
+    "audio": "audio/thousand-terms/excipi_-cipere_-c_p_-ceptum.wav"
+  },
+  {
+    "latin": "exemplum -ī n.",
+    "english": "example, sample, copy",
+    "audio": "audio/thousand-terms/exemplum_-_n_.wav"
+  },
+  {
+    "latin": "exeō -īre -iī -itum",
+    "english": "go forth",
+    "audio": "audio/thousand-terms/exe_-_re_-i_-itum.wav"
+  },
+  {
+    "latin": "exerceō -ercēre -ercuī -ercitum",
+    "english": "train, exercise, carry on",
+    "audio": "audio/thousand-terms/exerce_-erc_re_-ercu_-ercitum.wav"
+  },
+  {
+    "latin": "exercitus -ūs m.",
+    "english": "army",
+    "audio": "audio/thousand-terms/exercitus_-_s_m_.wav"
+  },
+  {
+    "latin": "exigo -igere -ēgī -āctum",
+    "english": "drive out; collect",
+    "audio": "audio/thousand-terms/exigo_-igere_-_g_-_ctum.wav"
+  },
+  {
+    "latin": "exīstimō -āre",
+    "english": "think, believe",
+    "audio": "audio/thousand-terms/ex_stim_-_re.wav"
+  },
+  {
+    "latin": "experior -perīriī -pertus sum",
+    "english": "try thoroughly, test, experience",
+    "audio": "audio/thousand-terms/experior_-per_ri_-pertus_sum.wav"
+  },
+  {
+    "latin": "exsilium -ī n.",
+    "english": "exile, banishment",
+    "audio": "audio/thousand-terms/exsilium_-_n_.wav"
+  },
+  {
+    "latin": "exspectō -āre",
+    "english": "watch, wait, expect",
+    "audio": "audio/thousand-terms/exspect_-_re.wav"
+  },
+  {
+    "latin": "extrēmus -a -um",
+    "english": "farthest, situated at the end or tip, extreme",
+    "audio": "audio/thousand-terms/extr_mus_-a_-um.wav"
+  },
+  {
+    "latin": "fābula -ae f.",
+    "english": "account, tale, story",
+    "audio": "audio/thousand-terms/f_bula_-ae_f_.wav"
+  },
+  {
+    "latin": "faciēs -ēī f.",
+    "english": "form, appearance",
+    "audio": "audio/thousand-terms/faci_s_-_f_.wav"
+  },
+  {
+    "latin": "facilis -e",
+    "english": "easy",
+    "audio": "audio/thousand-terms/facilis_-e.wav"
+  },
+  {
+    "latin": "facinus facinoris n.",
+    "english": "deed, crime",
+    "audio": "audio/thousand-terms/facinus_facinoris_n_.wav"
+  },
+  {
+    "latin": "faciō facere fēcī factum",
+    "english": "do, make",
+    "audio": "audio/thousand-terms/faci_facere_f_c_factum.wav"
+  },
+  {
+    "latin": "factum -ī n.",
+    "english": "deed, accomplishment",
+    "audio": "audio/thousand-terms/factum_-_n_.wav"
+  },
+  {
+    "latin": "fallō fallere fefellī falsum",
+    "english": "deceive",
+    "audio": "audio/thousand-terms/fall_fallere_fefell_falsum.wav"
+  },
+  {
+    "latin": "falsus -a -um",
+    "english": "deceptive, false",
+    "audio": "audio/thousand-terms/falsus_-a_-um.wav"
+  },
+  {
+    "latin": "fāma -ae f.",
+    "english": "rumor, fame",
+    "audio": "audio/thousand-terms/f_ma_-ae_f_.wav"
+  },
+  {
+    "latin": "famēs -is f.",
+    "english": "hunger, famine",
+    "audio": "audio/thousand-terms/fam_s_-is_f_.wav"
+  },
+  {
+    "latin": "familia -ae f.",
+    "english": "household, family",
+    "audio": "audio/thousand-terms/familia_-ae_f_.wav"
+  },
+  {
+    "latin": "fateor fatērī fassus sum",
+    "english": "admit, confess; profess, declare; assent, say yes",
+    "audio": "audio/thousand-terms/fateor_fat_r_fassus_sum.wav"
+  },
+  {
+    "latin": "fātum -ī n.",
+    "english": "fate; death",
+    "audio": "audio/thousand-terms/f_tum_-_n_.wav"
+  },
+  {
+    "latin": "fax facis f.",
+    "english": "torch",
+    "audio": "audio/thousand-terms/fax_facis_f_.wav"
+  },
+  {
+    "latin": "fēlīx -īcis",
+    "english": "lucky; adv. fēlīciter",
+    "audio": "audio/thousand-terms/f_l_x_-_cis.wav"
+  },
+  {
+    "latin": "fēmina -ae f.",
+    "english": "woman",
+    "audio": "audio/thousand-terms/f_mina_-ae_f_.wav"
+  },
+  {
+    "latin": "ferē",
+    "english": "almost",
+    "audio": "audio/thousand-terms/fer_.wav"
+  },
+  {
+    "latin": "ferō ferre tulī lātum",
+    "english": "bear, carry, endure",
+    "audio": "audio/thousand-terms/fer_ferre_tul_l_tum.wav"
+  },
+  {
+    "latin": "ferrum -ī n.",
+    "english": "iron, iron weapon or implement",
+    "audio": "audio/thousand-terms/ferrum_-_n_.wav"
+  },
+  {
+    "latin": "ferus -a -um",
+    "english": "wild, fierce; fera -ae f. wild animal",
+    "audio": "audio/thousand-terms/ferus_-a_-um.wav"
+  },
+  {
+    "latin": "fessus -a -um",
+    "english": "weary, tired",
+    "audio": "audio/thousand-terms/fessus_-a_-um.wav"
+  },
+  {
+    "latin": "fidēlis -e",
+    "english": "faithful",
+    "audio": "audio/thousand-terms/fid_lis_-e.wav"
+  },
+  {
+    "latin": "ﬁdēs -eī f.",
+    "english": "trust, faith",
+    "audio": "audio/thousand-terms/_d_s_-e_f_.wav"
+  },
+  {
+    "latin": "fīlia -ae f.; fīlius -ī m.",
+    "english": "daughter; son",
+    "audio": "audio/thousand-terms/f_lia_-ae_f_f_lius_-_m_.wav"
+  },
+  {
+    "latin": "fingō fingere fīnxī fīctum",
+    "english": "shape; invent",
+    "audio": "audio/thousand-terms/fing_fingere_f_nx_f_ctum.wav"
+  },
+  {
+    "latin": "fīnis -is m.",
+    "english": "end, boundary",
+    "audio": "audio/thousand-terms/f_nis_-is_m_.wav"
+  },
+  {
+    "latin": "fīō fierī factus sum",
+    "english": "become, happen, be done",
+    "audio": "audio/thousand-terms/f_fier_factus_sum.wav"
+  },
+  {
+    "latin": "flamma -ae f.",
+    "english": "flame, fire",
+    "audio": "audio/thousand-terms/flamma_-ae_f_.wav"
+  },
+  {
+    "latin": "fleō flēre flēvī flētum",
+    "english": "weep",
+    "audio": "audio/thousand-terms/fle_fl_re_fl_v_fl_tum.wav"
+  },
+  {
+    "latin": "flōs flōris m.",
+    "english": "flower, bloom",
+    "audio": "audio/thousand-terms/fl_s_fl_ris_m_.wav"
+  },
+  {
+    "latin": "fluctus -ūs m",
+    "english": "flood, billow, surf",
+    "audio": "audio/thousand-terms/fluctus_-_s_m.wav"
+  },
+  {
+    "latin": "ﬂūmen -inis n.",
+    "english": "stream, river",
+    "audio": "audio/thousand-terms/_men_-inis_n_.wav"
+  },
+  {
+    "latin": "fluō fluere fluī fluxum",
+    "english": "flow",
+    "audio": "audio/thousand-terms/flu_fluere_flu_fluxum.wav"
+  },
+  {
+    "latin": "foedus -a -um",
+    "english": "foul",
+    "audio": "audio/thousand-terms/foedus_-a_-um.wav"
+  },
+  {
+    "latin": "fōns fontis m.",
+    "english": "spring, fountain",
+    "audio": "audio/thousand-terms/f_ns_fontis_m_.wav"
+  },
+  {
+    "latin": "for fārī fātus sum",
+    "english": "report, say",
+    "audio": "audio/thousand-terms/for_f_r_f_tus_sum.wav"
+  },
+  {
+    "latin": "fōrma -ae f.",
+    "english": "shape; beauty",
+    "audio": "audio/thousand-terms/f_rma_-ae_f_.wav"
+  },
+  {
+    "latin": "fors fortis f.",
+    "english": "chance; adv. forte by chance",
+    "audio": "audio/thousand-terms/fors_fortis_f_.wav"
+  },
+  {
+    "latin": "forsitan, fortasse",
+    "english": "perhaps, perchance",
+    "audio": "audio/thousand-terms/forsitan_fortasse.wav"
+  },
+  {
+    "latin": "fortis -e",
+    "english": "brave",
+    "audio": "audio/thousand-terms/fortis_-e.wav"
+  },
+  {
+    "latin": "fortūna -ae f.",
+    "english": "fortune",
+    "audio": "audio/thousand-terms/fort_na_-ae_f_.wav"
+  },
+  {
+    "latin": "forum -ī n.",
+    "english": "market-place, forum",
+    "audio": "audio/thousand-terms/forum_-_n_.wav"
+  },
+  {
+    "latin": "frangō frangere frēgī frāctum",
+    "english": "break, shatter",
+    "audio": "audio/thousand-terms/frang_frangere_fr_g_fr_ctum.wav"
+  },
+  {
+    "latin": "frāter frātris m.",
+    "english": "brother",
+    "audio": "audio/thousand-terms/fr_ter_fr_tris_m_.wav"
+  },
+  {
+    "latin": "frequēns -ntis",
+    "english": "in large numbers, often",
+    "audio": "audio/thousand-terms/frequ_ns_-ntis.wav"
+  },
+  {
+    "latin": "frōns frontis f.",
+    "english": "forehead, brow; front",
+    "audio": "audio/thousand-terms/fr_ns_frontis_f_.wav"
+  },
+  {
+    "latin": "frūctus -ūs m.",
+    "english": "fruit, crops; enjoyment, delight",
+    "audio": "audio/thousand-terms/fr_ctus_-_s_m_.wav"
+  },
+  {
+    "latin": "frūmentum -ī n.",
+    "english": "grain",
+    "audio": "audio/thousand-terms/fr_mentum_-_n_.wav"
+  },
+  {
+    "latin": "fruor fruī frūctus sum",
+    "english": "enjoy the produce of, profit by, use (+ abl.)",
+    "audio": "audio/thousand-terms/fruor_fru_fr_ctus_sum.wav"
+  },
+  {
+    "latin": "frūstrā",
+    "english": "in vain",
+    "audio": "audio/thousand-terms/fr_str_.wav"
+  },
+  {
+    "latin": "fuga -ae f.",
+    "english": "flight, route",
+    "audio": "audio/thousand-terms/fuga_-ae_f_.wav"
+  },
+  {
+    "latin": "fugiō fugere fūgī fugitum",
+    "english": "flee, escape",
+    "audio": "audio/thousand-terms/fugi_fugere_f_g_fugitum.wav"
+  },
+  {
+    "latin": "fugō -āre",
+    "english": "put to flight",
+    "audio": "audio/thousand-terms/fug_-_re.wav"
+  },
+  {
+    "latin": "fundō fundere fūdī fūsum",
+    "english": "pour, scatter",
+    "audio": "audio/thousand-terms/fund_fundere_f_d_f_sum.wav"
+  },
+  {
+    "latin": "fūnus fūneris n.",
+    "english": "funeral; death; dead body",
+    "audio": "audio/thousand-terms/f_nus_f_neris_n_.wav"
+  },
+  {
+    "latin": "furor -ōris m.",
+    "english": "rage, fury",
+    "audio": "audio/thousand-terms/furor_-_ris_m_.wav"
+  },
+  {
+    "latin": "gaudeō gaudēre gāvīsus sum",
+    "english": "rejoice",
+    "audio": "audio/thousand-terms/gaude_gaud_re_g_v_sus_sum.wav"
+  },
+  {
+    "latin": "gaudium -ī n.",
+    "english": "delight, joy, pleasure",
+    "audio": "audio/thousand-terms/gaudium_-_n_.wav"
+  },
+  {
+    "latin": "gēns gentis f.",
+    "english": "family, clan",
+    "audio": "audio/thousand-terms/g_ns_gentis_f_.wav"
+  },
+  {
+    "latin": "genus generis n.",
+    "english": "origin, lineage, kind",
+    "audio": "audio/thousand-terms/genus_generis_n_.wav"
+  },
+  {
+    "latin": "gerō gerere gessī gestum",
+    "english": "bear, manage; bellum gerere, wage war",
+    "audio": "audio/thousand-terms/ger_gerere_gess_gestum.wav"
+  },
+  {
+    "latin": "gīgnō gīgnere genuī genitum",
+    "english": "beget, bear, bring forth",
+    "audio": "audio/thousand-terms/g_gn_g_gnere_genu_genitum.wav"
+  },
+  {
+    "latin": "gladius -ī m.",
+    "english": "sword",
+    "audio": "audio/thousand-terms/gladius_-_m_.wav"
+  },
+  {
+    "latin": "glōria -ae f.",
+    "english": "glory, fame",
+    "audio": "audio/thousand-terms/gl_ria_-ae_f_.wav"
+  },
+  {
+    "latin": "gradus -ūs m.",
+    "english": "step, pace; grade, rank",
+    "audio": "audio/thousand-terms/gradus_-_s_m_.wav"
+  },
+  {
+    "latin": "grātia -ae f.",
+    "english": "favor, influence, gratitude",
+    "audio": "audio/thousand-terms/gr_tia_-ae_f_.wav"
+  },
+  {
+    "latin": "grātus -a -um",
+    "english": "pleasant; grateful",
+    "audio": "audio/thousand-terms/gr_tus_-a_-um.wav"
+  },
+  {
+    "latin": "gravis -e",
+    "english": "heavy, serious",
+    "audio": "audio/thousand-terms/gravis_-e.wav"
+  },
+  {
+    "latin": "habeō habēre habuī habitum",
+    "english": "have, hold",
+    "audio": "audio/thousand-terms/habe_hab_re_habu_habitum.wav"
+  },
+  {
+    "latin": "haud",
+    "english": "not",
+    "audio": "audio/thousand-terms/haud.wav"
+  },
+  {
+    "latin": "hīc haec hōc",
+    "english": "this, these",
+    "audio": "audio/thousand-terms/h_c_haec_h_c.wav"
+  },
+  {
+    "latin": "hīc",
+    "english": "here; hinc from here",
+    "audio": "audio/thousand-terms/h_c.wav"
+  },
+  {
+    "latin": "hiems hiemis f.",
+    "english": "winter",
+    "audio": "audio/thousand-terms/hiems_hiemis_f_.wav"
+  },
+  {
+    "latin": "hodiē",
+    "english": "today",
+    "audio": "audio/thousand-terms/hodi_.wav"
+  },
+  {
+    "latin": "homō hominis m.",
+    "english": "human being",
+    "audio": "audio/thousand-terms/hom_hominis_m_.wav"
+  },
+  {
+    "latin": "honestus -a -um",
+    "english": "honorable",
+    "audio": "audio/thousand-terms/honestus_-a_-um.wav"
+  },
+  {
+    "latin": "honor -ōris m.",
+    "english": "honor, glory; office, post",
+    "audio": "audio/thousand-terms/honor_-_ris_m_.wav"
+  },
+  {
+    "latin": "hōra -ae f.",
+    "english": "hour",
+    "audio": "audio/thousand-terms/h_ra_-ae_f_.wav"
+  },
+  {
+    "latin": "hortor hortārī hortātus sum",
+    "english": "urge strongly, advise, exhort",
+    "audio": "audio/thousand-terms/hortor_hort_r_hort_tus_sum.wav"
+  },
+  {
+    "latin": "hospes hospitis m.",
+    "english": "guest, guest-friend; stranger; host",
+    "audio": "audio/thousand-terms/hospes_hospitis_m_.wav"
+  },
+  {
+    "latin": "hostis -is m./f.",
+    "english": "stranger, enemy",
+    "audio": "audio/thousand-terms/hostis_-is_m_f_.wav"
+  },
+  {
+    "latin": "hūc",
+    "english": "to this place",
+    "audio": "audio/thousand-terms/h_c.wav"
+  },
+  {
+    "latin": "hūmānus -a -um",
+    "english": "human",
+    "audio": "audio/thousand-terms/h_m_nus_-a_-um.wav"
+  },
+  {
+    "latin": "humus -ī f.",
+    "english": "ground; humī on the ground",
+    "audio": "audio/thousand-terms/humus_-_f_.wav"
+  },
+  {
+    "latin": "iaceō iacēre iacuī",
+    "english": "lie",
+    "audio": "audio/thousand-terms/iace_iac_re_iacu_.wav"
+  },
+  {
+    "latin": "iaciō iacere iēcī iactum",
+    "english": "throw, hurl",
+    "audio": "audio/thousand-terms/iaci_iacere_i_c_iactum.wav"
+  },
+  {
+    "latin": "iam",
+    "english": "now; already",
+    "audio": "audio/thousand-terms/iam.wav"
+  },
+  {
+    "latin": "ibi",
+    "english": "there",
+    "audio": "audio/thousand-terms/ibi.wav"
+  },
+  {
+    "latin": "īctus -ūs m.",
+    "english": "blow, stroke",
+    "audio": "audio/thousand-terms/_ctus_-_s_m_.wav"
+  },
+  {
+    "latin": "īdem eadem idem",
+    "english": "the same",
+    "audio": "audio/thousand-terms/_dem_eadem_idem.wav"
+  },
+  {
+    "latin": "ideō",
+    "english": "for this reason",
+    "audio": "audio/thousand-terms/ide_.wav"
+  },
+  {
+    "latin": "igitur",
+    "english": "therefore",
+    "audio": "audio/thousand-terms/igitur.wav"
+  },
+  {
+    "latin": "ignis -is m.",
+    "english": "fire",
+    "audio": "audio/thousand-terms/ignis_-is_m_.wav"
+  },
+  {
+    "latin": "ille illa illud",
+    "english": "that",
+    "audio": "audio/thousand-terms/ille_illa_illud.wav"
+  },
+  {
+    "latin": "illīc",
+    "english": "at that place, there;",
+    "audio": "audio/thousand-terms/ill_c.wav"
+  },
+  {
+    "latin": "illinc",
+    "english": "from that place",
+    "audio": "audio/thousand-terms/illinc.wav"
+  },
+  {
+    "latin": "illūc",
+    "english": "to that place",
+    "audio": "audio/thousand-terms/ill_c.wav"
+  },
+  {
+    "latin": "imāgo -inis f.",
+    "english": "image, form, figure",
+    "audio": "audio/thousand-terms/im_go_-inis_f_.wav"
+  },
+  {
+    "latin": "imperātor -ōris m.",
+    "english": "commander",
+    "audio": "audio/thousand-terms/imper_tor_-_ris_m_.wav"
+  },
+  {
+    "latin": "imperium -ī n.",
+    "english": "command, power",
+    "audio": "audio/thousand-terms/imperium_-_n_.wav"
+  },
+  {
+    "latin": "imperō -āre",
+    "english": "command, control",
+    "audio": "audio/thousand-terms/imper_-_re.wav"
+  },
+  {
+    "latin": "impetus -ūs m.",
+    "english": "attack",
+    "audio": "audio/thousand-terms/impetus_-_s_m_.wav"
+  },
+  {
+    "latin": "impleō -ēre -plēvī -plētum",
+    "english": "fill in, fill up",
+    "audio": "audio/thousand-terms/imple_-_re_-pl_v_-pl_tum.wav"
+  },
+  {
+    "latin": "impōnō -ere -posuī -positum",
+    "english": "put in, put on, impose, levy upon",
+    "audio": "audio/thousand-terms/imp_n_-ere_-posu_-positum.wav"
+  },
+  {
+    "latin": "in",
+    "english": "in, on (+ abl.); into, onto (+ acc)",
+    "audio": "audio/thousand-terms/in.wav"
+  },
+  {
+    "latin": "incidō incidere incidī",
+    "english": "fall upon, fall into; happen",
+    "audio": "audio/thousand-terms/incid_incidere_incid_.wav"
+  },
+  {
+    "latin": "incipiō -cipere -cēpī -ceptum",
+    "english": "begin",
+    "audio": "audio/thousand-terms/incipi_-cipere_-c_p_-ceptum.wav"
+  },
+  {
+    "latin": "inde",
+    "english": "from there, from then",
+    "audio": "audio/thousand-terms/inde.wav"
+  },
+  {
+    "latin": "indicō -āre",
+    "english": "point out, show, make known",
+    "audio": "audio/thousand-terms/indic_-_re.wav"
+  },
+  {
+    "latin": "īnferō īnferre intulī illātum",
+    "english": "bring upon, against;",
+    "audio": "audio/thousand-terms/_nfer_nferre_intul_ill_tum.wav"
+  },
+  {
+    "latin": "bellum īnferre",
+    "english": "make war on",
+    "audio": "audio/thousand-terms/bellum_nferre.wav"
+  },
+  {
+    "latin": "īnferus -a -um",
+    "english": "low; īnferior lower;",
+    "audio": "audio/thousand-terms/_nferus_-a_-um.wav"
+  },
+  {
+    "latin": "īnfimus or īmus",
+    "english": "lowest",
+    "audio": "audio/thousand-terms/_nfimus_or_mus.wav"
+  },
+  {
+    "latin": "ingenium -ī n.",
+    "english": "disposition, ability, talent",
+    "audio": "audio/thousand-terms/ingenium_-_n_.wav"
+  },
+  {
+    "latin": "ingēns ingentis",
+    "english": "huge, enormous",
+    "audio": "audio/thousand-terms/ing_ns_ingentis.wav"
+  },
+  {
+    "latin": "ingrātus -a -um",
+    "english": "unpleasant, disagreeable",
+    "audio": "audio/thousand-terms/ingr_tus_-a_-um.wav"
+  },
+  {
+    "latin": "īngredior -gredī -gressus sum",
+    "english": "step in, enter",
+    "audio": "audio/thousand-terms/_ngredior_-gred_-gressus_sum.wav"
+  },
+  {
+    "latin": "inimīcus -a -um",
+    "english": "unfriendly",
+    "audio": "audio/thousand-terms/inim_cus_-a_-um.wav"
+  },
+  {
+    "latin": "initium -iī n.",
+    "english": "beginning",
+    "audio": "audio/thousand-terms/initium_-i_n_.wav"
+  },
+  {
+    "latin": "iniūria -ae f.",
+    "english": "injustice, wrong, affront",
+    "audio": "audio/thousand-terms/ini_ria_-ae_f_.wav"
+  },
+  {
+    "latin": "inquam, inquis, inquit, inquiunt",
+    "english": "say (used with direct speech)",
+    "audio": "audio/thousand-terms/inquam_inquis_inquit_inquiunt.wav"
+  },
+  {
+    "latin": "īnstituō -stituere -stituī -stitūtum",
+    "english": "undertake; equip",
+    "audio": "audio/thousand-terms/_nstitu_-stituere_-stitu_-stit_tum.wav"
+  },
+  {
+    "latin": "īnsula -ae f.",
+    "english": "island",
+    "audio": "audio/thousand-terms/_nsula_-ae_f_.wav"
+  },
+  {
+    "latin": "integer -gra -grum",
+    "english": "untouched, fresh, complete, whole",
+    "audio": "audio/thousand-terms/integer_-gra_-grum.wav"
+  },
+  {
+    "latin": "intellegō -legere -lēxī -lēctum",
+    "english": "understand",
+    "audio": "audio/thousand-terms/intelleg_-legere_-l_x_-l_ctum.wav"
+  },
+  {
+    "latin": "intendō -tendere -tendi -tentum",
+    "english": "stretch out, strain",
+    "audio": "audio/thousand-terms/intend_-tendere_-tendi_-tentum.wav"
+  },
+  {
+    "latin": "inter",
+    "english": "between, among; during (+ acc.)",
+    "audio": "audio/thousand-terms/inter.wav"
+  },
+  {
+    "latin": "interficiō -ficere -fēcī -fectum",
+    "english": "kill",
+    "audio": "audio/thousand-terms/interfici_-ficere_-f_c_-fectum.wav"
+  },
+  {
+    "latin": "interim",
+    "english": "meanwhile",
+    "audio": "audio/thousand-terms/interim.wav"
+  },
+  {
+    "latin": "interrogō -āre",
+    "english": "put a question to, ask (+ acc.)",
+    "audio": "audio/thousand-terms/interrog_-_re.wav"
+  },
+  {
+    "latin": "intersum -esse -fuī",
+    "english": "be between; interest, it is in the interest of (+ gen.)",
+    "audio": "audio/thousand-terms/intersum_-esse_-fu_.wav"
+  },
+  {
+    "latin": "intrā",
+    "english": "within (+ acc.)",
+    "audio": "audio/thousand-terms/intr_.wav"
+  },
+  {
+    "latin": "intrō -āre",
+    "english": "enter",
+    "audio": "audio/thousand-terms/intr_-_re.wav"
+  },
+  {
+    "latin": "inveniō -venīre -vēnī -ventum",
+    "english": "find; discover",
+    "audio": "audio/thousand-terms/inveni_-ven_re_-v_n_-ventum.wav"
+  },
+  {
+    "latin": "invidia -ae f.",
+    "english": "envy, jealousy, hatred",
+    "audio": "audio/thousand-terms/invidia_-ae_f_.wav"
+  },
+  {
+    "latin": "ipse ipsa ipsum",
+    "english": "him- her- itself",
+    "audio": "audio/thousand-terms/ipse_ipsa_ipsum.wav"
+  },
+  {
+    "latin": "īra irae f.",
+    "english": "wrath, anger",
+    "audio": "audio/thousand-terms/_ra_irae_f_.wav"
+  },
+  {
+    "latin": "īrāscor īrāscī īrātus sum",
+    "english": "grow angry;",
+    "audio": "audio/thousand-terms/_r_scor_r_sc_r_tus_sum.wav"
+  },
+  {
+    "latin": "īrātus -a -um",
+    "english": "angry",
+    "audio": "audio/thousand-terms/_r_tus_-a_-um.wav"
+  },
+  {
+    "latin": "is ea id",
+    "english": "he, she, it",
+    "audio": "audio/thousand-terms/is_ea_id.wav"
+  },
+  {
+    "latin": "iste ista istud",
+    "english": "that, that of yours;",
+    "audio": "audio/thousand-terms/iste_ista_istud.wav"
+  },
+  {
+    "latin": "adv. istīc or istūc",
+    "english": "over there;",
+    "audio": "audio/thousand-terms/adv_ist_c_or_ist_c.wav"
+  },
+  {
+    "latin": "istinc",
+    "english": "from over there",
+    "audio": "audio/thousand-terms/istinc.wav"
+  },
+  {
+    "latin": "ita",
+    "english": "thus, so",
+    "audio": "audio/thousand-terms/ita.wav"
+  },
+  {
+    "latin": "itaque",
+    "english": "and so therefore",
+    "audio": "audio/thousand-terms/itaque.wav"
+  },
+  {
+    "latin": "item",
+    "english": "likewise",
+    "audio": "audio/thousand-terms/item.wav"
+  },
+  {
+    "latin": "iter itineris n.",
+    "english": "journey, route",
+    "audio": "audio/thousand-terms/iter_itineris_n_.wav"
+  },
+  {
+    "latin": "iterum",
+    "english": "again",
+    "audio": "audio/thousand-terms/iterum.wav"
+  },
+  {
+    "latin": "iubeō iubēre iussī iussum",
+    "english": "bid, order",
+    "audio": "audio/thousand-terms/iube_iub_re_iuss_iussum.wav"
+  },
+  {
+    "latin": "iūdex iūdicis m.",
+    "english": "judge, juror",
+    "audio": "audio/thousand-terms/i_dex_i_dicis_m_.wav"
+  },
+  {
+    "latin": "iūdicium -ī n.",
+    "english": "judgement, decision, trial",
+    "audio": "audio/thousand-terms/i_dicium_-_n_.wav"
+  },
+  {
+    "latin": "iūdicō -āre",
+    "english": "judge, decide",
+    "audio": "audio/thousand-terms/i_dic_-_re.wav"
+  },
+  {
+    "latin": "iugum -ī n.",
+    "english": "yoke; ridge, chain of hills",
+    "audio": "audio/thousand-terms/iugum_-_n_.wav"
+  },
+  {
+    "latin": "iungō iungere iūnxī iūnctum",
+    "english": "join",
+    "audio": "audio/thousand-terms/iung_iungere_i_nx_i_nctum.wav"
+  },
+  {
+    "latin": "iūrō -āre",
+    "english": "take an oath, swear; iūs iūrandum, oath",
+    "audio": "audio/thousand-terms/i_r_-_re.wav"
+  },
+  {
+    "latin": "iūs iūris n.",
+    "english": "right, justice, law",
+    "audio": "audio/thousand-terms/i_s_i_ris_n_.wav"
+  },
+  {
+    "latin": "iūstus -a -um",
+    "english": "right, just, fair",
+    "audio": "audio/thousand-terms/i_stus_-a_-um.wav"
+  },
+  {
+    "latin": "iuvenis -is m.",
+    "english": "youth",
+    "audio": "audio/thousand-terms/iuvenis_-is_m_.wav"
+  },
+  {
+    "latin": "iuvō iuvāre iūvī iūtum",
+    "english": "help, assist; please, delight",
+    "audio": "audio/thousand-terms/iuv_iuv_re_i_v_i_tum.wav"
+  },
+  {
+    "latin": "labor -ōris m.",
+    "english": "toil, exertion",
+    "audio": "audio/thousand-terms/labor_-_ris_m_.wav"
+  },
+  {
+    "latin": "labōrō -āre",
+    "english": "toil, work; be in trouble or distress",
+    "audio": "audio/thousand-terms/lab_r_-_re.wav"
+  },
+  {
+    "latin": "lacrima -ae f.",
+    "english": "tear",
+    "audio": "audio/thousand-terms/lacrima_-ae_f_.wav"
+  },
+  {
+    "latin": "laedō laedere laesī laesum",
+    "english": "injure by striking, hurt",
+    "audio": "audio/thousand-terms/laed_laedere_laes_laesum.wav"
+  },
+  {
+    "latin": "laetus -a -um",
+    "english": "glad, joyful",
+    "audio": "audio/thousand-terms/laetus_-a_-um.wav"
+  },
+  {
+    "latin": "lapis lapidis m.",
+    "english": "stone",
+    "audio": "audio/thousand-terms/lapis_lapidis_m_.wav"
+  },
+  {
+    "latin": "lateō latēre latuī",
+    "english": "lie hidden, be hidden",
+    "audio": "audio/thousand-terms/late_lat_re_latu_.wav"
+  },
+  {
+    "latin": "lātus -a -um",
+    "english": "broad, wide",
+    "audio": "audio/thousand-terms/l_tus_-a_-um.wav"
+  },
+  {
+    "latin": "latus -eris n.",
+    "english": "side, flank",
+    "audio": "audio/thousand-terms/latus_-eris_n_.wav"
+  },
+  {
+    "latin": "laudō -āre",
+    "english": "praise",
+    "audio": "audio/thousand-terms/laud_-_re.wav"
+  },
+  {
+    "latin": "laus laudis f.",
+    "english": "praise, glory",
+    "audio": "audio/thousand-terms/laus_laudis_f_.wav"
+  },
+  {
+    "latin": "lēgātus -ī m.",
+    "english": "lieutenant, envoy",
+    "audio": "audio/thousand-terms/l_g_tus_-_m_.wav"
+  },
+  {
+    "latin": "legiō -ōnis f.",
+    "english": "legion",
+    "audio": "audio/thousand-terms/legi_-_nis_f_.wav"
+  },
+  {
+    "latin": "legō legere lēgī lēctum",
+    "english": "gather, choose, read",
+    "audio": "audio/thousand-terms/leg_legere_l_g_l_ctum.wav"
+  },
+  {
+    "latin": "levis -e",
+    "english": "light, trivial",
+    "audio": "audio/thousand-terms/levis_-e.wav"
+  },
+  {
+    "latin": "lēx lēgis",
+    "english": "f. law",
+    "audio": "audio/thousand-terms/l_x_l_gis.wav"
+  },
+  {
+    "latin": "līber lībera līberum",
+    "english": "free;",
+    "audio": "audio/thousand-terms/l_ber_l_bera_l_berum.wav"
+  },
+  {
+    "latin": "līberī (m. pl.)",
+    "english": "freeborn children",
+    "audio": "audio/thousand-terms/l_ber_m_pl_.wav"
+  },
+  {
+    "latin": "liber librī m.",
+    "english": "book",
+    "audio": "audio/thousand-terms/liber_libr_m_.wav"
+  },
+  {
+    "latin": "lībertās -ātis f.",
+    "english": "freedom",
+    "audio": "audio/thousand-terms/l_bert_s_-_tis_f_.wav"
+  },
+  {
+    "latin": "libet libēre libuit or libitum est",
+    "english": "it is pleasing (+ dat. + infin.)",
+    "audio": "audio/thousand-terms/libet_lib_re_libuit_or_libitum_est.wav"
+  },
+  {
+    "latin": "libīdo -inis f.",
+    "english": "passion, lust",
+    "audio": "audio/thousand-terms/lib_do_-inis_f_.wav"
+  },
+  {
+    "latin": "licet licēre licuit licitum est",
+    "english": "it is allowed",
+    "audio": "audio/thousand-terms/licet_lic_re_licuit_licitum_est.wav"
+  },
+  {
+    "latin": "it is permitted (+ dat. + infin.); conj. licet",
+    "english": "even though",
+    "audio": "audio/thousand-terms/it_is_permitted_dat_infin_conj_licet.wav"
+  },
+  {
+    "latin": "līmen līminis n.",
+    "english": "threshold",
+    "audio": "audio/thousand-terms/l_men_l_minis_n_.wav"
+  },
+  {
+    "latin": "lingua -ae f.",
+    "english": "tongue; language",
+    "audio": "audio/thousand-terms/lingua_-ae_f_.wav"
+  },
+  {
+    "latin": "littera -ae f.",
+    "english": "letter, (pl.) literature",
+    "audio": "audio/thousand-terms/littera_-ae_f_.wav"
+  },
+  {
+    "latin": "lītus -oris n.",
+    "english": "shore",
+    "audio": "audio/thousand-terms/l_tus_-oris_n_.wav"
+  },
+  {
+    "latin": "locus -ī m.",
+    "english": "place; loca (n. pl.) region",
+    "audio": "audio/thousand-terms/locus_-_m_.wav"
+  },
+  {
+    "latin": "longus -a -um",
+    "english": "long, far; longē far, far off",
+    "audio": "audio/thousand-terms/longus_-a_-um.wav"
+  },
+  {
+    "latin": "loquor loquī locūtus sum",
+    "english": "speak, talk",
+    "audio": "audio/thousand-terms/loquor_loqu_loc_tus_sum.wav"
+  },
+  {
+    "latin": "lūmen luminis n.",
+    "english": "light",
+    "audio": "audio/thousand-terms/l_men_luminis_n_.wav"
+  },
+  {
+    "latin": "lūna -ae f.",
+    "english": "moon",
+    "audio": "audio/thousand-terms/l_na_-ae_f_.wav"
+  },
+  {
+    "latin": "lūx lūcis f.",
+    "english": "light of day",
+    "audio": "audio/thousand-terms/l_x_l_cis_f_.wav"
+  },
+  {
+    "latin": "maestus -a -um",
+    "english": "sad, sorrowful; depressing",
+    "audio": "audio/thousand-terms/maestus_-a_-um.wav"
+  },
+  {
+    "latin": "magis",
+    "english": "more",
+    "audio": "audio/thousand-terms/magis.wav"
+  },
+  {
+    "latin": "magister, magistrī m.",
+    "english": "master, chief",
+    "audio": "audio/thousand-terms/magister_magistr_m_.wav"
+  },
+  {
+    "latin": "māgnitūdo -inis f.",
+    "english": "greatness, size",
+    "audio": "audio/thousand-terms/m_gnit_do_-inis_f_.wav"
+  },
+  {
+    "latin": "māgnus -a -um",
+    "english": "great",
+    "audio": "audio/thousand-terms/m_gnus_-a_-um.wav"
+  },
+  {
+    "latin": "māior -ius",
+    "english": "greater, older;",
+    "audio": "audio/thousand-terms/m_ior_-ius.wav"
+  },
+  {
+    "latin": "maiōres -um",
+    "english": "ancestors",
+    "audio": "audio/thousand-terms/mai_res_-um.wav"
+  },
+  {
+    "latin": "mālō mālle māluī",
+    "english": "prefer",
+    "audio": "audio/thousand-terms/m_l_m_lle_m_lu_.wav"
+  },
+  {
+    "latin": "malus -a -um",
+    "english": "bad, evil; male (adv.) badly",
+    "audio": "audio/thousand-terms/malus_-a_-um.wav"
+  },
+  {
+    "latin": "maneō manēre mānsī mānsum",
+    "english": "remain",
+    "audio": "audio/thousand-terms/mane_man_re_m_ns_m_nsum.wav"
+  },
+  {
+    "latin": "manus -ūs f.",
+    "english": "hand; band of men",
+    "audio": "audio/thousand-terms/manus_-_s_f_.wav"
+  },
+  {
+    "latin": "mare -is n.",
+    "english": "sea",
+    "audio": "audio/thousand-terms/mare_-is_n_.wav"
+  },
+  {
+    "latin": "marītus -ī m.",
+    "english": "husband",
+    "audio": "audio/thousand-terms/mar_tus_-_m_.wav"
+  },
+  {
+    "latin": "māter mātris f.",
+    "english": "mother",
+    "audio": "audio/thousand-terms/m_ter_m_tris_f_.wav"
+  },
+  {
+    "latin": "māteria -ae f.",
+    "english": "material, subject matter; timber, lumber",
+    "audio": "audio/thousand-terms/m_teria_-ae_f_.wav"
+  },
+  {
+    "latin": "maximus -a -um",
+    "english": "greatest;",
+    "audio": "audio/thousand-terms/maximus_-a_-um.wav"
+  },
+  {
+    "latin": "māximē",
+    "english": "most, especially, very much",
+    "audio": "audio/thousand-terms/m_xim_.wav"
+  },
+  {
+    "latin": "medius -a -um",
+    "english": "middle, central",
+    "audio": "audio/thousand-terms/medius_-a_-um.wav"
+  },
+  {
+    "latin": "melior -ius",
+    "english": "better",
+    "audio": "audio/thousand-terms/melior_-ius.wav"
+  },
+  {
+    "latin": "membrum -ī m.",
+    "english": "limb, member of the body",
+    "audio": "audio/thousand-terms/membrum_-_m_.wav"
+  },
+  {
+    "latin": "meminī meminisse",
+    "english": "remember, recollect",
+    "audio": "audio/thousand-terms/memin_meminisse.wav"
+  },
+  {
+    "latin": "memoria -ae f.",
+    "english": "recollection, memory",
+    "audio": "audio/thousand-terms/memoria_-ae_f_.wav"
+  },
+  {
+    "latin": "mēns mentis f.",
+    "english": "mind",
+    "audio": "audio/thousand-terms/m_ns_mentis_f_.wav"
+  },
+  {
+    "latin": "mēnsa -ae f.",
+    "english": "table",
+    "audio": "audio/thousand-terms/m_nsa_-ae_f_.wav"
+  },
+  {
+    "latin": "mereō merēre meruī meritum",
+    "english": "deserve, merit; serve as a soldier",
+    "audio": "audio/thousand-terms/mere_mer_re_meru_meritum.wav"
+  },
+  {
+    "latin": "metuō metuere metuī",
+    "english": "to fear, to dread",
+    "audio": "audio/thousand-terms/metu_metuere_metu_.wav"
+  },
+  {
+    "latin": "metus -ūs m.",
+    "english": "fear, dread",
+    "audio": "audio/thousand-terms/metus_-_s_m_.wav"
+  },
+  {
+    "latin": "meus -a -um",
+    "english": "my",
+    "audio": "audio/thousand-terms/meus_-a_-um.wav"
+  },
+  {
+    "latin": "mīles -itis m.",
+    "english": "soldier",
+    "audio": "audio/thousand-terms/m_les_-itis_m_.wav"
+  },
+  {
+    "latin": "mīlle (pl.) mīlia",
+    "english": "thousand",
+    "audio": "audio/thousand-terms/m_lle_pl_m_lia.wav"
+  },
+  {
+    "latin": "minus -ōris n.",
+    "english": "a smaller number or amount, less;",
+    "audio": "audio/thousand-terms/minus_-_ris_n_.wav"
+  },
+  {
+    "latin": "(adv.) minus",
+    "english": "to a smaller extent, less",
+    "audio": "audio/thousand-terms/_adv_minus.wav"
+  },
+  {
+    "latin": "mīror mīrārī mīrātus sum",
+    "english": "wonder at, marvel at (+ acc.)",
+    "audio": "audio/thousand-terms/m_ror_m_r_r_m_r_tus_sum.wav"
+  },
+  {
+    "latin": "mīsceō mīscēre mīscuī mīxtum",
+    "english": "mix",
+    "audio": "audio/thousand-terms/m_sce_m_sc_re_m_scu_m_xtum.wav"
+  },
+  {
+    "latin": "miser misera miserum",
+    "english": "wretched, pitiable",
+    "audio": "audio/thousand-terms/miser_misera_miserum.wav"
+  },
+  {
+    "latin": "mittō mittere mīsī missum",
+    "english": "send, let go",
+    "audio": "audio/thousand-terms/mitt_mittere_m_s_missum.wav"
+  },
+  {
+    "latin": "modo",
+    "english": "just, just now",
+    "audio": "audio/thousand-terms/modo.wav"
+  },
+  {
+    "latin": "modus -ī m.",
+    "english": "measure, manner, kind",
+    "audio": "audio/thousand-terms/modus_-_m_.wav"
+  },
+  {
+    "latin": "moenia -ium n. pl.",
+    "english": "walls, fortifications",
+    "audio": "audio/thousand-terms/moenia_-ium_n_pl_.wav"
+  },
+  {
+    "latin": "mollis -e",
+    "english": "soft, yielding, gentle",
+    "audio": "audio/thousand-terms/mollis_-e.wav"
+  },
+  {
+    "latin": "moneō monēre monuī monitum",
+    "english": "warn, advise",
+    "audio": "audio/thousand-terms/mone_mon_re_monu_monitum.wav"
+  },
+  {
+    "latin": "mōns montis m.",
+    "english": "mountain",
+    "audio": "audio/thousand-terms/m_ns_montis_m_.wav"
+  },
+  {
+    "latin": "mora -ae f.",
+    "english": "delay, hindrance",
+    "audio": "audio/thousand-terms/mora_-ae_f_.wav"
+  },
+  {
+    "latin": "morbus -ī m.",
+    "english": "sickness, disease",
+    "audio": "audio/thousand-terms/morbus_-_m_.wav"
+  },
+  {
+    "latin": "morior morī mortuus sum",
+    "english": "die",
+    "audio": "audio/thousand-terms/morior_mor_mortuus_sum.wav"
+  },
+  {
+    "latin": "moror morārī morātus sum",
+    "english": "delay",
+    "audio": "audio/thousand-terms/moror_mor_r_mor_tus_sum.wav"
+  },
+  {
+    "latin": "mors mortis f.",
+    "english": "death",
+    "audio": "audio/thousand-terms/mors_mortis_f_.wav"
+  },
+  {
+    "latin": "mortālis -e",
+    "english": "liable to death, mortal",
+    "audio": "audio/thousand-terms/mort_lis_-e.wav"
+  },
+  {
+    "latin": "mōs mōris m.",
+    "english": "custom, habit; (pl.) character",
+    "audio": "audio/thousand-terms/m_s_m_ris_m_.wav"
+  },
+  {
+    "latin": "moveō -ēre mōvī mōtum",
+    "english": "move",
+    "audio": "audio/thousand-terms/move_-_re_m_v_m_tum.wav"
+  },
+  {
+    "latin": "mox",
+    "english": "soon",
+    "audio": "audio/thousand-terms/mox.wav"
+  },
+  {
+    "latin": "mulier -eris f.",
+    "english": "woman",
+    "audio": "audio/thousand-terms/mulier_-eris_f_.wav"
+  },
+  {
+    "latin": "multitūdō -inis f.",
+    "english": "multitude, number",
+    "audio": "audio/thousand-terms/multit_d_-inis_f_.wav"
+  },
+  {
+    "latin": "multus -a -um",
+    "english": "much, many; multō, by far",
+    "audio": "audio/thousand-terms/multus_-a_-um.wav"
+  },
+  {
+    "latin": "mundus -a -um",
+    "english": "clean, neat, elegant",
+    "audio": "audio/thousand-terms/mundus_-a_-um.wav"
+  },
+  {
+    "latin": "mundus -ī m.",
+    "english": "world, universe, heavens",
+    "audio": "audio/thousand-terms/mundus_-_m_.wav"
+  },
+  {
+    "latin": "mūnus mūneris n.",
+    "english": "gift, offering; duty, obligation; (pl.) gladiatorial show",
+    "audio": "audio/thousand-terms/m_nus_m_neris_n_.wav"
+  },
+  {
+    "latin": "mūrus -ī m.",
+    "english": "wall",
+    "audio": "audio/thousand-terms/m_rus_-_m_.wav"
+  },
+  {
+    "latin": "mūtō -āre",
+    "english": "change",
+    "audio": "audio/thousand-terms/m_t_-_re.wav"
+  },
+  {
+    "latin": "nam or namque",
+    "english": "for, indeed, really",
+    "audio": "audio/thousand-terms/nam_or_namque.wav"
+  },
+  {
+    "latin": "narrō -āre",
+    "english": "relate, recount",
+    "audio": "audio/thousand-terms/narr_-_re.wav"
+  },
+  {
+    "latin": "nāscor nāscī nātus sum",
+    "english": "be born",
+    "audio": "audio/thousand-terms/n_scor_n_sc_n_tus_sum.wav"
+  },
+  {
+    "latin": "nātūra -ae f.",
+    "english": "nature",
+    "audio": "audio/thousand-terms/n_t_ra_-ae_f_.wav"
+  },
+  {
+    "latin": "nātus -ī m.",
+    "english": "son",
+    "audio": "audio/thousand-terms/n_tus_-_m_.wav"
+  },
+  {
+    "latin": "nāvis -is f.",
+    "english": "ship",
+    "audio": "audio/thousand-terms/n_vis_-is_f_.wav"
+  },
+  {
+    "latin": "ne",
+    "english": "interrogative particle attached to the emphatic word in a question",
+    "audio": "audio/thousand-terms/ne.wav"
+  },
+  {
+    "latin": "nē",
+    "english": "lest, that not",
+    "audio": "audio/thousand-terms/n_.wav"
+  },
+  {
+    "latin": "necesse (indecl. adj.)",
+    "english": "necessary",
+    "audio": "audio/thousand-terms/necesse_indecl_adj_.wav"
+  },
+  {
+    "latin": "necessitās -tātis f.",
+    "english": "necessity, need",
+    "audio": "audio/thousand-terms/necessit_s_-t_tis_f_.wav"
+  },
+  {
+    "latin": "nefās",
+    "english": "impiety, wickedness",
+    "audio": "audio/thousand-terms/nef_s.wav"
+  },
+  {
+    "latin": "negō -āre",
+    "english": "deny, refuse",
+    "audio": "audio/thousand-terms/neg_-_re.wav"
+  },
+  {
+    "latin": "negōtium -ī n.",
+    "english": "business",
+    "audio": "audio/thousand-terms/neg_tium_-_n_.wav"
+  },
+  {
+    "latin": "nēmo",
+    "english": "no one (gen. nullius, dat. nulli, abl. nullo or nulla > nullus -a -um)",
+    "audio": "audio/thousand-terms/n_mo.wav"
+  },
+  {
+    "latin": "nemus nemoris n.",
+    "english": "grove, forest",
+    "audio": "audio/thousand-terms/nemus_nemoris_n_.wav"
+  },
+  {
+    "latin": "neque nec",
+    "english": "and not, nor; neque . . . neque, neither . . . nor",
+    "audio": "audio/thousand-terms/neque_nec.wav"
+  },
+  {
+    "latin": "nesciō -scīre",
+    "english": "not know, be ignorant",
+    "audio": "audio/thousand-terms/nesci_-sc_re.wav"
+  },
+  {
+    "latin": "niger nigra nigrum",
+    "english": "black",
+    "audio": "audio/thousand-terms/niger_nigra_nigrum.wav"
+  },
+  {
+    "latin": "nihil, nīl",
+    "english": "nothing; not at all",
+    "audio": "audio/thousand-terms/nihil_n_l.wav"
+  },
+  {
+    "latin": "nimius -a -um",
+    "english": "too much, excessive; nimis or nimium excessively",
+    "audio": "audio/thousand-terms/nimius_-a_-um.wav"
+  },
+  {
+    "latin": "nisi/nī",
+    "english": "if not, unless",
+    "audio": "audio/thousand-terms/nisi_n_.wav"
+  },
+  {
+    "latin": "nōbilis -e",
+    "english": "distinguished, noble; (as subst.) a nobleman or woman",
+    "audio": "audio/thousand-terms/n_bilis_-e.wav"
+  },
+  {
+    "latin": "noceō nocēre nocuī",
+    "english": "harm",
+    "audio": "audio/thousand-terms/noce_noc_re_nocu_.wav"
+  },
+  {
+    "latin": "nōlō nōlle nōluī",
+    "english": "be unwilling",
+    "audio": "audio/thousand-terms/n_l_n_lle_n_lu_.wav"
+  },
+  {
+    "latin": "nōmen -inis n.",
+    "english": "name",
+    "audio": "audio/thousand-terms/n_men_-inis_n_.wav"
+  },
+  {
+    "latin": "nōn",
+    "english": "not",
+    "audio": "audio/thousand-terms/n_n.wav"
+  },
+  {
+    "latin": "nōndum",
+    "english": "not yet",
+    "audio": "audio/thousand-terms/n_ndum.wav"
+  },
+  {
+    "latin": "nōs nostrum/nostrī nōbīs nōs",
+    "english": "we",
+    "audio": "audio/thousand-terms/n_s_nostrum_nostr_n_b_s_n_s.wav"
+  },
+  {
+    "latin": "nōscō nōscere nōvī nōtum",
+    "english": "learn, know",
+    "audio": "audio/thousand-terms/n_sc_n_scere_n_v_n_tum.wav"
+  },
+  {
+    "latin": "noster nostra nostrum",
+    "english": "our",
+    "audio": "audio/thousand-terms/noster_nostra_nostrum.wav"
+  },
+  {
+    "latin": "nōtus -a -um",
+    "english": "well-known",
+    "audio": "audio/thousand-terms/n_tus_-a_-um.wav"
+  },
+  {
+    "latin": "novus -a -um",
+    "english": "new",
+    "audio": "audio/thousand-terms/novus_-a_-um.wav"
+  },
+  {
+    "latin": "nox noctis f.",
+    "english": "night",
+    "audio": "audio/thousand-terms/nox_noctis_f_.wav"
+  },
+  {
+    "latin": "nūdus -a -um",
+    "english": "naked, bare",
+    "audio": "audio/thousand-terms/n_dus_-a_-um.wav"
+  },
+  {
+    "latin": "nūllus -a -um",
+    "english": "not any, no one",
+    "audio": "audio/thousand-terms/n_llus_-a_-um.wav"
+  },
+  {
+    "latin": "num",
+    "english": "interrogative particle implying negative answer",
+    "audio": "audio/thousand-terms/num.wav"
+  },
+  {
+    "latin": "nūmen -inis n.",
+    "english": "divine will, deity",
+    "audio": "audio/thousand-terms/n_men_-inis_n_.wav"
+  },
+  {
+    "latin": "numerus -ī m.",
+    "english": "number, amount",
+    "audio": "audio/thousand-terms/numerus_-_m_.wav"
+  },
+  {
+    "latin": "numquam",
+    "english": "never",
+    "audio": "audio/thousand-terms/numquam.wav"
+  },
+  {
+    "latin": "nunc",
+    "english": "now",
+    "audio": "audio/thousand-terms/nunc.wav"
+  },
+  {
+    "latin": "nūntius -iī m.",
+    "english": "messenger; news",
+    "audio": "audio/thousand-terms/n_ntius_-i_m_.wav"
+  },
+  {
+    "latin": "ob",
+    "english": "against, on account of (+acc)",
+    "audio": "audio/thousand-terms/ob.wav"
+  },
+  {
+    "latin": "occīdō -cīdere -cīdī -cīsum",
+    "english": "kill, cut down",
+    "audio": "audio/thousand-terms/occ_d_-c_dere_-c_d_-c_sum.wav"
+  },
+  {
+    "latin": "occupō -āre",
+    "english": "sieze, occupy; anticipate, do a thing first (+ infin.)",
+    "audio": "audio/thousand-terms/occup_-_re.wav"
+  },
+  {
+    "latin": "occurrō -currere -cucurrī -cursum",
+    "english": "run to meet; come into one's mind",
+    "audio": "audio/thousand-terms/occurr_-currere_-cucurr_-cursum.wav"
+  },
+  {
+    "latin": "oculus -ī m.",
+    "english": "eye",
+    "audio": "audio/thousand-terms/oculus_-_m_.wav"
+  },
+  {
+    "latin": "ōdī ōdisse",
+    "english": "hate",
+    "audio": "audio/thousand-terms/_d_disse.wav"
+  },
+  {
+    "latin": "odium -ī n.",
+    "english": "hatred",
+    "audio": "audio/thousand-terms/odium_-_n_.wav"
+  },
+  {
+    "latin": "offerō offerre obtulī oblātum",
+    "english": "present, offer, expose",
+    "audio": "audio/thousand-terms/offer_offerre_obtul_obl_tum.wav"
+  },
+  {
+    "latin": "ofﬁcium -ī n.",
+    "english": "service, duty",
+    "audio": "audio/thousand-terms/of_cium_-_n_.wav"
+  },
+  {
+    "latin": "ōlim",
+    "english": "formerly, at that time",
+    "audio": "audio/thousand-terms/_lim.wav"
+  },
+  {
+    "latin": "omnis -e",
+    "english": "all, every, as a whole",
+    "audio": "audio/thousand-terms/omnis_-e.wav"
+  },
+  {
+    "latin": "onus oneris n.",
+    "english": "load, burden",
+    "audio": "audio/thousand-terms/onus_oneris_n_.wav"
+  },
+  {
+    "latin": "opera -ae f.",
+    "english": "labor, activity, work",
+    "audio": "audio/thousand-terms/opera_-ae_f_.wav"
+  },
+  {
+    "latin": "oportet -ēre -uit",
+    "english": "it is proper, right (+ acc. + infin.)",
+    "audio": "audio/thousand-terms/oportet_-_re_-uit.wav"
+  },
+  {
+    "latin": "oppidum -ī n.",
+    "english": "town",
+    "audio": "audio/thousand-terms/oppidum_-_n_.wav"
+  },
+  {
+    "latin": "ops opis f.",
+    "english": "assistance, resources",
+    "audio": "audio/thousand-terms/ops_opis_f_.wav"
+  },
+  {
+    "latin": "optimus -a -um",
+    "english": "best, excellent; adv. optimē",
+    "audio": "audio/thousand-terms/optimus_-a_-um.wav"
+  },
+  {
+    "latin": "optō -āre",
+    "english": "choose, select",
+    "audio": "audio/thousand-terms/opt_-_re.wav"
+  },
+  {
+    "latin": "opus operis n.",
+    "english": "work",
+    "audio": "audio/thousand-terms/opus_operis_n_.wav"
+  },
+  {
+    "latin": "ōrātio -ōnis f.",
+    "english": "speech, address",
+    "audio": "audio/thousand-terms/_r_tio_-_nis_f_.wav"
+  },
+  {
+    "latin": "orbis -is m.",
+    "english": "circle;",
+    "audio": "audio/thousand-terms/orbis_-is_m_.wav"
+  },
+  {
+    "latin": "orbis terrārum",
+    "english": "world",
+    "audio": "audio/thousand-terms/orbis_terr_rum.wav"
+  },
+  {
+    "latin": "ōrdō -īnis m.",
+    "english": "order, rank",
+    "audio": "audio/thousand-terms/_rd_-_nis_m_.wav"
+  },
+  {
+    "latin": "orior orīrī ortus sum",
+    "english": "arise, begin",
+    "audio": "audio/thousand-terms/orior_or_r_ortus_sum.wav"
+  },
+  {
+    "latin": "ōrō -āre",
+    "english": "pray",
+    "audio": "audio/thousand-terms/_r_-_re.wav"
+  },
+  {
+    "latin": "ōs ōris n.",
+    "english": "mouth, face",
+    "audio": "audio/thousand-terms/_s_ris_n_.wav"
+  },
+  {
+    "latin": "ōs ossis n.",
+    "english": "bone",
+    "audio": "audio/thousand-terms/_s_ossis_n_.wav"
+  },
+  {
+    "latin": "ostendō ostendere ostendī ostentum",
+    "english": "show, hold out",
+    "audio": "audio/thousand-terms/ostend_ostendere_ostend_ostentum.wav"
+  },
+  {
+    "latin": "ōtium -iī n.",
+    "english": "leisure",
+    "audio": "audio/thousand-terms/_tium_-i_n_.wav"
+  },
+  {
+    "latin": "paene",
+    "english": "almost",
+    "audio": "audio/thousand-terms/paene.wav"
+  },
+  {
+    "latin": "pār paris",
+    "english": "equal",
+    "audio": "audio/thousand-terms/p_r_paris.wav"
+  },
+  {
+    "latin": "parcō parcere pepercī parsum",
+    "english": "spare, be sparing of (+ dat.)",
+    "audio": "audio/thousand-terms/parc_parcere_peperc_parsum.wav"
+  },
+  {
+    "latin": "parēns -ntis m./f.",
+    "english": "parent",
+    "audio": "audio/thousand-terms/par_ns_-ntis_m_f_.wav"
+  },
+  {
+    "latin": "pāreō parēre pāruī",
+    "english": "obey",
+    "audio": "audio/thousand-terms/p_re_par_re_p_ru_.wav"
+  },
+  {
+    "latin": "pariō parere peperī partum",
+    "english": "bring forth, give birth to; accomplish",
+    "audio": "audio/thousand-terms/pari_parere_peper_partum.wav"
+  },
+  {
+    "latin": "parō -āre",
+    "english": "prepare, acquire; parātus -a -um, ready",
+    "audio": "audio/thousand-terms/par_-_re.wav"
+  },
+  {
+    "latin": "pars partis f.",
+    "english": "part",
+    "audio": "audio/thousand-terms/pars_partis_f_.wav"
+  },
+  {
+    "latin": "parum",
+    "english": "too little",
+    "audio": "audio/thousand-terms/parum.wav"
+  },
+  {
+    "latin": "parvus -a -um",
+    "english": "small",
+    "audio": "audio/thousand-terms/parvus_-a_-um.wav"
+  },
+  {
+    "latin": "pateō patēre patuī",
+    "english": "lie open, extend; be evident or obvious",
+    "audio": "audio/thousand-terms/pate_pat_re_patu_.wav"
+  },
+  {
+    "latin": "pater patris m.",
+    "english": "father, ancestor",
+    "audio": "audio/thousand-terms/pater_patris_m_.wav"
+  },
+  {
+    "latin": "patior patī passus sum",
+    "english": "permit, endure",
+    "audio": "audio/thousand-terms/patior_pat_passus_sum.wav"
+  },
+  {
+    "latin": "patria -ae f.",
+    "english": "fatherland, country",
+    "audio": "audio/thousand-terms/patria_-ae_f_.wav"
+  },
+  {
+    "latin": "paucī -ae -a",
+    "english": "few",
+    "audio": "audio/thousand-terms/pauc_-ae_-a.wav"
+  },
+  {
+    "latin": "paulō paulum",
+    "english": "to only a small extent, slightly, a little",
+    "audio": "audio/thousand-terms/paul_paulum.wav"
+  },
+  {
+    "latin": "pauper -eris",
+    "english": "poor, lowly",
+    "audio": "audio/thousand-terms/pauper_-eris.wav"
+  },
+  {
+    "latin": "pāx pācis f.",
+    "english": "peace",
+    "audio": "audio/thousand-terms/p_x_p_cis_f_.wav"
+  },
+  {
+    "latin": "peccō -āre",
+    "english": "commit a wrong, injure",
+    "audio": "audio/thousand-terms/pecc_-_re.wav"
+  },
+  {
+    "latin": "pectus -oris n.",
+    "english": "chest, breast",
+    "audio": "audio/thousand-terms/pectus_-oris_n_.wav"
+  },
+  {
+    "latin": "pecūnia -ae f.",
+    "english": "money",
+    "audio": "audio/thousand-terms/pec_nia_-ae_f_.wav"
+  },
+  {
+    "latin": "pecus -oris n.",
+    "english": "cattle, sheep",
+    "audio": "audio/thousand-terms/pecus_-oris_n_.wav"
+  },
+  {
+    "latin": "pellō pellere pepulī pulsum",
+    "english": "strike, beat, push, drive",
+    "audio": "audio/thousand-terms/pell_pellere_pepul_pulsum.wav"
+  },
+  {
+    "latin": "pendō pendere pependī pēnsum",
+    "english": "weigh, hang, suspend; pay",
+    "audio": "audio/thousand-terms/pend_pendere_pepend_p_nsum.wav"
+  },
+  {
+    "latin": "per",
+    "english": "through (+acc.)",
+    "audio": "audio/thousand-terms/per.wav"
+  },
+  {
+    "latin": "perdō -dere -didī -ditum",
+    "english": "destroy",
+    "audio": "audio/thousand-terms/perd_-dere_-did_-ditum.wav"
+  },
+  {
+    "latin": "pereō -īre -iī -itum",
+    "english": "perish, be lost",
+    "audio": "audio/thousand-terms/pere_-_re_-i_-itum.wav"
+  },
+  {
+    "latin": "pergō pergere perrēxī perrēctum",
+    "english": "continue, proceed; awaken",
+    "audio": "audio/thousand-terms/perg_pergere_perr_x_perr_ctum.wav"
+  },
+  {
+    "latin": "perīculum -ī n.",
+    "english": "danger",
+    "audio": "audio/thousand-terms/per_culum_-_n_.wav"
+  },
+  {
+    "latin": "permittō -mittere -mīsī -missum",
+    "english": "yield, allow, permit",
+    "audio": "audio/thousand-terms/permitt_-mittere_-m_s_-missum.wav"
+  },
+  {
+    "latin": "perpetuus -a -um",
+    "english": "unbroken, perpetual",
+    "audio": "audio/thousand-terms/perpetuus_-a_-um.wav"
+  },
+  {
+    "latin": "pertineō -tinēre -tinuī",
+    "english": "extend over, reach; refer to, pertain to, be the business of",
+    "audio": "audio/thousand-terms/pertine_-tin_re_-tinu_.wav"
+  },
+  {
+    "latin": "perveniō -venīre -vēnī -ventum",
+    "english": "arrive, reach",
+    "audio": "audio/thousand-terms/perveni_-ven_re_-v_n_-ventum.wav"
+  },
+  {
+    "latin": "pēs pedis m.",
+    "english": "foot",
+    "audio": "audio/thousand-terms/p_s_pedis_m_.wav"
+  },
+  {
+    "latin": "petō petere petīvī petītum",
+    "english": "seek, aim at",
+    "audio": "audio/thousand-terms/pet_petere_pet_v_pet_tum.wav"
+  },
+  {
+    "latin": "pietās -tātis f.",
+    "english": "sense of duty, devotion, esp. between parents and children",
+    "audio": "audio/thousand-terms/piet_s_-t_tis_f_.wav"
+  },
+  {
+    "latin": "pius -a -um",
+    "english": "dutiful, devoted, just, pious",
+    "audio": "audio/thousand-terms/pius_-a_-um.wav"
+  },
+  {
+    "latin": "placeō placēre placuī placitum",
+    "english": "please",
+    "audio": "audio/thousand-terms/place_plac_re_placu_placitum.wav"
+  },
+  {
+    "latin": "plēbs plēbis f.",
+    "english": "the common people",
+    "audio": "audio/thousand-terms/pl_bs_pl_bis_f_.wav"
+  },
+  {
+    "latin": "plēnus -a -um",
+    "english": "full",
+    "audio": "audio/thousand-terms/pl_nus_-a_-um.wav"
+  },
+  {
+    "latin": "plērus- plēra- plērumque",
+    "english": "the greater part, very many, most, the majority; plērumque generally",
+    "audio": "audio/thousand-terms/pl_rus-_pl_ra-_pl_rumque.wav"
+  },
+  {
+    "latin": "plūrimus -a -um",
+    "english": "the greatest number of, very many; plūrimī, most people",
+    "audio": "audio/thousand-terms/pl_rimus_-a_-um.wav"
+  },
+  {
+    "latin": "plūs plūris n.",
+    "english": "a greater amount or number, more",
+    "audio": "audio/thousand-terms/pl_s_pl_ris_n_.wav"
+  },
+  {
+    "latin": "poena -ae f.",
+    "english": "penalty, punishment",
+    "audio": "audio/thousand-terms/poena_-ae_f_.wav"
+  },
+  {
+    "latin": "poēta -ae m.",
+    "english": "poet",
+    "audio": "audio/thousand-terms/po_ta_-ae_m_.wav"
+  },
+  {
+    "latin": "pondus ponderis n.",
+    "english": "weight",
+    "audio": "audio/thousand-terms/pondus_ponderis_n_.wav"
+  },
+  {
+    "latin": "pōnō pōnere posuī positum",
+    "english": "put, place; put aside",
+    "audio": "audio/thousand-terms/p_n_p_nere_posu_positum.wav"
+  },
+  {
+    "latin": "pontus -ī m.",
+    "english": "the open sea, the deep",
+    "audio": "audio/thousand-terms/pontus_-_m_.wav"
+  },
+  {
+    "latin": "populus -ī m.",
+    "english": "people",
+    "audio": "audio/thousand-terms/populus_-_m_.wav"
+  },
+  {
+    "latin": "porta -ae f.",
+    "english": "gate",
+    "audio": "audio/thousand-terms/porta_-ae_f_.wav"
+  },
+  {
+    "latin": "portō -āre",
+    "english": "carry a load",
+    "audio": "audio/thousand-terms/port_-_re.wav"
+  },
+  {
+    "latin": "pōscō pōscere popōscī",
+    "english": "demand, claim; inquire into",
+    "audio": "audio/thousand-terms/p_sc_p_scere_pop_sc_.wav"
+  },
+  {
+    "latin": "possum posse potuī",
+    "english": "be able",
+    "audio": "audio/thousand-terms/possum_posse_potu_.wav"
+  },
+  {
+    "latin": "post",
+    "english": "after (adv. and prep. +acc.)",
+    "audio": "audio/thousand-terms/post.wav"
+  },
+  {
+    "latin": "posteā",
+    "english": "afterwards",
+    "audio": "audio/thousand-terms/poste_.wav"
+  },
+  {
+    "latin": "posterus -a -um",
+    "english": "next, later",
+    "audio": "audio/thousand-terms/posterus_-a_-um.wav"
+  },
+  {
+    "latin": "postquam",
+    "english": "after",
+    "audio": "audio/thousand-terms/postquam.wav"
+  },
+  {
+    "latin": "potēns potentis",
+    "english": "able, powerful",
+    "audio": "audio/thousand-terms/pot_ns_potentis.wav"
+  },
+  {
+    "latin": "potestās -ātis f.",
+    "english": "power",
+    "audio": "audio/thousand-terms/potest_s_-_tis_f_.wav"
+  },
+  {
+    "latin": "potis -e",
+    "english": "powerful, able",
+    "audio": "audio/thousand-terms/potis_-e.wav"
+  },
+  {
+    "latin": "praebeō -ēre -uī -itum",
+    "english": "furnish, supply, render",
+    "audio": "audio/thousand-terms/praebe_-_re_-u_-itum.wav"
+  },
+  {
+    "latin": "praeceptum -i n.",
+    "english": "rule, precept; command",
+    "audio": "audio/thousand-terms/praeceptum_-i_n_.wav"
+  },
+  {
+    "latin": "praecipiō -cipere -cēpī -ceptum",
+    "english": "anticipate, advise, warn",
+    "audio": "audio/thousand-terms/praecipi_-cipere_-c_p_-ceptum.wav"
+  },
+  {
+    "latin": "praeda -ae f.",
+    "english": "booty, prey",
+    "audio": "audio/thousand-terms/praeda_-ae_f_.wav"
+  },
+  {
+    "latin": "praemium -iī n.",
+    "english": "bounty, reward",
+    "audio": "audio/thousand-terms/praemium_-i_n_.wav"
+  },
+  {
+    "latin": "praesēns -ntis",
+    "english": "present, in person, ready",
+    "audio": "audio/thousand-terms/praes_ns_-ntis.wav"
+  },
+  {
+    "latin": "praesidium -ī n.",
+    "english": "garrison, protection",
+    "audio": "audio/thousand-terms/praesidium_-_n_.wav"
+  },
+  {
+    "latin": "praestō -stāre -stitī -stitum",
+    "english": "excel, exhibit",
+    "audio": "audio/thousand-terms/praest_-st_re_-stit_-stitum.wav"
+  },
+  {
+    "latin": "praeter",
+    "english": "by, along, past; besides, except (+ acc.)",
+    "audio": "audio/thousand-terms/praeter.wav"
+  },
+  {
+    "latin": "praetereā",
+    "english": "besides, moreover",
+    "audio": "audio/thousand-terms/praetere_.wav"
+  },
+  {
+    "latin": "praetor -ōris m.",
+    "english": "praetor, one of the chief Roman magistrates",
+    "audio": "audio/thousand-terms/praetor_-_ris_m_.wav"
+  },
+  {
+    "latin": "precor -ārī",
+    "english": "pray, invoke",
+    "audio": "audio/thousand-terms/precor_-_r_.wav"
+  },
+  {
+    "latin": "premō premere pressī pressum",
+    "english": "press, pursue, overwhelm",
+    "audio": "audio/thousand-terms/prem_premere_press_pressum.wav"
+  },
+  {
+    "latin": "pretium -ī n.",
+    "english": "price, worth, reward;",
+    "audio": "audio/thousand-terms/pretium_-_n_.wav"
+  },
+  {
+    "latin": "pretium operae",
+    "english": "a reward for trouble",
+    "audio": "audio/thousand-terms/pretium_operae.wav"
+  },
+  {
+    "latin": "prex precis f.",
+    "english": "prayers, entreaties",
+    "audio": "audio/thousand-terms/prex_precis_f_.wav"
+  },
+  {
+    "latin": "prīmus -a -um",
+    "english": "first;",
+    "audio": "audio/thousand-terms/pr_mus_-a_-um.wav"
+  },
+  {
+    "latin": "adv. prīmum",
+    "english": "at first, firstly",
+    "audio": "audio/thousand-terms/adv_pr_mum.wav"
+  },
+  {
+    "latin": "prīnceps -cipis",
+    "english": "first, chief",
+    "audio": "audio/thousand-terms/pr_nceps_-cipis.wav"
+  },
+  {
+    "latin": "prīncipium -iī n.",
+    "english": "beginning",
+    "audio": "audio/thousand-terms/pr_ncipium_-i_n_.wav"
+  },
+  {
+    "latin": "prior -ius",
+    "english": "earlier, preceding;",
+    "audio": "audio/thousand-terms/prior_-ius.wav"
+  },
+  {
+    "latin": "prius or priusquam",
+    "english": "before",
+    "audio": "audio/thousand-terms/prius_or_priusquam.wav"
+  },
+  {
+    "latin": "prīvātus -a -um",
+    "english": "personal, private",
+    "audio": "audio/thousand-terms/pr_v_tus_-a_-um.wav"
+  },
+  {
+    "latin": "prō",
+    "english": "for, on behalf of, in proportion to (+abl.)",
+    "audio": "audio/thousand-terms/pr_.wav"
+  },
+  {
+    "latin": "probō -āre",
+    "english": "approve, prove; convince one (dat.) of a thing (acc.)",
+    "audio": "audio/thousand-terms/prob_-_re.wav"
+  },
+  {
+    "latin": "prōcēdō -cēdere -cessī -cessum",
+    "english": "go forth, advance",
+    "audio": "audio/thousand-terms/pr_c_d_-c_dere_-cess_-cessum.wav"
+  },
+  {
+    "latin": "procul",
+    "english": "at a distance",
+    "audio": "audio/thousand-terms/procul.wav"
+  },
+  {
+    "latin": "prōdō prōdere prōdidī prōditum",
+    "english": "publish, hand down; give over, betray",
+    "audio": "audio/thousand-terms/pr_d_pr_dere_pr_did_pr_ditum.wav"
+  },
+  {
+    "latin": "proelium -ī n.",
+    "english": "battle",
+    "audio": "audio/thousand-terms/proelium_-_n_.wav"
+  },
+  {
+    "latin": "proficīscor -ficīscī -fectus sum",
+    "english": "set forth, go",
+    "audio": "audio/thousand-terms/profic_scor_-fic_sc_-fectus_sum.wav"
+  },
+  {
+    "latin": "prohibeō -ēre -uī -itum",
+    "english": "restrain, keep away",
+    "audio": "audio/thousand-terms/prohibe_-_re_-u_-itum.wav"
+  },
+  {
+    "latin": "prōmittō -mittere -mīsī -missum",
+    "english": "send forth, offer",
+    "audio": "audio/thousand-terms/pr_mitt_-mittere_-m_s_-missum.wav"
+  },
+  {
+    "latin": "prope",
+    "english": "near, next; (comp.) propior, (superl.) proximus; (adv.) prope, nearly, almost",
+    "audio": "audio/thousand-terms/prope.wav"
+  },
+  {
+    "latin": "properō -āre",
+    "english": "hasten, speed",
+    "audio": "audio/thousand-terms/proper_-_re.wav"
+  },
+  {
+    "latin": "prōpōnō -pōnere -posuī -positum",
+    "english": "put forth, propose, present",
+    "audio": "audio/thousand-terms/pr_p_n_-p_nere_-posu_-positum.wav"
+  },
+  {
+    "latin": "proprius -a -um",
+    "english": "one's own, peculiar",
+    "audio": "audio/thousand-terms/proprius_-a_-um.wav"
+  },
+  {
+    "latin": "propter",
+    "english": "because of (+ acc.)",
+    "audio": "audio/thousand-terms/propter.wav"
+  },
+  {
+    "latin": "prōsum prodesse profuī",
+    "english": "be of use, do good, help (+ dat.)",
+    "audio": "audio/thousand-terms/pr_sum_prodesse_profu_.wav"
+  },
+  {
+    "latin": "prōtinus",
+    "english": "at once, forthwith",
+    "audio": "audio/thousand-terms/pr_tinus.wav"
+  },
+  {
+    "latin": "prōvincia -ae f.",
+    "english": "province; official duty",
+    "audio": "audio/thousand-terms/pr_vincia_-ae_f_.wav"
+  },
+  {
+    "latin": "pūblicus -a -um",
+    "english": "public, belonging to the state",
+    "audio": "audio/thousand-terms/p_blicus_-a_-um.wav"
+  },
+  {
+    "latin": "pudor pudōris m.",
+    "english": "sense of shame, modesty, propriety",
+    "audio": "audio/thousand-terms/pudor_pud_ris_m_.wav"
+  },
+  {
+    "latin": "puella -ae f.",
+    "english": "girl; girl-friend",
+    "audio": "audio/thousand-terms/puella_-ae_f_.wav"
+  },
+  {
+    "latin": "puer puerī m.",
+    "english": "boy; slave",
+    "audio": "audio/thousand-terms/puer_puer_m_.wav"
+  },
+  {
+    "latin": "pūgna -ae f.",
+    "english": "fist-fight; battle",
+    "audio": "audio/thousand-terms/p_gna_-ae_f_.wav"
+  },
+  {
+    "latin": "pūgno -āre",
+    "english": "fight",
+    "audio": "audio/thousand-terms/p_gno_-_re.wav"
+  },
+  {
+    "latin": "pulcher -chra -chrum",
+    "english": "beautiful",
+    "audio": "audio/thousand-terms/pulcher_-chra_-chrum.wav"
+  },
+  {
+    "latin": "putō -āre",
+    "english": "think, suppose",
+    "audio": "audio/thousand-terms/put_-_re.wav"
+  },
+  {
+    "latin": "quā",
+    "english": "where, how",
+    "audio": "audio/thousand-terms/qu_.wav"
+  },
+  {
+    "latin": "quaerō -rere -sīvī -sītum",
+    "english": "seek, inquire",
+    "audio": "audio/thousand-terms/quaer_-rere_-s_v_-s_tum.wav"
+  },
+  {
+    "latin": "quālis -e",
+    "english": "of what kind? what?",
+    "audio": "audio/thousand-terms/qu_lis_-e.wav"
+  },
+  {
+    "latin": "quam",
+    "english": "how?; (after comparative) than",
+    "audio": "audio/thousand-terms/quam.wav"
+  },
+  {
+    "latin": "quamquam",
+    "english": "however, although",
+    "audio": "audio/thousand-terms/quamquam.wav"
+  },
+  {
+    "latin": "quamvīs",
+    "english": "however you like; although",
+    "audio": "audio/thousand-terms/quamv_s.wav"
+  },
+  {
+    "latin": "quandō",
+    "english": "when?; since;",
+    "audio": "audio/thousand-terms/quand_.wav"
+  },
+  {
+    "latin": "sī quandō",
+    "english": "if ever",
+    "audio": "audio/thousand-terms/s_quand_.wav"
+  },
+  {
+    "latin": "quantum",
+    "english": "(adv.) how much? how greatly? how much! how greatly!",
+    "audio": "audio/thousand-terms/quantum.wav"
+  },
+  {
+    "latin": "quantus -a -um",
+    "english": "(interr.) how great? (rel.) of what size, amount, etc.",
+    "audio": "audio/thousand-terms/quantus_-a_-um.wav"
+  },
+  {
+    "latin": "quārē",
+    "english": "how? why?",
+    "audio": "audio/thousand-terms/qu_r_.wav"
+  },
+  {
+    "latin": "quasi",
+    "english": "as if",
+    "audio": "audio/thousand-terms/quasi.wav"
+  },
+  {
+    "latin": "quattuor",
+    "english": "four",
+    "audio": "audio/thousand-terms/quattuor.wav"
+  },
+  {
+    "latin": "que",
+    "english": "and",
+    "audio": "audio/thousand-terms/que.wav"
+  },
+  {
+    "latin": "quemadmodum",
+    "english": "in what manner, how",
+    "audio": "audio/thousand-terms/quemadmodum.wav"
+  },
+  {
+    "latin": "queror querī questus sum",
+    "english": "complain of, lament",
+    "audio": "audio/thousand-terms/queror_quer_questus_sum.wav"
+  },
+  {
+    "latin": "qui quae quod",
+    "english": "who, which, what",
+    "audio": "audio/thousand-terms/qui_quae_quod.wav"
+  },
+  {
+    "latin": "quī- quae- quodcumque",
+    "english": "who-, whatever",
+    "audio": "audio/thousand-terms/qu_-_quae-_quodcumque.wav"
+  },
+  {
+    "latin": "quī- quae- quoddam",
+    "english": "a certain one, someone",
+    "audio": "audio/thousand-terms/qu_-_quae-_quoddam.wav"
+  },
+  {
+    "latin": "quia",
+    "english": "because",
+    "audio": "audio/thousand-terms/quia.wav"
+  },
+  {
+    "latin": "quidem",
+    "english": "certainly, at least",
+    "audio": "audio/thousand-terms/quidem.wav"
+  },
+  {
+    "latin": "quiēscō quiēscere quiēvī quiētum",
+    "english": "keep quiet; sleep",
+    "audio": "audio/thousand-terms/qui_sc_qui_scere_qui_v_qui_tum.wav"
+  },
+  {
+    "latin": "quīn",
+    "english": "(adv.) indeed, in fact; (conjunction) so that . . . not (+ subj.)",
+    "audio": "audio/thousand-terms/qu_n.wav"
+  },
+  {
+    "latin": "quīppe",
+    "english": "(adv.) indeed, surely",
+    "audio": "audio/thousand-terms/qu_ppe.wav"
+  },
+  {
+    "latin": "quis- quae- quidque",
+    "english": "each one, everyone",
+    "audio": "audio/thousand-terms/quis-_quae-_quidque.wav"
+  },
+  {
+    "latin": "quis- quicquam/quidquam",
+    "english": "any (single) person, anyone at all",
+    "audio": "audio/thousand-terms/quis-_quicquam_quidquam.wav"
+  },
+  {
+    "latin": "quis quid",
+    "english": "who? what? which?",
+    "audio": "audio/thousand-terms/quis_quid.wav"
+  },
+  {
+    "latin": "quisquis quidquid",
+    "english": "whoever, whichever",
+    "audio": "audio/thousand-terms/quisquis_quidquid.wav"
+  },
+  {
+    "latin": "quō",
+    "english": "for which reason; to or in what place; to what end, for what purpose?",
+    "audio": "audio/thousand-terms/qu_.wav"
+  },
+  {
+    "latin": "quōmodo",
+    "english": "in what way, how?",
+    "audio": "audio/thousand-terms/qu_modo.wav"
+  },
+  {
+    "latin": "quondam",
+    "english": "formerly, once",
+    "audio": "audio/thousand-terms/quondam.wav"
+  },
+  {
+    "latin": "quoniam",
+    "english": "since, seeing that",
+    "audio": "audio/thousand-terms/quoniam.wav"
+  },
+  {
+    "latin": "quoque",
+    "english": "also, too",
+    "audio": "audio/thousand-terms/quoque.wav"
+  },
+  {
+    "latin": "quotiēns",
+    "english": "how many times?",
+    "audio": "audio/thousand-terms/quoti_ns.wav"
+  },
+  {
+    "latin": "rapiō rapere rapuī raptum",
+    "english": "seize, tear away",
+    "audio": "audio/thousand-terms/rapi_rapere_rapu_raptum.wav"
+  },
+  {
+    "latin": "rārus -a -um",
+    "english": "wide apart, loose, thin; rare, seldom",
+    "audio": "audio/thousand-terms/r_rus_-a_-um.wav"
+  },
+  {
+    "latin": "ratiō -ōnis f.",
+    "english": "method, plan, reason",
+    "audio": "audio/thousand-terms/rati_-_nis_f_.wav"
+  },
+  {
+    "latin": "recēdō -cēdere -cessī -cessum",
+    "english": "step back, recoil, recede, withdraw",
+    "audio": "audio/thousand-terms/rec_d_-c_dere_-cess_-cessum.wav"
+  },
+  {
+    "latin": "recēns -ntis",
+    "english": "fresh, new",
+    "audio": "audio/thousand-terms/rec_ns_-ntis.wav"
+  },
+  {
+    "latin": "recipiō -cipere -cēpi -ceptum",
+    "english": "take back, receive;",
+    "audio": "audio/thousand-terms/recipi_-cipere_-c_pi_-ceptum.wav"
+  },
+  {
+    "latin": "sē recipire,",
+    "english": "betake oneself, go",
+    "audio": "audio/thousand-terms/s_recipire_.wav"
+  },
+  {
+    "latin": "rēctus -a -um",
+    "english": "straight, direct",
+    "audio": "audio/thousand-terms/r_ctus_-a_-um.wav"
+  },
+  {
+    "latin": "reddō -dere -didī -ditum",
+    "english": "return, give back",
+    "audio": "audio/thousand-terms/redd_-dere_-did_-ditum.wav"
+  },
+  {
+    "latin": "redeō -īre -iī -itum",
+    "english": "go back, return",
+    "audio": "audio/thousand-terms/rede_-_re_-i_-itum.wav"
+  },
+  {
+    "latin": "referō -ferre -tulī -lātum",
+    "english": "bring back; report",
+    "audio": "audio/thousand-terms/refer_-ferre_-tul_-l_tum.wav"
+  },
+  {
+    "latin": "regiō -ōnis f.",
+    "english": "boundary, region",
+    "audio": "audio/thousand-terms/regi_-_nis_f_.wav"
+  },
+  {
+    "latin": "rēgius -a -um",
+    "english": "kingly, royal",
+    "audio": "audio/thousand-terms/r_gius_-a_-um.wav"
+  },
+  {
+    "latin": "rēgnum -ī n.",
+    "english": "kingship, kingdom",
+    "audio": "audio/thousand-terms/r_gnum_-_n_.wav"
+  },
+  {
+    "latin": "regō regere rēxī rēctum",
+    "english": "guide, rule",
+    "audio": "audio/thousand-terms/reg_regere_r_x_r_ctum.wav"
+  },
+  {
+    "latin": "relinquō -linquere -līquī -lictum",
+    "english": "abandon",
+    "audio": "audio/thousand-terms/relinqu_-linquere_-l_qu_-lictum.wav"
+  },
+  {
+    "latin": "reliquus -a -um",
+    "english": "remaining, rest",
+    "audio": "audio/thousand-terms/reliquus_-a_-um.wav"
+  },
+  {
+    "latin": "reor rērī rātus sum",
+    "english": "think, imagine, suppose, deem",
+    "audio": "audio/thousand-terms/reor_r_r_r_tus_sum.wav"
+  },
+  {
+    "latin": "reperiō -perīre -pperī -pertum",
+    "english": "find, find out",
+    "audio": "audio/thousand-terms/reperi_-per_re_-pper_-pertum.wav"
+  },
+  {
+    "latin": "repetō -petere -petīvī -petītum",
+    "english": "demand, exact; revisit; call to mind, recollect; repeat",
+    "audio": "audio/thousand-terms/repet_-petere_-pet_v_-pet_tum.wav"
+  },
+  {
+    "latin": "rēs reī f.",
+    "english": "thing (rēs pūblica, commonwealth; rēs familiāris, family property, estate; rēs mīlitāris, art of war; rēs novae, revolution)",
+    "audio": "audio/thousand-terms/r_s_re_f_.wav"
+  },
+  {
+    "latin": "respicio -ere -spēxi -spectum",
+    "english": "look back, regard, consider",
+    "audio": "audio/thousand-terms/respicio_-ere_-sp_xi_-spectum.wav"
+  },
+  {
+    "latin": "respondeō -spondēre -spondī -spōnsum",
+    "english": "answer",
+    "audio": "audio/thousand-terms/responde_-spond_re_-spond_-sp_nsum.wav"
+  },
+  {
+    "latin": "retineō -tinēre -tinuī -tentum",
+    "english": "hold back, keep",
+    "audio": "audio/thousand-terms/retine_-tin_re_-tinu_-tentum.wav"
+  },
+  {
+    "latin": "reus -ī m.",
+    "english": "defendant",
+    "audio": "audio/thousand-terms/reus_-_m_.wav"
+  },
+  {
+    "latin": "revertō -vertere -vertī",
+    "english": "turn back",
+    "audio": "audio/thousand-terms/revert_-vertere_-vert_.wav"
+  },
+  {
+    "latin": "revocō -āre",
+    "english": "call back, recall",
+    "audio": "audio/thousand-terms/revoc_-_re.wav"
+  },
+  {
+    "latin": "rēx rēgis m.",
+    "english": "king",
+    "audio": "audio/thousand-terms/r_x_r_gis_m_.wav"
+  },
+  {
+    "latin": "rīdeō -ēre rīsī rīsum",
+    "english": "laugh, laugh at",
+    "audio": "audio/thousand-terms/r_de_-_re_r_s_r_sum.wav"
+  },
+  {
+    "latin": "rīpa -ae f.",
+    "english": "bank of a river",
+    "audio": "audio/thousand-terms/r_pa_-ae_f_.wav"
+  },
+  {
+    "latin": "rogō -āre",
+    "english": "ask",
+    "audio": "audio/thousand-terms/rog_-_re.wav"
+  },
+  {
+    "latin": "rumpō rumpere rūpī ruptum",
+    "english": "break, rupture",
+    "audio": "audio/thousand-terms/rump_rumpere_r_p_ruptum.wav"
+  },
+  {
+    "latin": "rūrsus",
+    "english": "back, again",
+    "audio": "audio/thousand-terms/r_rsus.wav"
+  },
+  {
+    "latin": "rūs rūris n.",
+    "english": "country",
+    "audio": "audio/thousand-terms/r_s_r_ris_n_.wav"
+  },
+  {
+    "latin": "sacer sacra sacrum",
+    "english": "holy, sacred",
+    "audio": "audio/thousand-terms/sacer_sacra_sacrum.wav"
+  },
+  {
+    "latin": "sacerdōs -dōtis m./f.",
+    "english": "priest, priestess",
+    "audio": "audio/thousand-terms/sacerd_s_-d_tis_m_f_.wav"
+  },
+  {
+    "latin": "saeculum -ī n.",
+    "english": "generation, age, century",
+    "audio": "audio/thousand-terms/saeculum_-_n_.wav"
+  },
+  {
+    "latin": "saepe",
+    "english": "often",
+    "audio": "audio/thousand-terms/saepe.wav"
+  },
+  {
+    "latin": "saevus -a -um",
+    "english": "fierce, raging, wrathful",
+    "audio": "audio/thousand-terms/saevus_-a_-um.wav"
+  },
+  {
+    "latin": "salūs -ūtis f.",
+    "english": "health, safety",
+    "audio": "audio/thousand-terms/sal_s_-_tis_f_.wav"
+  },
+  {
+    "latin": "sānctus -a -um",
+    "english": "sacred, inviolable",
+    "audio": "audio/thousand-terms/s_nctus_-a_-um.wav"
+  },
+  {
+    "latin": "sanguis -inis m.",
+    "english": "blood",
+    "audio": "audio/thousand-terms/sanguis_-inis_m_.wav"
+  },
+  {
+    "latin": "sānus -a -um",
+    "english": "sound, sane",
+    "audio": "audio/thousand-terms/s_nus_-a_-um.wav"
+  },
+  {
+    "latin": "sapiēns -ntis",
+    "english": "wise man",
+    "audio": "audio/thousand-terms/sapi_ns_-ntis.wav"
+  },
+  {
+    "latin": "sapientia -ae f.",
+    "english": "wisdom",
+    "audio": "audio/thousand-terms/sapientia_-ae_f_.wav"
+  },
+  {
+    "latin": "satis/sat",
+    "english": "(adv.) enough, sufficiently",
+    "audio": "audio/thousand-terms/satis_sat.wav"
+  },
+  {
+    "latin": "saxum -ī n.",
+    "english": "rock, cliff, crag",
+    "audio": "audio/thousand-terms/saxum_-_n_.wav"
+  },
+  {
+    "latin": "scelus -eris n.",
+    "english": "crime, sin",
+    "audio": "audio/thousand-terms/scelus_-eris_n_.wav"
+  },
+  {
+    "latin": "scientia -ae f.",
+    "english": "knowledge",
+    "audio": "audio/thousand-terms/scientia_-ae_f_.wav"
+  },
+  {
+    "latin": "scīlicet",
+    "english": "certainly, of course",
+    "audio": "audio/thousand-terms/sc_licet.wav"
+  },
+  {
+    "latin": "sciō -īre -īvī/-iī -ītum",
+    "english": "know",
+    "audio": "audio/thousand-terms/sci_-_re_-_v_-i_-_tum.wav"
+  },
+  {
+    "latin": "scrībō scrībere scrīpsī scrīptum",
+    "english": "write",
+    "audio": "audio/thousand-terms/scr_b_scr_bere_scr_ps_scr_ptum.wav"
+  },
+  {
+    "latin": "secundus -a -um",
+    "english": "following; favorable",
+    "audio": "audio/thousand-terms/secundus_-a_-um.wav"
+  },
+  {
+    "latin": "sēcūrus -ā -um",
+    "english": "free from care, tranquil; careless",
+    "audio": "audio/thousand-terms/s_c_rus_-_-um.wav"
+  },
+  {
+    "latin": "sed",
+    "english": "but",
+    "audio": "audio/thousand-terms/sed.wav"
+  },
+  {
+    "latin": "sedeō sedēre sēdī sessum",
+    "english": "sit",
+    "audio": "audio/thousand-terms/sede_sed_re_s_d_sessum.wav"
+  },
+  {
+    "latin": "sēdēs -is f.",
+    "english": "seat, abode, habitation",
+    "audio": "audio/thousand-terms/s_d_s_-is_f_.wav"
+  },
+  {
+    "latin": "semel",
+    "english": "once",
+    "audio": "audio/thousand-terms/semel.wav"
+  },
+  {
+    "latin": "semper",
+    "english": "always, ever",
+    "audio": "audio/thousand-terms/semper.wav"
+  },
+  {
+    "latin": "senātus -ūs m.",
+    "english": "senate",
+    "audio": "audio/thousand-terms/sen_tus_-_s_m_.wav"
+  },
+  {
+    "latin": "senex -is m.",
+    "english": "old man, elder; senior, older",
+    "audio": "audio/thousand-terms/senex_-is_m_.wav"
+  },
+  {
+    "latin": "sēnsus -ūs m.",
+    "english": "feeling, emotion, sense",
+    "audio": "audio/thousand-terms/s_nsus_-_s_m_.wav"
+  },
+  {
+    "latin": "sententia -ae f.",
+    "english": "opinion, judgement",
+    "audio": "audio/thousand-terms/sententia_-ae_f_.wav"
+  },
+  {
+    "latin": "sentiō sentīre sēnsī sēnsum",
+    "english": "perceive, feel, hear, see",
+    "audio": "audio/thousand-terms/senti_sent_re_s_ns_s_nsum.wav"
+  },
+  {
+    "latin": "sepulcrum -ī n.",
+    "english": "place of burial, tomb, grave",
+    "audio": "audio/thousand-terms/sepulcrum_-_n_.wav"
+  },
+  {
+    "latin": "sequor sequī secūtus sum",
+    "english": "follow",
+    "audio": "audio/thousand-terms/sequor_sequ_sec_tus_sum.wav"
+  },
+  {
+    "latin": "sermō -ōnis m.",
+    "english": "conversation, discourse",
+    "audio": "audio/thousand-terms/serm_-_nis_m_.wav"
+  },
+  {
+    "latin": "serviō -īre",
+    "english": "be a slave, serve (+ dat.)",
+    "audio": "audio/thousand-terms/servi_-_re.wav"
+  },
+  {
+    "latin": "servō -āre",
+    "english": "save, watch over",
+    "audio": "audio/thousand-terms/serv_-_re.wav"
+  },
+  {
+    "latin": "servus -ī m.",
+    "english": "slave",
+    "audio": "audio/thousand-terms/servus_-_m_.wav"
+  },
+  {
+    "latin": "seu",
+    "english": "see sive",
+    "audio": "audio/thousand-terms/seu.wav"
+  },
+  {
+    "latin": "sī",
+    "english": "if",
+    "audio": "audio/thousand-terms/s_.wav"
+  },
+  {
+    "latin": "sīc",
+    "english": "in this manner, thus; sīc . . . ut , in the same way as",
+    "audio": "audio/thousand-terms/s_c.wav"
+  },
+  {
+    "latin": "sīcut",
+    "english": "just as",
+    "audio": "audio/thousand-terms/s_cut.wav"
+  },
+  {
+    "latin": "sīdus -eris n.",
+    "english": "star, constellation",
+    "audio": "audio/thousand-terms/s_dus_-eris_n_.wav"
+  },
+  {
+    "latin": "sīgnum -ī n.",
+    "english": "sign, standard, mark",
+    "audio": "audio/thousand-terms/s_gnum_-_n_.wav"
+  },
+  {
+    "latin": "silva -ae f.",
+    "english": "forest, grove",
+    "audio": "audio/thousand-terms/silva_-ae_f_.wav"
+  },
+  {
+    "latin": "similis -e",
+    "english": "like, similar",
+    "audio": "audio/thousand-terms/similis_-e.wav"
+  },
+  {
+    "latin": "simul",
+    "english": "at the same time",
+    "audio": "audio/thousand-terms/simul.wav"
+  },
+  {
+    "latin": "sine",
+    "english": "without (+ abl.)",
+    "audio": "audio/thousand-terms/sine.wav"
+  },
+  {
+    "latin": "singulī -ae -a",
+    "english": "one each",
+    "audio": "audio/thousand-terms/singul_-ae_-a.wav"
+  },
+  {
+    "latin": "sinō sinere sīvī situm",
+    "english": "allow, let go",
+    "audio": "audio/thousand-terms/sin_sinere_s_v_situm.wav"
+  },
+  {
+    "latin": "sinus -ūs m.",
+    "english": "fold of a garment; lap, bay, gulf",
+    "audio": "audio/thousand-terms/sinus_-_s_m_.wav"
+  },
+  {
+    "latin": "sīve seu",
+    "english": "whether;",
+    "audio": "audio/thousand-terms/s_ve_seu.wav"
+  },
+  {
+    "latin": "sīve . . . sīve",
+    "english": "whether . . . or",
+    "audio": "audio/thousand-terms/s_ve_s_ve.wav"
+  },
+  {
+    "latin": "socius -a -um",
+    "english": "friendly, allied;",
+    "audio": "audio/thousand-terms/socius_-a_-um.wav"
+  },
+  {
+    "latin": "socius -i m.",
+    "english": "partner, comrade",
+    "audio": "audio/thousand-terms/socius_-i_m_.wav"
+  },
+  {
+    "latin": "sōl sōlis m.",
+    "english": "sun",
+    "audio": "audio/thousand-terms/s_l_s_lis_m_.wav"
+  },
+  {
+    "latin": "soleō -ēre -uī -itum",
+    "english": "be accustomed",
+    "audio": "audio/thousand-terms/sole_-_re_-u_-itum.wav"
+  },
+  {
+    "latin": "sōlus -a -um",
+    "english": "only, alone; sōlum (adv.), only, merely",
+    "audio": "audio/thousand-terms/s_lus_-a_-um.wav"
+  },
+  {
+    "latin": "solvō solvere solvī solūtum",
+    "english": "release, set sail",
+    "audio": "audio/thousand-terms/solv_solvere_solv_sol_tum.wav"
+  },
+  {
+    "latin": "somnus -ī m.",
+    "english": "sleep, slumber; (pl.) dreams",
+    "audio": "audio/thousand-terms/somnus_-_m_.wav"
+  },
+  {
+    "latin": "sonō sonāre sonuī sonitum",
+    "english": "sound, resound",
+    "audio": "audio/thousand-terms/son_son_re_sonu_sonitum.wav"
+  },
+  {
+    "latin": "soror -ōris f.",
+    "english": "sister",
+    "audio": "audio/thousand-terms/soror_-_ris_f_.wav"
+  },
+  {
+    "latin": "sors sortis f.",
+    "english": "lot, fate, destiny; oracle",
+    "audio": "audio/thousand-terms/sors_sortis_f_.wav"
+  },
+  {
+    "latin": "spargō spargere sparsī sparsum",
+    "english": "scatter",
+    "audio": "audio/thousand-terms/sparg_spargere_spars_sparsum.wav"
+  },
+  {
+    "latin": "spatium -iī n.",
+    "english": "space",
+    "audio": "audio/thousand-terms/spatium_-i_n_.wav"
+  },
+  {
+    "latin": "speciēs -ēī f.",
+    "english": "aspect, appearance",
+    "audio": "audio/thousand-terms/speci_s_-_f_.wav"
+  },
+  {
+    "latin": "spectō -āre",
+    "english": "look at, consider",
+    "audio": "audio/thousand-terms/spect_-_re.wav"
+  },
+  {
+    "latin": "spērō -āre",
+    "english": "to hope",
+    "audio": "audio/thousand-terms/sp_r_-_re.wav"
+  },
+  {
+    "latin": "spēs speī f.",
+    "english": "hope",
+    "audio": "audio/thousand-terms/sp_s_spe_f_.wav"
+  },
+  {
+    "latin": "spīritus -ūs m.",
+    "english": "breath, life, spirit",
+    "audio": "audio/thousand-terms/sp_ritus_-_s_m_.wav"
+  },
+  {
+    "latin": "statim",
+    "english": "immediately",
+    "audio": "audio/thousand-terms/statim.wav"
+  },
+  {
+    "latin": "statuō -ere -uī -ūtum",
+    "english": "set up, determine",
+    "audio": "audio/thousand-terms/statu_-ere_-u_-_tum.wav"
+  },
+  {
+    "latin": "stella -ae f.",
+    "english": "star",
+    "audio": "audio/thousand-terms/stella_-ae_f_.wav"
+  },
+  {
+    "latin": "stō stāre stetī statum",
+    "english": "stand",
+    "audio": "audio/thousand-terms/st_st_re_stet_statum.wav"
+  },
+  {
+    "latin": "studeō -ēre -uī",
+    "english": "be eager, be zealous, care for (+ dat.)",
+    "audio": "audio/thousand-terms/stude_-_re_-u_.wav"
+  },
+  {
+    "latin": "studium -ī n.",
+    "english": "eagerness, zeal",
+    "audio": "audio/thousand-terms/studium_-_n_.wav"
+  },
+  {
+    "latin": "sub",
+    "english": "under, close to (+acc. or abl.)",
+    "audio": "audio/thousand-terms/sub.wav"
+  },
+  {
+    "latin": "subeō -īre -iī -itum",
+    "english": "go under; endure",
+    "audio": "audio/thousand-terms/sube_-_re_-i_-itum.wav"
+  },
+  {
+    "latin": "subitō",
+    "english": "suddenly, unexpectedly",
+    "audio": "audio/thousand-terms/subit_.wav"
+  },
+  {
+    "latin": "sui sibi sē/sēsē",
+    "english": "him- her- itself, themselves",
+    "audio": "audio/thousand-terms/sui_sibi_s_s_s_.wav"
+  },
+  {
+    "latin": "sum esse fuī",
+    "english": "be, exist",
+    "audio": "audio/thousand-terms/sum_esse_fu_.wav"
+  },
+  {
+    "latin": "summus -a -um",
+    "english": "highest, farthest, last",
+    "audio": "audio/thousand-terms/summus_-a_-um.wav"
+  },
+  {
+    "latin": "sūmō sūmere sūmpsī sūmptum",
+    "english": "take up",
+    "audio": "audio/thousand-terms/s_m_s_mere_s_mps_s_mptum.wav"
+  },
+  {
+    "latin": "super",
+    "english": "over (adv. and prep. +acc.)",
+    "audio": "audio/thousand-terms/super.wav"
+  },
+  {
+    "latin": "superbus -a -um",
+    "english": "overbearing, proud, haughty",
+    "audio": "audio/thousand-terms/superbus_-a_-um.wav"
+  },
+  {
+    "latin": "superō -āre",
+    "english": "overcome, surpass, defeat",
+    "audio": "audio/thousand-terms/super_-_re.wav"
+  },
+  {
+    "latin": "supersum -esse -fuī",
+    "english": "remain, survive; be superfluous (to)",
+    "audio": "audio/thousand-terms/supersum_-esse_-fu_.wav"
+  },
+  {
+    "latin": "superus -a -um",
+    "english": "situated above, upper;",
+    "audio": "audio/thousand-terms/superus_-a_-um.wav"
+  },
+  {
+    "latin": "superī -ōrum m. pl.",
+    "english": "those above, i.e. the gods",
+    "audio": "audio/thousand-terms/super_-_rum_m_pl_.wav"
+  },
+  {
+    "latin": "supplicium -ī n.",
+    "english": "punishment, penalty",
+    "audio": "audio/thousand-terms/supplicium_-_n_.wav"
+  },
+  {
+    "latin": "suprā",
+    "english": "above, beyond (adv. and prep. +acc.)",
+    "audio": "audio/thousand-terms/supr_.wav"
+  },
+  {
+    "latin": "surgō surgere surrēxī surrēctum",
+    "english": "rise",
+    "audio": "audio/thousand-terms/surg_surgere_surr_x_surr_ctum.wav"
+  },
+  {
+    "latin": "suscipio -cipere -cēpī ceptum",
+    "english": "take up",
+    "audio": "audio/thousand-terms/suscipio_-cipere_-c_p_ceptum.wav"
+  },
+  {
+    "latin": "sustineō sustinēre sustinuī sustentum",
+    "english": "hold up, sustain",
+    "audio": "audio/thousand-terms/sustine_sustin_re_sustinu_sustentum.wav"
+  },
+  {
+    "latin": "suus -a -um",
+    "english": "his own, her own, its own",
+    "audio": "audio/thousand-terms/suus_-a_-um.wav"
+  },
+  {
+    "latin": "taceō -ēre -uī -itum",
+    "english": "be silent; tacitus -a -um, silent",
+    "audio": "audio/thousand-terms/tace_-_re_-u_-itum.wav"
+  },
+  {
+    "latin": "tālis tāle",
+    "english": "such",
+    "audio": "audio/thousand-terms/t_lis_t_le.wav"
+  },
+  {
+    "latin": "tam",
+    "english": "so",
+    "audio": "audio/thousand-terms/tam.wav"
+  },
+  {
+    "latin": "tamen",
+    "english": "nevertheless, still",
+    "audio": "audio/thousand-terms/tamen.wav"
+  },
+  {
+    "latin": "tamquam",
+    "english": "so as, just as",
+    "audio": "audio/thousand-terms/tamquam.wav"
+  },
+  {
+    "latin": "tandem",
+    "english": "finally",
+    "audio": "audio/thousand-terms/tandem.wav"
+  },
+  {
+    "latin": "tangō tangere tetigī tāctum",
+    "english": "touch",
+    "audio": "audio/thousand-terms/tang_tangere_tetig_t_ctum.wav"
+  },
+  {
+    "latin": "tantus -a -um",
+    "english": "so great, so much;",
+    "audio": "audio/thousand-terms/tantus_-a_-um.wav"
+  },
+  {
+    "latin": "tantum",
+    "english": "only",
+    "audio": "audio/thousand-terms/tantum.wav"
+  },
+  {
+    "latin": "tardus -a -um",
+    "english": "slow, sluggish, lingering",
+    "audio": "audio/thousand-terms/tardus_-a_-um.wav"
+  },
+  {
+    "latin": "tēctum -ī n.",
+    "english": "roof; building, house",
+    "audio": "audio/thousand-terms/t_ctum_-_n_.wav"
+  },
+  {
+    "latin": "tegō tegere tēxī tēctum",
+    "english": "cover, conceal",
+    "audio": "audio/thousand-terms/teg_tegere_t_x_t_ctum.wav"
+  },
+  {
+    "latin": "tellus tellūris n.",
+    "english": "earth",
+    "audio": "audio/thousand-terms/tellus_tell_ris_n_.wav"
+  },
+  {
+    "latin": "tēlum -ī n.",
+    "english": "missile, weapon, spear",
+    "audio": "audio/thousand-terms/t_lum_-_n_.wav"
+  },
+  {
+    "latin": "tempestas -tātis f.",
+    "english": "period of time, season; bad weather, storm",
+    "audio": "audio/thousand-terms/tempestas_-t_tis_f_.wav"
+  },
+  {
+    "latin": "templum -ī n.",
+    "english": "consecrated ground; temple",
+    "audio": "audio/thousand-terms/templum_-_n_.wav"
+  },
+  {
+    "latin": "tempus -oris n.",
+    "english": "time",
+    "audio": "audio/thousand-terms/tempus_-oris_n_.wav"
+  },
+  {
+    "latin": "tendō tendere tetendī tentum",
+    "english": "stretch, extend, direct (one's steps or course)",
+    "audio": "audio/thousand-terms/tend_tendere_tetend_tentum.wav"
+  },
+  {
+    "latin": "tenebrae -brārum f. pl.",
+    "english": "darkness, the shadows",
+    "audio": "audio/thousand-terms/tenebrae_-br_rum_f_pl_.wav"
+  },
+  {
+    "latin": "teneō -ēre -uī tentum",
+    "english": "hold",
+    "audio": "audio/thousand-terms/tene_-_re_-u_tentum.wav"
+  },
+  {
+    "latin": "tener -era -erum",
+    "english": "tender",
+    "audio": "audio/thousand-terms/tener_-era_-erum.wav"
+  },
+  {
+    "latin": "temptō -āre",
+    "english": "try, test",
+    "audio": "audio/thousand-terms/tempt_-_re.wav"
+  },
+  {
+    "latin": "tergum -ī n.",
+    "english": "back, rear;",
+    "audio": "audio/thousand-terms/tergum_-_n_.wav"
+  },
+  {
+    "latin": "ā tergō",
+    "english": "from the rear",
+    "audio": "audio/thousand-terms/_terg_.wav"
+  },
+  {
+    "latin": "terra -ae f.",
+    "english": "land",
+    "audio": "audio/thousand-terms/terra_-ae_f_.wav"
+  },
+  {
+    "latin": "terreō terrēre terruī territum",
+    "english": "terrify, frighten",
+    "audio": "audio/thousand-terms/terre_terr_re_terru_territum.wav"
+  },
+  {
+    "latin": "tertius -a -um",
+    "english": "third",
+    "audio": "audio/thousand-terms/tertius_-a_-um.wav"
+  },
+  {
+    "latin": "testis -is m.",
+    "english": "witness",
+    "audio": "audio/thousand-terms/testis_-is_m_.wav"
+  },
+  {
+    "latin": "timeō -ēre -uī",
+    "english": "to fear, to dread",
+    "audio": "audio/thousand-terms/time_-_re_-u_.wav"
+  },
+  {
+    "latin": "timor -ōris m.",
+    "english": "fear",
+    "audio": "audio/thousand-terms/timor_-_ris_m_.wav"
+  },
+  {
+    "latin": "tollō tollere sustulī sublātum",
+    "english": "raise up, destroy",
+    "audio": "audio/thousand-terms/toll_tollere_sustul_subl_tum.wav"
+  },
+  {
+    "latin": "tot",
+    "english": "so many",
+    "audio": "audio/thousand-terms/tot.wav"
+  },
+  {
+    "latin": "tōtus -a -um",
+    "english": "whole, entire",
+    "audio": "audio/thousand-terms/t_tus_-a_-um.wav"
+  },
+  {
+    "latin": "trādō -dere -didī -ditum",
+    "english": "hand over, yield",
+    "audio": "audio/thousand-terms/tr_d_-dere_-did_-ditum.wav"
+  },
+  {
+    "latin": "trahō -trahere trāxī trāctum",
+    "english": "drag, draw",
+    "audio": "audio/thousand-terms/trah_-trahere_tr_x_tr_ctum.wav"
+  },
+  {
+    "latin": "trānseō -īre -iī -itum",
+    "english": "go across",
+    "audio": "audio/thousand-terms/tr_nse_-_re_-i_-itum.wav"
+  },
+  {
+    "latin": "trēs tria",
+    "english": "three",
+    "audio": "audio/thousand-terms/tr_s_tria.wav"
+  },
+  {
+    "latin": "tribūnus -ī m.",
+    "english": "tribune, title of various Roman officials, as mīlitum, plēbis, aerāriī",
+    "audio": "audio/thousand-terms/trib_nus_-_m_.wav"
+  },
+  {
+    "latin": "trīstis -e",
+    "english": "sad, solemn, grim",
+    "audio": "audio/thousand-terms/tr_stis_-e.wav"
+  },
+  {
+    "latin": "tū tuī tibi tē",
+    "english": "you (sing.)",
+    "audio": "audio/thousand-terms/t_tu_tibi_t_.wav"
+  },
+  {
+    "latin": "tum or tunc",
+    "english": "then",
+    "audio": "audio/thousand-terms/tum_or_tunc.wav"
+  },
+  {
+    "latin": "turba -ae f.",
+    "english": "crowd, uproar",
+    "audio": "audio/thousand-terms/turba_-ae_f_.wav"
+  },
+  {
+    "latin": "turbō -āre",
+    "english": "disturb, confuse",
+    "audio": "audio/thousand-terms/turb_-_re.wav"
+  },
+  {
+    "latin": "turpis -e",
+    "english": "ugly, unsightly; disgraceful",
+    "audio": "audio/thousand-terms/turpis_-e.wav"
+  },
+  {
+    "latin": "tūtus -a -um",
+    "english": "safe, protected",
+    "audio": "audio/thousand-terms/t_tus_-a_-um.wav"
+  },
+  {
+    "latin": "tuus -a -um",
+    "english": "your",
+    "audio": "audio/thousand-terms/tuus_-a_-um.wav"
+  },
+  {
+    "latin": "ubi",
+    "english": "where, when",
+    "audio": "audio/thousand-terms/ubi.wav"
+  },
+  {
+    "latin": "ūllus -a -um",
+    "english": "any, anyone",
+    "audio": "audio/thousand-terms/_llus_-a_-um.wav"
+  },
+  {
+    "latin": "ultimus -a -um",
+    "english": "farthest, final, last, ultimate",
+    "audio": "audio/thousand-terms/ultimus_-a_-um.wav"
+  },
+  {
+    "latin": "ultrā",
+    "english": "beyond, further (adv. and prep. + acc.)",
+    "audio": "audio/thousand-terms/ultr_.wav"
+  },
+  {
+    "latin": "umbra -ae f.",
+    "english": "shade, shadow",
+    "audio": "audio/thousand-terms/umbra_-ae_f_.wav"
+  },
+  {
+    "latin": "umquam",
+    "english": "ever",
+    "audio": "audio/thousand-terms/umquam.wav"
+  },
+  {
+    "latin": "unda -ae f.",
+    "english": "wave, flowing water, water",
+    "audio": "audio/thousand-terms/unda_-ae_f_.wav"
+  },
+  {
+    "latin": "unde",
+    "english": "from where",
+    "audio": "audio/thousand-terms/unde.wav"
+  },
+  {
+    "latin": "undique",
+    "english": "from all sides, on all sides",
+    "audio": "audio/thousand-terms/undique.wav"
+  },
+  {
+    "latin": "ūnus -a -um",
+    "english": "one",
+    "audio": "audio/thousand-terms/_nus_-a_-um.wav"
+  },
+  {
+    "latin": "urbs urbis f.",
+    "english": "city",
+    "audio": "audio/thousand-terms/urbs_urbis_f_.wav"
+  },
+  {
+    "latin": "ūsque",
+    "english": "up to; continuously",
+    "audio": "audio/thousand-terms/_sque.wav"
+  },
+  {
+    "latin": "ūsus -ūs m.",
+    "english": "use, experience",
+    "audio": "audio/thousand-terms/_sus_-_s_m_.wav"
+  },
+  {
+    "latin": "ut, utī",
+    "english": "as (+ indic.); so that, with the result that (+ subj.)",
+    "audio": "audio/thousand-terms/ut_ut_.wav"
+  },
+  {
+    "latin": "uter- utra- utrumque",
+    "english": "each of two",
+    "audio": "audio/thousand-terms/uter-_utra-_utrumque.wav"
+  },
+  {
+    "latin": "ūtilis -e",
+    "english": "useful",
+    "audio": "audio/thousand-terms/_tilis_-e.wav"
+  },
+  {
+    "latin": "ūtor ūtī ūsus sum",
+    "english": "use, consume, employ (+ abl.)",
+    "audio": "audio/thousand-terms/_tor_t_sus_sum.wav"
+  },
+  {
+    "latin": "utrum",
+    "english": "whether;",
+    "audio": "audio/thousand-terms/utrum.wav"
+  },
+  {
+    "latin": "utrum . . . an",
+    "english": "whether . . . or",
+    "audio": "audio/thousand-terms/utrum_an.wav"
+  },
+  {
+    "latin": "uxor uxōris f.",
+    "english": "wife",
+    "audio": "audio/thousand-terms/uxor_ux_ris_f_.wav"
+  },
+  {
+    "latin": "vacō vacāre",
+    "english": "be empty, open, unoccupied",
+    "audio": "audio/thousand-terms/vac_vac_re.wav"
+  },
+  {
+    "latin": "vacuus -a -um",
+    "english": "empty",
+    "audio": "audio/thousand-terms/vacuus_-a_-um.wav"
+  },
+  {
+    "latin": "vagus -a -um",
+    "english": "wandering, shifting",
+    "audio": "audio/thousand-terms/vagus_-a_-um.wav"
+  },
+  {
+    "latin": "valeō valēre valuī",
+    "english": "be strong, excel, be valid, prevail;",
+    "audio": "audio/thousand-terms/vale_val_re_valu_.wav"
+  },
+  {
+    "latin": "valē",
+    "english": "farewell!",
+    "audio": "audio/thousand-terms/val_.wav"
+  },
+  {
+    "latin": "validus -a -um",
+    "english": "strong",
+    "audio": "audio/thousand-terms/validus_-a_-um.wav"
+  },
+  {
+    "latin": "vanus -a -um",
+    "english": "empty; false, deceitful",
+    "audio": "audio/thousand-terms/vanus_-a_-um.wav"
+  },
+  {
+    "latin": "varius -a -um",
+    "english": "changing, varied, various",
+    "audio": "audio/thousand-terms/varius_-a_-um.wav"
+  },
+  {
+    "latin": "vātēs -is m.",
+    "english": "poet, bard",
+    "audio": "audio/thousand-terms/v_t_s_-is_m_.wav"
+  },
+  {
+    "latin": "ve",
+    "english": "or",
+    "audio": "audio/thousand-terms/ve.wav"
+  },
+  {
+    "latin": "vehō -ere vexī vectum",
+    "english": "carry; vehor, travel, ride",
+    "audio": "audio/thousand-terms/veh_-ere_vex_vectum.wav"
+  },
+  {
+    "latin": "vel",
+    "english": "or else, or; even;",
+    "audio": "audio/thousand-terms/vel.wav"
+  },
+  {
+    "latin": "vel . . . vel",
+    "english": "either... or",
+    "audio": "audio/thousand-terms/vel_vel.wav"
+  },
+  {
+    "latin": "velut",
+    "english": "even as, just as",
+    "audio": "audio/thousand-terms/velut.wav"
+  },
+  {
+    "latin": "veniō venīre vēnī ventum",
+    "english": "come",
+    "audio": "audio/thousand-terms/veni_ven_re_v_n_ventum.wav"
+  },
+  {
+    "latin": "ventus -ī m.",
+    "english": "wind",
+    "audio": "audio/thousand-terms/ventus_-_m_.wav"
+  },
+  {
+    "latin": "verbum -ī n.",
+    "english": "word",
+    "audio": "audio/thousand-terms/verbum_-_n_.wav"
+  },
+  {
+    "latin": "vereor verērī veritus sum",
+    "english": "fear, stand in awe of",
+    "audio": "audio/thousand-terms/vereor_ver_r_veritus_sum.wav"
+  },
+  {
+    "latin": "vērō",
+    "english": "in fact, certainly, without doubt",
+    "audio": "audio/thousand-terms/v_r_.wav"
+  },
+  {
+    "latin": "vertō vertere vertī versum",
+    "english": "turn",
+    "audio": "audio/thousand-terms/vert_vertere_vert_versum.wav"
+  },
+  {
+    "latin": "vērus -a -um",
+    "english": "true; vērē, truly",
+    "audio": "audio/thousand-terms/v_rus_-a_-um.wav"
+  },
+  {
+    "latin": "vester vestra vestrum",
+    "english": "your",
+    "audio": "audio/thousand-terms/vester_vestra_vestrum.wav"
+  },
+  {
+    "latin": "vēstīgium -ī n.",
+    "english": "footstep, footprint, track",
+    "audio": "audio/thousand-terms/v_st_gium_-_n_.wav"
+  },
+  {
+    "latin": "vestis -is f.",
+    "english": "garment, robe, clothing",
+    "audio": "audio/thousand-terms/vestis_-is_f_.wav"
+  },
+  {
+    "latin": "vetō -āre vetuī vetītum",
+    "english": "forbid",
+    "audio": "audio/thousand-terms/vet_-_re_vetu_vet_tum.wav"
+  },
+  {
+    "latin": "vetus veteris",
+    "english": "old",
+    "audio": "audio/thousand-terms/vetus_veteris.wav"
+  },
+  {
+    "latin": "via -ae f.",
+    "english": "way, street",
+    "audio": "audio/thousand-terms/via_-ae_f_.wav"
+  },
+  {
+    "latin": "vīcīnus -a -um",
+    "english": "neighboring, near",
+    "audio": "audio/thousand-terms/v_c_nus_-a_-um.wav"
+  },
+  {
+    "latin": "victor -ōris m.",
+    "english": "conqueror",
+    "audio": "audio/thousand-terms/victor_-_ris_m_.wav"
+  },
+  {
+    "latin": "victōria -ae f.",
+    "english": "victory",
+    "audio": "audio/thousand-terms/vict_ria_-ae_f_.wav"
+  },
+  {
+    "latin": "videō vidēre vīdī vīsum",
+    "english": "see",
+    "audio": "audio/thousand-terms/vide_vid_re_v_d_v_sum.wav"
+  },
+  {
+    "latin": "vincō vincere vīcī victum",
+    "english": "conquer",
+    "audio": "audio/thousand-terms/vinc_vincere_v_c_victum.wav"
+  },
+  {
+    "latin": "vinculum -ī n.",
+    "english": "bond, fetter, tie",
+    "audio": "audio/thousand-terms/vinculum_-_n_.wav"
+  },
+  {
+    "latin": "vīnum -ī n.",
+    "english": "vine, wine",
+    "audio": "audio/thousand-terms/v_num_-_n_.wav"
+  },
+  {
+    "latin": "vir virī m.",
+    "english": "man",
+    "audio": "audio/thousand-terms/vir_vir_m_.wav"
+  },
+  {
+    "latin": "virgō -inis f.",
+    "english": "maiden, virgin, girl",
+    "audio": "audio/thousand-terms/virg_-inis_f_.wav"
+  },
+  {
+    "latin": "virtūs -ūtis f.",
+    "english": "valor, manliness, virtue",
+    "audio": "audio/thousand-terms/virt_s_-_tis_f_.wav"
+  },
+  {
+    "latin": "vīs f.",
+    "english": "force; (acc.) vim, (abl.) vī; (pl.) vīrēs, strength",
+    "audio": "audio/thousand-terms/v_s_f_.wav"
+  },
+  {
+    "latin": "vīta -ae f.",
+    "english": "life",
+    "audio": "audio/thousand-terms/v_ta_-ae_f_.wav"
+  },
+  {
+    "latin": "vitium -ī n.",
+    "english": "flaw, fault, crime",
+    "audio": "audio/thousand-terms/vitium_-_n_.wav"
+  },
+  {
+    "latin": "vītō -āre",
+    "english": "avoid, shun",
+    "audio": "audio/thousand-terms/v_t_-_re.wav"
+  },
+  {
+    "latin": "vīvō vīvere vīxī victum",
+    "english": "live",
+    "audio": "audio/thousand-terms/v_v_v_vere_v_x_victum.wav"
+  },
+  {
+    "latin": "vix",
+    "english": "scarcely",
+    "audio": "audio/thousand-terms/vix.wav"
+  },
+  {
+    "latin": "vocō -āre",
+    "english": "call",
+    "audio": "audio/thousand-terms/voc_-_re.wav"
+  },
+  {
+    "latin": "volō velle voluī",
+    "english": "wish, be willing",
+    "audio": "audio/thousand-terms/vol_velle_volu_.wav"
+  },
+  {
+    "latin": "volucer -cris -cre",
+    "english": "flying;",
+    "audio": "audio/thousand-terms/volucer_-cris_-cre.wav"
+  },
+  {
+    "latin": "volucris -is m./f.",
+    "english": "bird",
+    "audio": "audio/thousand-terms/volucris_-is_m_f_.wav"
+  },
+  {
+    "latin": "voluntās -ātis f.",
+    "english": "wish, desire",
+    "audio": "audio/thousand-terms/volunt_s_-_tis_f_.wav"
+  },
+  {
+    "latin": "voluptās -ātis f.",
+    "english": "pleasure, enjoyment",
+    "audio": "audio/thousand-terms/volupt_s_-_tis_f_.wav"
+  },
+  {
+    "latin": "vōs",
+    "english": "you (pl.); (gen.) vestrum/vestrī, (dat./abl.) vōbīs, (acc.) vōs",
+    "audio": "audio/thousand-terms/v_s.wav"
+  },
+  {
+    "latin": "votum -ī n.",
+    "english": "solemn promise, vow; hope",
+    "audio": "audio/thousand-terms/votum_-_n_.wav"
+  },
+  {
+    "latin": "vōx vōcis f.",
+    "english": "voice, utterance",
+    "audio": "audio/thousand-terms/v_x_v_cis_f_.wav"
+  },
+  {
+    "latin": "vulgus -ī n. and m.",
+    "english": "the common people; vulgō, commonly",
+    "audio": "audio/thousand-terms/vulgus_-_n_and_m_.wav"
+  },
+  {
+    "latin": "vulnus -eris n.",
+    "english": "wound",
+    "audio": "audio/thousand-terms/vulnus_-eris_n_.wav"
+  },
+  {
+    "latin": "vultus -ūs m.",
+    "english": "look, expression, face",
+    "audio": "audio/thousand-terms/vultus_-_s_m_.wav"
+  }
+]

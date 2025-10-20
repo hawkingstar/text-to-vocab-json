@@ -1,0 +1,87 @@
+[
+  {
+    "latin": "insula",
+    "english": "apartment building",
+    "audio": "audio/insula-romana/insula.wav"
+  },
+  {
+    "latin": "tota",
+    "english": "whole",
+    "audio": "audio/insula-romana/tota.wav"
+  },
+  {
+    "latin": "conclavi",
+    "english": "room",
+    "audio": "audio/insula-romana/conclavi.wav"
+  },
+  {
+    "latin": "dormivit",
+    "english": "s/he slept",
+    "audio": "audio/insula-romana/dormivit.wav"
+  },
+  {
+    "latin": "habitavit",
+    "english": "s/he dwelled",
+    "audio": "audio/insula-romana/habitavit.wav"
+  },
+  {
+    "latin": "erat",
+    "english": "was",
+    "audio": "audio/insula-romana/erat.wav"
+  },
+  {
+    "latin": "publica",
+    "english": "public",
+    "audio": "audio/insula-romana/publica.wav"
+  },
+  {
+    "latin": "thermopolium",
+    "english": "food shop",
+    "audio": "audio/insula-romana/thermopolium.wav"
+  },
+  {
+    "latin": "cibum",
+    "english": "food",
+    "audio": "audio/insula-romana/cibum.wav"
+  },
+  {
+    "latin": "habitaverunt",
+    "english": "they dwelled",
+    "audio": "audio/insula-romana/habitaverunt.wav"
+  },
+  {
+    "latin": "habitare",
+    "english": "to dwell",
+    "audio": "audio/insula-romana/habitare.wav"
+  },
+  {
+    "latin": "aqua",
+    "english": "water",
+    "audio": "audio/insula-romana/aqua.wav"
+  },
+  {
+    "latin": "discetis",
+    "english": "y'all learn",
+    "audio": "audio/insula-romana/discetis.wav"
+  },
+  {
+    "latin": "antiqua",
+    "english": "ancient",
+    "audio": "audio/insula-romana/antiqua.wav"
+  },
+  {
+    "latin": "fecit",
+    "english": "s/he made",
+    "audio": "audio/insula-romana/fecit.wav"
+  },
+  {
+    "latin": "multi homines",
+    "english": "many people",
+    "audio": "audio/insula-romana/multi_homines.wav"
+  },
+  {
+    "latin": "erat difficile",
+    "english": "it was difficult",
+    "audio": "audio/insula-romana/erat_difficile.wav"
+  }
+]

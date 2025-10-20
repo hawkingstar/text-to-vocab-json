@@ -1,0 +1,62 @@
+[
+  {
+    "latin": "ad infinitum",
+    "english": "without end or limit",
+    "audio": "audio/daily-phrases/ad_infinitum.wav"
+  },
+  {
+    "latin": "ad nauseum",
+    "english": "to a sickening or excessive degree",
+    "audio": "audio/daily-phrases/ad_nauseum.wav"
+  },
+  {
+    "latin": "ante meridiem",
+    "english": "being before noon",
+    "audio": "audio/daily-phrases/ante_meridiem.wav"
+  },
+  {
+    "latin": "carpe diem",
+    "english": "enjoyment of the day without thinking of the future",
+    "audio": "audio/daily-phrases/carpe_diem.wav"
+  },
+  {
+    "latin": "cave canem",
+    "english": "beware the dog",
+    "audio": "audio/daily-phrases/cave_canem.wav"
+  },
+  {
+    "latin": "caveat emptor",
+    "english": "let the buyer beware",
+    "audio": "audio/daily-phrases/caveat_emptor.wav"
+  },
+  {
+    "latin": "dum spiro, spero",
+    "english": "While I breathe, I hope.",
+    "audio": "audio/daily-phrases/dum_spiro_spero.wav"
+  },
+  {
+    "latin": "e pluribus unum",
+    "english": "out of many, one",
+    "audio": "audio/daily-phrases/e_pluribus_unum.wav"
+  },
+  {
+    "latin": "ergo",
+    "english": "therefore",
+    "audio": "audio/daily-phrases/ergo.wav"
+  },
+  {
+    "latin": "exempli gratia",
+    "english": "e.g., for example",
+    "audio": "audio/daily-phrases/exempli_gratia.wav"
+  },
+  {
+    "latin": "veni vidi vici",
+    "english": "I came, I saw, I conquered",
+    "audio": "audio/daily-phrases/veni_vidi_vici.wav"
+  },
+  {
+    "latin": "canis est in horto",
+    "english": "the dog is in the garden",
+    "audio": "audio/daily-phrases/canis_est_in_horto.wav"
+  }
+]
