@@ -48,5 +48,15 @@
     "latin": "exempli gratia",
     "english": "e.g., for example",
     "audio": "https:totallyareallinktotheaudio"
+  }, 
+  {
+    "latin": "veni vidi vici",
+    "english": "I came, I saw, I conquered",
+    "audio": "https:totallyareallinktotheaudio"
+  },
+  {
+    "latin": "canis est in horto",
+    "english": "the dog is in the garden",
+    "audio": "https:totallyareallinktotheaudio"
   }
 ]
